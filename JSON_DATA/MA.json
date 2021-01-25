@@ -1,0 +1,524 @@
+[
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-AGD",
+        "subdivision_name": "Agadir-Ida-Ou-Tanane",
+        "abbreviation": "AGD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-HAO",
+        "subdivision_name": "Al Haouz",
+        "abbreviation": "HAO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-HOC",
+        "subdivision_name": "Al Hoceïma",
+        "abbreviation": "HOC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-AOU",
+        "subdivision_name": "Aousserd (EH)",
+        "abbreviation": "AOU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-ASZ",
+        "subdivision_name": "Assa-Zag (EH-partial)",
+        "abbreviation": "ASZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-AZI",
+        "subdivision_name": "Azilal",
+        "abbreviation": "AZI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-BES",
+        "subdivision_name": "Benslimane",
+        "abbreviation": "BES"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-BER",
+        "subdivision_name": "Berkane",
+        "abbreviation": "BER"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-BRR",
+        "subdivision_name": "Berrechid",
+        "abbreviation": "BRR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-BOD",
+        "subdivision_name": "Boujdour (EH)",
+        "abbreviation": "BOD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-BOM",
+        "subdivision_name": "Boulemane",
+        "abbreviation": "BOM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-BEM",
+        "subdivision_name": "Béni Mellal",
+        "abbreviation": "BEM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-05",
+        "subdivision_name": "Béni Mellal-Khénifra",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-CAS",
+        "subdivision_name": "Casablanca",
+        "abbreviation": "CAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-06",
+        "subdivision_name": "Casablanca-Settat",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-CHE",
+        "subdivision_name": "Chefchaouen",
+        "abbreviation": "CHE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-CHI",
+        "subdivision_name": "Chichaoua",
+        "abbreviation": "CHI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-CHT",
+        "subdivision_name": "Chtouka-Ait Baha",
+        "abbreviation": "CHT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-12",
+        "subdivision_name": "Dakhla-Oued Ed-Dahab (EH)",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-DRI",
+        "subdivision_name": "Driouch",
+        "abbreviation": "DRI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-08",
+        "subdivision_name": "Drâa-Tafilalet",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-HAJ",
+        "subdivision_name": "El Hajeb",
+        "abbreviation": "HAJ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-JDI",
+        "subdivision_name": "El Jadida",
+        "abbreviation": "JDI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-KES",
+        "subdivision_name": "El Kelâa des Sraghna",
+        "abbreviation": "KES"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-ERR",
+        "subdivision_name": "Errachidia",
+        "abbreviation": "ERR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-ESM",
+        "subdivision_name": "Es-Semara (EH-partial)",
+        "abbreviation": "ESM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-ESI",
+        "subdivision_name": "Essaouira",
+        "abbreviation": "ESI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-FAH",
+        "subdivision_name": "Fahs-Anjra",
+        "abbreviation": "FAH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-FIG",
+        "subdivision_name": "Figuig",
+        "abbreviation": "FIG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-FQH",
+        "subdivision_name": "Fquih Ben Salah",
+        "abbreviation": "FQH"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-FES",
+        "subdivision_name": "Fès",
+        "abbreviation": "FES"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-03",
+        "subdivision_name": "Fès-Meknès",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-GUE",
+        "subdivision_name": "Guelmim",
+        "abbreviation": "GUE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-10",
+        "subdivision_name": "Guelmim-Oued Noun (EH-partial)",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-GUF",
+        "subdivision_name": "Guercif",
+        "abbreviation": "GUF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-IFR",
+        "subdivision_name": "Ifrane",
+        "abbreviation": "IFR"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-INE",
+        "subdivision_name": "Inezgane-Ait Melloul",
+        "abbreviation": "INE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-JRA",
+        "subdivision_name": "Jerada",
+        "abbreviation": "JRA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-KHO",
+        "subdivision_name": "Khouribga",
+        "abbreviation": "KHO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-KHE",
+        "subdivision_name": "Khémisset",
+        "abbreviation": "KHE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-KHN",
+        "subdivision_name": "Khénifra",
+        "abbreviation": "KHN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-KEN",
+        "subdivision_name": "Kénitra",
+        "abbreviation": "KEN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-02",
+        "subdivision_name": "L'Oriental",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-LAR",
+        "subdivision_name": "Larache",
+        "abbreviation": "LAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-LAA",
+        "subdivision_name": "Laâyoune (EH)",
+        "abbreviation": "LAA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-11",
+        "subdivision_name": "Laâyoune-Sakia El Hamra (EH-partial)",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-MAR",
+        "subdivision_name": "Marrakech",
+        "abbreviation": "MAR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-07",
+        "subdivision_name": "Marrakech-Safi",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-MEK",
+        "subdivision_name": "Meknès",
+        "abbreviation": "MEK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-MID",
+        "subdivision_name": "Midelt",
+        "abbreviation": "MID"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-MOH",
+        "subdivision_name": "Mohammadia",
+        "abbreviation": "MOH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-MOU",
+        "subdivision_name": "Moulay Yacoub",
+        "abbreviation": "MOU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-MED",
+        "subdivision_name": "Médiouna",
+        "abbreviation": "MED"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-MDF",
+        "subdivision_name": "M’diq-Fnideq",
+        "abbreviation": "MDF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-NAD",
+        "subdivision_name": "Nador",
+        "abbreviation": "NAD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-NOU",
+        "subdivision_name": "Nouaceur",
+        "abbreviation": "NOU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-OUA",
+        "subdivision_name": "Ouarzazate",
+        "abbreviation": "OUA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-OUD",
+        "subdivision_name": "Oued Ed-Dahab (EH)",
+        "abbreviation": "OUD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-OUZ",
+        "subdivision_name": "Ouezzane",
+        "abbreviation": "OUZ"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-OUJ",
+        "subdivision_name": "Oujda-Angad",
+        "abbreviation": "OUJ"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-RAB",
+        "subdivision_name": "Rabat",
+        "abbreviation": "RAB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-04",
+        "subdivision_name": "Rabat-Salé-Kénitra",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-REH",
+        "subdivision_name": "Rehamna",
+        "abbreviation": "REH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-SAF",
+        "subdivision_name": "Safi",
+        "abbreviation": "SAF"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-SAL",
+        "subdivision_name": "Salé",
+        "abbreviation": "SAL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-SEF",
+        "subdivision_name": "Sefrou",
+        "abbreviation": "SEF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-SET",
+        "subdivision_name": "Settat",
+        "abbreviation": "SET"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-SIB",
+        "subdivision_name": "Sidi Bennour",
+        "abbreviation": "SIB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-SIF",
+        "subdivision_name": "Sidi Ifni",
+        "abbreviation": "SIF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-SIK",
+        "subdivision_name": "Sidi Kacem",
+        "abbreviation": "SIK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-SIL",
+        "subdivision_name": "Sidi Slimane",
+        "abbreviation": "SIL"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-SKH",
+        "subdivision_name": "Skhirate-Témara",
+        "abbreviation": "SKH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-09",
+        "subdivision_name": "Souss-Massa",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TNT",
+        "subdivision_name": "Tan-Tan (EH-partial)",
+        "abbreviation": "TNT"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "MA-TNG",
+        "subdivision_name": "Tanger-Assilah",
+        "abbreviation": "TNG"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MA-01",
+        "subdivision_name": "Tanger-Tétouan-Al Hoceïma",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TAO",
+        "subdivision_name": "Taounate",
+        "abbreviation": "TAO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TAI",
+        "subdivision_name": "Taourirt",
+        "abbreviation": "TAI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TAF",
+        "subdivision_name": "Tarfaya (EH-partial)",
+        "abbreviation": "TAF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TAR",
+        "subdivision_name": "Taroudannt",
+        "abbreviation": "TAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TAT",
+        "subdivision_name": "Tata",
+        "abbreviation": "TAT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TAZ",
+        "subdivision_name": "Taza",
+        "abbreviation": "TAZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TIN",
+        "subdivision_name": "Tinghir",
+        "abbreviation": "TIN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TIZ",
+        "subdivision_name": "Tiznit",
+        "abbreviation": "TIZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-TET",
+        "subdivision_name": "Tétouan",
+        "abbreviation": "TET"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-YUS",
+        "subdivision_name": "Youssoufia",
+        "abbreviation": "YUS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MA-ZAG",
+        "subdivision_name": "Zagora",
+        "abbreviation": "ZAG"
+    }
+]

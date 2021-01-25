@@ -1,0 +1,194 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-AK",
+        "subdivision_name": "Acklins",
+        "abbreviation": "AK"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-BY",
+        "subdivision_name": "Berry Islands",
+        "abbreviation": "BY"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-BI",
+        "subdivision_name": "Bimini",
+        "abbreviation": "BI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-BP",
+        "subdivision_name": "Black Point",
+        "abbreviation": "BP"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-CI",
+        "subdivision_name": "Cat Island",
+        "abbreviation": "CI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-CO",
+        "subdivision_name": "Central Abaco",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-CS",
+        "subdivision_name": "Central Andros",
+        "abbreviation": "CS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-CE",
+        "subdivision_name": "Central Eleuthera",
+        "abbreviation": "CE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-FP",
+        "subdivision_name": "City of Freeport",
+        "abbreviation": "FP"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-CK",
+        "subdivision_name": "Crooked Island and Long Cay",
+        "abbreviation": "CK"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-EG",
+        "subdivision_name": "East Grand Bahama",
+        "abbreviation": "EG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-EX",
+        "subdivision_name": "Exuma",
+        "abbreviation": "EX"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-GC",
+        "subdivision_name": "Grand Cay",
+        "abbreviation": "GC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-HI",
+        "subdivision_name": "Harbour Island",
+        "abbreviation": "HI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-HT",
+        "subdivision_name": "Hope Town",
+        "abbreviation": "HT"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-IN",
+        "subdivision_name": "Inagua",
+        "abbreviation": "IN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-LI",
+        "subdivision_name": "Long Island",
+        "abbreviation": "LI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-MC",
+        "subdivision_name": "Mangrove Cay",
+        "abbreviation": "MC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-MG",
+        "subdivision_name": "Mayaguana",
+        "abbreviation": "MG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-MI",
+        "subdivision_name": "Moore's Island",
+        "abbreviation": "MI"
+    },
+    {
+        "subdivision_category": "island",
+        "iso_3166_2_code": "BS-NP",
+        "subdivision_name": "New Providence",
+        "abbreviation": "NP"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-NO",
+        "subdivision_name": "North Abaco",
+        "abbreviation": "NO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-NS",
+        "subdivision_name": "North Andros",
+        "abbreviation": "NS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-NE",
+        "subdivision_name": "North Eleuthera",
+        "abbreviation": "NE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-RI",
+        "subdivision_name": "Ragged Island",
+        "abbreviation": "RI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-RC",
+        "subdivision_name": "Rum Cay",
+        "abbreviation": "RC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-SS",
+        "subdivision_name": "San Salvador",
+        "abbreviation": "SS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-SO",
+        "subdivision_name": "South Abaco",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-SA",
+        "subdivision_name": "South Andros",
+        "abbreviation": "SA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-SE",
+        "subdivision_name": "South Eleuthera",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-SW",
+        "subdivision_name": "Spanish Wells",
+        "abbreviation": "SW"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BS-WG",
+        "subdivision_name": "West Grand Bahama",
+        "abbreviation": "WG"
+    }
+]

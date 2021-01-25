@@ -1,0 +1,32 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DK-84",
+        "subdivision_name": "Hovedstaden",
+        "abbreviation": "84"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DK-82",
+        "subdivision_name": "Midtjylland",
+        "abbreviation": "82"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DK-81",
+        "subdivision_name": "Nordjylland",
+        "abbreviation": "81"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DK-85",
+        "subdivision_name": "Sjælland",
+        "abbreviation": "85"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DK-83",
+        "subdivision_name": "Syddanmark",
+        "abbreviation": "83"
+    }
+]

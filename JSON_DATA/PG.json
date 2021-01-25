@@ -1,0 +1,134 @@
+[
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "PG-NSB",
+        "subdivision_name": "Bougainville",
+        "abbreviation": "NSB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-CPM",
+        "subdivision_name": "Central",
+        "abbreviation": "CPM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-CPK",
+        "subdivision_name": "Chimbu",
+        "abbreviation": "CPK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-EBR",
+        "subdivision_name": "East New Britain",
+        "abbreviation": "EBR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-ESW",
+        "subdivision_name": "East Sepik",
+        "abbreviation": "ESW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-EHG",
+        "subdivision_name": "Eastern Highlands",
+        "abbreviation": "EHG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-EPW",
+        "subdivision_name": "Enga",
+        "abbreviation": "EPW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-GPK",
+        "subdivision_name": "Gulf",
+        "abbreviation": "GPK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-HLA",
+        "subdivision_name": "Hela",
+        "abbreviation": "HLA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-JWK",
+        "subdivision_name": "Jiwaka",
+        "abbreviation": "JWK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-MPM",
+        "subdivision_name": "Madang",
+        "abbreviation": "MPM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-MRL",
+        "subdivision_name": "Manus",
+        "abbreviation": "MRL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-MBA",
+        "subdivision_name": "Milne Bay",
+        "abbreviation": "MBA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-MPL",
+        "subdivision_name": "Morobe",
+        "abbreviation": "MPL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PG-NCD",
+        "subdivision_name": "National Capital District (Port Moresby)",
+        "abbreviation": "NCD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-NIK",
+        "subdivision_name": "New Ireland",
+        "abbreviation": "NIK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-NPP",
+        "subdivision_name": "Northern",
+        "abbreviation": "NPP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-SHM",
+        "subdivision_name": "Southern Highlands",
+        "abbreviation": "SHM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-WBK",
+        "subdivision_name": "West New Britain",
+        "abbreviation": "WBK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-SAN",
+        "subdivision_name": "West Sepik",
+        "abbreviation": "SAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-WPD",
+        "subdivision_name": "Western",
+        "abbreviation": "WPD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PG-WHM",
+        "subdivision_name": "Western Highlands",
+        "abbreviation": "WHM"
+    }
+]

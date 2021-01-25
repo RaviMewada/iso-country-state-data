@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-01",
+        "subdivision_name": "Andrijevica",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-02",
+        "subdivision_name": "Bar",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-03",
+        "subdivision_name": "Berane",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-04",
+        "subdivision_name": "Bijelo Polje",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-05",
+        "subdivision_name": "Budva",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-06",
+        "subdivision_name": "Cetinje",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-07",
+        "subdivision_name": "Danilovgrad",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-22",
+        "subdivision_name": "Gusinje",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-08",
+        "subdivision_name": "Herceg-Novi",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-09",
+        "subdivision_name": "Kolašin",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-10",
+        "subdivision_name": "Kotor",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-11",
+        "subdivision_name": "Mojkovac",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-12",
+        "subdivision_name": "Nikšić",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-23",
+        "subdivision_name": "Petnjica",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-13",
+        "subdivision_name": "Plav",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-14",
+        "subdivision_name": "Pljevlja",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-15",
+        "subdivision_name": "Plužine",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-16",
+        "subdivision_name": "Podgorica",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-17",
+        "subdivision_name": "Rožaje",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-19",
+        "subdivision_name": "Tivat",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-24",
+        "subdivision_name": "Tuzi",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-20",
+        "subdivision_name": "Ulcinj",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-18",
+        "subdivision_name": "Šavnik",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-21",
+        "subdivision_name": "Žabljak",
+        "abbreviation": "21"
+    }
+]

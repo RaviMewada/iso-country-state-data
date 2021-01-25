@@ -1,0 +1,230 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-01",
+        "subdivision_name": "Arusha",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-19",
+        "subdivision_name": "Coast",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-02",
+        "subdivision_name": "Dar es Salaam",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-03",
+        "subdivision_name": "Dodoma",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-27",
+        "subdivision_name": "Geita",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-04",
+        "subdivision_name": "Iringa",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-05",
+        "subdivision_name": "Kagera",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-06",
+        "subdivision_name": "Kaskazini Pemba",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-07",
+        "subdivision_name": "Kaskazini Unguja",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-28",
+        "subdivision_name": "Katavi",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-08",
+        "subdivision_name": "Kigoma",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-09",
+        "subdivision_name": "Kilimanjaro",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-10",
+        "subdivision_name": "Kusini Pemba",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-11",
+        "subdivision_name": "Kusini Unguja",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-12",
+        "subdivision_name": "Lindi",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-26",
+        "subdivision_name": "Manyara",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-13",
+        "subdivision_name": "Mara",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-14",
+        "subdivision_name": "Mbeya",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-15",
+        "subdivision_name": "Mjini Magharibi",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-16",
+        "subdivision_name": "Morogoro",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-17",
+        "subdivision_name": "Mtwara",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-18",
+        "subdivision_name": "Mwanza",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-29",
+        "subdivision_name": "Njombe",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-06",
+        "subdivision_name": "Pemba North",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-10",
+        "subdivision_name": "Pemba South",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-19",
+        "subdivision_name": "Pwani",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-20",
+        "subdivision_name": "Rukwa",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-21",
+        "subdivision_name": "Ruvuma",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-22",
+        "subdivision_name": "Shinyanga",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-30",
+        "subdivision_name": "Simiyu",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-23",
+        "subdivision_name": "Singida",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-31",
+        "subdivision_name": "Songwe",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-31",
+        "subdivision_name": "Songwe",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-24",
+        "subdivision_name": "Tabora",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-25",
+        "subdivision_name": "Tanga",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-07",
+        "subdivision_name": "Zanzibar North",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-11",
+        "subdivision_name": "Zanzibar South",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TZ-15",
+        "subdivision_name": "Zanzibar West",
+        "abbreviation": "15"
+    }
+]

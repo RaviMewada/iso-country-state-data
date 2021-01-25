@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-11",
+        "subdivision_name": "Bouenza",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-BZV",
+        "subdivision_name": "Brazzaville",
+        "abbreviation": "BZV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-8",
+        "subdivision_name": "Cuvette",
+        "abbreviation": "8"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-15",
+        "subdivision_name": "Cuvette-Ouest",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-5",
+        "subdivision_name": "Kouilou",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-7",
+        "subdivision_name": "Likouala",
+        "abbreviation": "7"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-2",
+        "subdivision_name": "Lékoumou",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-9",
+        "subdivision_name": "Niari",
+        "abbreviation": "9"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-14",
+        "subdivision_name": "Plateaux",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-16",
+        "subdivision_name": "Pointe-Noire",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-12",
+        "subdivision_name": "Pool",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CG-13",
+        "subdivision_name": "Sangha",
+        "abbreviation": "13"
+    }
+]

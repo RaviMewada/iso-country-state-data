@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "CI-AB",
+        "subdivision_name": "Abidjan",
+        "abbreviation": "AB"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-BS",
+        "subdivision_name": "Bas-Sassandra",
+        "abbreviation": "BS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-CM",
+        "subdivision_name": "Comoé",
+        "abbreviation": "CM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-DN",
+        "subdivision_name": "Denguélé",
+        "abbreviation": "DN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-GD",
+        "subdivision_name": "Gôh-Djiboua",
+        "abbreviation": "GD"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-LC",
+        "subdivision_name": "Lacs",
+        "abbreviation": "LC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-LG",
+        "subdivision_name": "Lagunes",
+        "abbreviation": "LG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-MG",
+        "subdivision_name": "Montagnes",
+        "abbreviation": "MG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-SM",
+        "subdivision_name": "Sassandra-Marahoué",
+        "abbreviation": "SM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-SV",
+        "subdivision_name": "Savanes",
+        "abbreviation": "SV"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-VB",
+        "subdivision_name": "Vallée du Bandama",
+        "abbreviation": "VB"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-WR",
+        "subdivision_name": "Woroba",
+        "abbreviation": "WR"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "CI-YM",
+        "subdivision_name": "Yamoussoukro",
+        "abbreviation": "YM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CI-ZZ",
+        "subdivision_name": "Zanzan",
+        "abbreviation": "ZZ"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-01",
+        "subdivision_name": "Anse la Raye",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-12",
+        "subdivision_name": "Canaries",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-02",
+        "subdivision_name": "Castries",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-03",
+        "subdivision_name": "Choiseul",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-05",
+        "subdivision_name": "Dennery",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-06",
+        "subdivision_name": "Gros Islet",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-07",
+        "subdivision_name": "Laborie",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-08",
+        "subdivision_name": "Micoud",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-10",
+        "subdivision_name": "Soufrière",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LC-11",
+        "subdivision_name": "Vieux Fort",
+        "abbreviation": "11"
+    }
+]

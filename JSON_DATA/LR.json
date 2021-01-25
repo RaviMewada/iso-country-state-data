@@ -1,0 +1,92 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-BM",
+        "subdivision_name": "Bomi",
+        "abbreviation": "BM"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-BG",
+        "subdivision_name": "Bong",
+        "abbreviation": "BG"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-GP",
+        "subdivision_name": "Gbarpolu",
+        "abbreviation": "GP"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-GB",
+        "subdivision_name": "Grand Bassa",
+        "abbreviation": "GB"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-CM",
+        "subdivision_name": "Grand Cape Mount",
+        "abbreviation": "CM"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-GG",
+        "subdivision_name": "Grand Gedeh",
+        "abbreviation": "GG"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-GK",
+        "subdivision_name": "Grand Kru",
+        "abbreviation": "GK"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-LO",
+        "subdivision_name": "Lofa",
+        "abbreviation": "LO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-MG",
+        "subdivision_name": "Margibi",
+        "abbreviation": "MG"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-MY",
+        "subdivision_name": "Maryland",
+        "abbreviation": "MY"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-MO",
+        "subdivision_name": "Montserrado",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-NI",
+        "subdivision_name": "Nimba",
+        "abbreviation": "NI"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-RI",
+        "subdivision_name": "River Cess",
+        "abbreviation": "RI"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-RG",
+        "subdivision_name": "River Gee",
+        "abbreviation": "RG"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LR-SI",
+        "subdivision_name": "Sinoe",
+        "abbreviation": "SI"
+    }
+]

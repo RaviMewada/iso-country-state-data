@@ -1,0 +1,482 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-AKH",
+        "subdivision_name": "Akrahreppur",
+        "abbreviation": "AKH"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-AKN",
+        "subdivision_name": "Akraneskaupstaður",
+        "abbreviation": "AKN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-AKU",
+        "subdivision_name": "Akureyrarbær",
+        "abbreviation": "AKU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-7",
+        "subdivision_name": "Austurland",
+        "abbreviation": "7"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-BLA",
+        "subdivision_name": "Bláskógabyggð",
+        "abbreviation": "BLA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-BLO",
+        "subdivision_name": "Blönduósbær",
+        "abbreviation": "BLO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-BOL",
+        "subdivision_name": "Bolungarvíkurkaupstaður",
+        "abbreviation": "BOL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-BOG",
+        "subdivision_name": "Borgarbyggð",
+        "abbreviation": "BOG"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-BFJ",
+        "subdivision_name": "Borgarfjarðarhreppur",
+        "abbreviation": "BFJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-DAB",
+        "subdivision_name": "Dalabyggð",
+        "abbreviation": "DAB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-DAV",
+        "subdivision_name": "Dalvíkurbyggð",
+        "abbreviation": "DAV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-DJU",
+        "subdivision_name": "Djúpavogshreppur",
+        "abbreviation": "DJU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-EOM",
+        "subdivision_name": "Eyja- og Miklaholtshreppur",
+        "abbreviation": "EOM"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-EYF",
+        "subdivision_name": "Eyjafjarðarsveit",
+        "abbreviation": "EYF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-FJL",
+        "subdivision_name": "Fjallabyggð",
+        "abbreviation": "FJL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-FJD",
+        "subdivision_name": "Fjarðabyggð",
+        "abbreviation": "FJD"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-FLR",
+        "subdivision_name": "Fljótsdalshreppur",
+        "abbreviation": "FLR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-FLD",
+        "subdivision_name": "Fljótsdalshérað",
+        "abbreviation": "FLD"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-FLA",
+        "subdivision_name": "Flóahreppur",
+        "abbreviation": "FLA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-GAR",
+        "subdivision_name": "Garðabær",
+        "abbreviation": "GAR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-GRN",
+        "subdivision_name": "Grindavíkurbær",
+        "abbreviation": "GRN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-GRU",
+        "subdivision_name": "Grundarfjarðarbær",
+        "abbreviation": "GRU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-GOG",
+        "subdivision_name": "Grímsnes- og Grafningshreppur",
+        "abbreviation": "GOG"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-GRY",
+        "subdivision_name": "Grýtubakkahreppur",
+        "abbreviation": "GRY"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HAF",
+        "subdivision_name": "Hafnarfjarðarkaupstaður",
+        "abbreviation": "HAF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HEL",
+        "subdivision_name": "Helgafellssveit",
+        "abbreviation": "HEL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HRU",
+        "subdivision_name": "Hrunamannahreppur",
+        "abbreviation": "HRU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HVA",
+        "subdivision_name": "Hvalfjarðarsveit",
+        "abbreviation": "HVA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HVE",
+        "subdivision_name": "Hveragerðisbær",
+        "abbreviation": "HVE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-1",
+        "subdivision_name": "Höfuðborgarsvæði",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HRG",
+        "subdivision_name": "Hörgársveit",
+        "abbreviation": "HRG"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HUT",
+        "subdivision_name": "Húnavatnshreppur",
+        "abbreviation": "HUT"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-HUV",
+        "subdivision_name": "Húnaþing vestra",
+        "abbreviation": "HUV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-KAL",
+        "subdivision_name": "Kaldrananeshreppur",
+        "abbreviation": "KAL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-KJO",
+        "subdivision_name": "Kjósarhreppur",
+        "abbreviation": "KJO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-KOP",
+        "subdivision_name": "Kópavogsbær",
+        "abbreviation": "KOP"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-LAN",
+        "subdivision_name": "Langanesbyggð",
+        "abbreviation": "LAN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-MOS",
+        "subdivision_name": "Mosfellsbær",
+        "abbreviation": "MOS"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-MYR",
+        "subdivision_name": "Mýrdalshreppur",
+        "abbreviation": "MYR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-6",
+        "subdivision_name": "Norðurland eystra",
+        "abbreviation": "6"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-5",
+        "subdivision_name": "Norðurland vestra",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-NOR",
+        "subdivision_name": "Norðurþing",
+        "abbreviation": "NOR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-RGE",
+        "subdivision_name": "Rangárþing eystra",
+        "abbreviation": "RGE"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-RGY",
+        "subdivision_name": "Rangárþing ytra",
+        "abbreviation": "RGY"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-RHH",
+        "subdivision_name": "Reykhólahreppur",
+        "abbreviation": "RHH"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-RKN",
+        "subdivision_name": "Reykjanesbær",
+        "abbreviation": "RKN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-RKV",
+        "subdivision_name": "Reykjavíkurborg",
+        "abbreviation": "RKV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SEL",
+        "subdivision_name": "Seltjarnarnesbær",
+        "abbreviation": "SEL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SEY",
+        "subdivision_name": "Seyðisfjarðarkaupstaður",
+        "abbreviation": "SEY"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SKF",
+        "subdivision_name": "Skaftárhreppur",
+        "abbreviation": "SKF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SKG",
+        "subdivision_name": "Skagabyggð",
+        "abbreviation": "SKG"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SOG",
+        "subdivision_name": "Skeiða- og Gnúpverjahreppur",
+        "abbreviation": "SOG"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SKO",
+        "subdivision_name": "Skorradalshreppur",
+        "abbreviation": "SKO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SKU",
+        "subdivision_name": "Skútustaðahreppur",
+        "abbreviation": "SKU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SNF",
+        "subdivision_name": "Snæfellsbær",
+        "abbreviation": "SNF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-STR",
+        "subdivision_name": "Strandabyggð",
+        "abbreviation": "STR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-STY",
+        "subdivision_name": "Stykkishólmsbær",
+        "abbreviation": "STY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-8",
+        "subdivision_name": "Suðurland",
+        "abbreviation": "8"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-2",
+        "subdivision_name": "Suðurnes",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SDN",
+        "subdivision_name": "Suðurnesjabær",
+        "abbreviation": "SDN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SBH",
+        "subdivision_name": "Svalbarðshreppur",
+        "abbreviation": "SBH"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SBT",
+        "subdivision_name": "Svalbarðsstrandarhreppur",
+        "abbreviation": "SBT"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SHF",
+        "subdivision_name": "Sveitarfélagið Hornafjörður",
+        "abbreviation": "SHF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SSF",
+        "subdivision_name": "Sveitarfélagið Skagafjörður",
+        "abbreviation": "SSF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SSS",
+        "subdivision_name": "Sveitarfélagið Skagaströnd",
+        "abbreviation": "SSS"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SVG",
+        "subdivision_name": "Sveitarfélagið Vogar",
+        "abbreviation": "SVG"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SFA",
+        "subdivision_name": "Sveitarfélagið Árborg",
+        "abbreviation": "SFA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SOL",
+        "subdivision_name": "Sveitarfélagið Ölfus",
+        "abbreviation": "SOL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-SDV",
+        "subdivision_name": "Súðavíkurhreppur",
+        "abbreviation": "SDV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-TJO",
+        "subdivision_name": "Tjörneshreppur",
+        "abbreviation": "TJO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-TAL",
+        "subdivision_name": "Tálknafjarðarhreppur",
+        "abbreviation": "TAL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-4",
+        "subdivision_name": "Vestfirðir",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-VEM",
+        "subdivision_name": "Vestmannaeyjabær",
+        "abbreviation": "VEM"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-VER",
+        "subdivision_name": "Vesturbyggð",
+        "abbreviation": "VER"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "IS-3",
+        "subdivision_name": "Vesturland",
+        "abbreviation": "3"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-VOP",
+        "subdivision_name": "Vopnafjarðarhreppur",
+        "abbreviation": "VOP"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-ARN",
+        "subdivision_name": "Árneshreppur",
+        "abbreviation": "ARN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-ASA",
+        "subdivision_name": "Ásahreppur",
+        "abbreviation": "ASA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-ISA",
+        "subdivision_name": "Ísafjarðarbær",
+        "abbreviation": "ISA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "IS-THG",
+        "subdivision_name": "Þingeyjarsveit",
+        "abbreviation": "THG"
+    }
+]

@@ -1,0 +1,716 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-001",
+        "subdivision_name": "Aglonas novads",
+        "abbreviation": "001"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-002",
+        "subdivision_name": "Aizkraukles novads",
+        "abbreviation": "002"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-003",
+        "subdivision_name": "Aizputes novads",
+        "abbreviation": "003"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-004",
+        "subdivision_name": "Aknīstes novads",
+        "abbreviation": "004"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-005",
+        "subdivision_name": "Alojas novads",
+        "abbreviation": "005"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-006",
+        "subdivision_name": "Alsungas novads",
+        "abbreviation": "006"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-007",
+        "subdivision_name": "Alūksnes novads",
+        "abbreviation": "007"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-008",
+        "subdivision_name": "Amatas novads",
+        "abbreviation": "008"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-009",
+        "subdivision_name": "Apes novads",
+        "abbreviation": "009"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-010",
+        "subdivision_name": "Auces novads",
+        "abbreviation": "010"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-012",
+        "subdivision_name": "Babītes novads",
+        "abbreviation": "012"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-013",
+        "subdivision_name": "Baldones novads",
+        "abbreviation": "013"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-014",
+        "subdivision_name": "Baltinavas novads",
+        "abbreviation": "014"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-015",
+        "subdivision_name": "Balvu novads",
+        "abbreviation": "015"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-016",
+        "subdivision_name": "Bauskas novads",
+        "abbreviation": "016"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-017",
+        "subdivision_name": "Beverīnas novads",
+        "abbreviation": "017"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-018",
+        "subdivision_name": "Brocēnu novads",
+        "abbreviation": "018"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-019",
+        "subdivision_name": "Burtnieku novads",
+        "abbreviation": "019"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-020",
+        "subdivision_name": "Carnikavas novads",
+        "abbreviation": "020"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-021",
+        "subdivision_name": "Cesvaines novads",
+        "abbreviation": "021"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-023",
+        "subdivision_name": "Ciblas novads",
+        "abbreviation": "023"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-022",
+        "subdivision_name": "Cēsu novads",
+        "abbreviation": "022"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-024",
+        "subdivision_name": "Dagdas novads",
+        "abbreviation": "024"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-DGV",
+        "subdivision_name": "Daugavpils",
+        "abbreviation": "DGV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-025",
+        "subdivision_name": "Daugavpils novads",
+        "abbreviation": "025"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-026",
+        "subdivision_name": "Dobeles novads",
+        "abbreviation": "026"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-027",
+        "subdivision_name": "Dundagas novads",
+        "abbreviation": "027"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-028",
+        "subdivision_name": "Durbes novads",
+        "abbreviation": "028"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-029",
+        "subdivision_name": "Engures novads",
+        "abbreviation": "029"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-031",
+        "subdivision_name": "Garkalnes novads",
+        "abbreviation": "031"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-032",
+        "subdivision_name": "Grobiņas novads",
+        "abbreviation": "032"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-033",
+        "subdivision_name": "Gulbenes novads",
+        "abbreviation": "033"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-034",
+        "subdivision_name": "Iecavas novads",
+        "abbreviation": "034"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-035",
+        "subdivision_name": "Ikšķiles novads",
+        "abbreviation": "035"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-036",
+        "subdivision_name": "Ilūkstes novads",
+        "abbreviation": "036"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-037",
+        "subdivision_name": "Inčukalna novads",
+        "abbreviation": "037"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-038",
+        "subdivision_name": "Jaunjelgavas novads",
+        "abbreviation": "038"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-039",
+        "subdivision_name": "Jaunpiebalgas novads",
+        "abbreviation": "039"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-040",
+        "subdivision_name": "Jaunpils novads",
+        "abbreviation": "040"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-JEL",
+        "subdivision_name": "Jelgava",
+        "abbreviation": "JEL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-041",
+        "subdivision_name": "Jelgavas novads",
+        "abbreviation": "041"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-JKB",
+        "subdivision_name": "Jēkabpils",
+        "abbreviation": "JKB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-042",
+        "subdivision_name": "Jēkabpils novads",
+        "abbreviation": "042"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-JUR",
+        "subdivision_name": "Jūrmala",
+        "abbreviation": "JUR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-043",
+        "subdivision_name": "Kandavas novads",
+        "abbreviation": "043"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-045",
+        "subdivision_name": "Kocēnu novads",
+        "abbreviation": "045"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-046",
+        "subdivision_name": "Kokneses novads",
+        "abbreviation": "046"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-048",
+        "subdivision_name": "Krimuldas novads",
+        "abbreviation": "048"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-049",
+        "subdivision_name": "Krustpils novads",
+        "abbreviation": "049"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-047",
+        "subdivision_name": "Krāslavas novads",
+        "abbreviation": "047"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-050",
+        "subdivision_name": "Kuldīgas novads",
+        "abbreviation": "050"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-044",
+        "subdivision_name": "Kārsavas novads",
+        "abbreviation": "044"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-053",
+        "subdivision_name": "Lielvārdes novads",
+        "abbreviation": "053"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-LPX",
+        "subdivision_name": "Liepāja",
+        "abbreviation": "LPX"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-054",
+        "subdivision_name": "Limbažu novads",
+        "abbreviation": "054"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-057",
+        "subdivision_name": "Lubānas novads",
+        "abbreviation": "057"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-058",
+        "subdivision_name": "Ludzas novads",
+        "abbreviation": "058"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-055",
+        "subdivision_name": "Līgatnes novads",
+        "abbreviation": "055"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-056",
+        "subdivision_name": "Līvānu novads",
+        "abbreviation": "056"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-059",
+        "subdivision_name": "Madonas novads",
+        "abbreviation": "059"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-060",
+        "subdivision_name": "Mazsalacas novads",
+        "abbreviation": "060"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-061",
+        "subdivision_name": "Mālpils novads",
+        "abbreviation": "061"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-062",
+        "subdivision_name": "Mārupes novads",
+        "abbreviation": "062"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-063",
+        "subdivision_name": "Mērsraga novads",
+        "abbreviation": "063"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-064",
+        "subdivision_name": "Naukšēnu novads",
+        "abbreviation": "064"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-065",
+        "subdivision_name": "Neretas novads",
+        "abbreviation": "065"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-066",
+        "subdivision_name": "Nīcas novads",
+        "abbreviation": "066"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-067",
+        "subdivision_name": "Ogres novads",
+        "abbreviation": "067"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-068",
+        "subdivision_name": "Olaines novads",
+        "abbreviation": "068"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-069",
+        "subdivision_name": "Ozolnieku novads",
+        "abbreviation": "069"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-073",
+        "subdivision_name": "Preiļu novads",
+        "abbreviation": "073"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-074",
+        "subdivision_name": "Priekules novads",
+        "abbreviation": "074"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-075",
+        "subdivision_name": "Priekuļu novads",
+        "abbreviation": "075"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-070",
+        "subdivision_name": "Pārgaujas novads",
+        "abbreviation": "070"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-071",
+        "subdivision_name": "Pāvilostas novads",
+        "abbreviation": "071"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-072",
+        "subdivision_name": "Pļaviņu novads",
+        "abbreviation": "072"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-076",
+        "subdivision_name": "Raunas novads",
+        "abbreviation": "076"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-078",
+        "subdivision_name": "Riebiņu novads",
+        "abbreviation": "078"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-079",
+        "subdivision_name": "Rojas novads",
+        "abbreviation": "079"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-080",
+        "subdivision_name": "Ropažu novads",
+        "abbreviation": "080"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-081",
+        "subdivision_name": "Rucavas novads",
+        "abbreviation": "081"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-082",
+        "subdivision_name": "Rugāju novads",
+        "abbreviation": "082"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-083",
+        "subdivision_name": "Rundāles novads",
+        "abbreviation": "083"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-REZ",
+        "subdivision_name": "Rēzekne",
+        "abbreviation": "REZ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-077",
+        "subdivision_name": "Rēzeknes novads",
+        "abbreviation": "077"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-RIX",
+        "subdivision_name": "Rīga",
+        "abbreviation": "RIX"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-084",
+        "subdivision_name": "Rūjienas novads",
+        "abbreviation": "084"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-086",
+        "subdivision_name": "Salacgrīvas novads",
+        "abbreviation": "086"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-085",
+        "subdivision_name": "Salas novads",
+        "abbreviation": "085"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-087",
+        "subdivision_name": "Salaspils novads",
+        "abbreviation": "087"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-088",
+        "subdivision_name": "Saldus novads",
+        "abbreviation": "088"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-089",
+        "subdivision_name": "Saulkrastu novads",
+        "abbreviation": "089"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-091",
+        "subdivision_name": "Siguldas novads",
+        "abbreviation": "091"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-093",
+        "subdivision_name": "Skrundas novads",
+        "abbreviation": "093"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-092",
+        "subdivision_name": "Skrīveru novads",
+        "abbreviation": "092"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-094",
+        "subdivision_name": "Smiltenes novads",
+        "abbreviation": "094"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-095",
+        "subdivision_name": "Stopiņu novads",
+        "abbreviation": "095"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-096",
+        "subdivision_name": "Strenču novads",
+        "abbreviation": "096"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-090",
+        "subdivision_name": "Sējas novads",
+        "abbreviation": "090"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-097",
+        "subdivision_name": "Talsu novads",
+        "abbreviation": "097"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-099",
+        "subdivision_name": "Tukuma novads",
+        "abbreviation": "099"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-098",
+        "subdivision_name": "Tērvetes novads",
+        "abbreviation": "098"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-100",
+        "subdivision_name": "Vaiņodes novads",
+        "abbreviation": "100"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-101",
+        "subdivision_name": "Valkas novads",
+        "abbreviation": "101"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-VMR",
+        "subdivision_name": "Valmiera",
+        "abbreviation": "VMR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-102",
+        "subdivision_name": "Varakļānu novads",
+        "abbreviation": "102"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-104",
+        "subdivision_name": "Vecpiebalgas novads",
+        "abbreviation": "104"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-105",
+        "subdivision_name": "Vecumnieku novads",
+        "abbreviation": "105"
+    },
+    {
+        "subdivision_category": "republican city",
+        "iso_3166_2_code": "LV-VEN",
+        "subdivision_name": "Ventspils",
+        "abbreviation": "VEN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-106",
+        "subdivision_name": "Ventspils novads",
+        "abbreviation": "106"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-107",
+        "subdivision_name": "Viesītes novads",
+        "abbreviation": "107"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-108",
+        "subdivision_name": "Viļakas novads",
+        "abbreviation": "108"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-109",
+        "subdivision_name": "Viļānu novads",
+        "abbreviation": "109"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-103",
+        "subdivision_name": "Vārkavas novads",
+        "abbreviation": "103"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-110",
+        "subdivision_name": "Zilupes novads",
+        "abbreviation": "110"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-011",
+        "subdivision_name": "Ādažu novads",
+        "abbreviation": "011"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-030",
+        "subdivision_name": "Ērgļu novads",
+        "abbreviation": "030"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-051",
+        "subdivision_name": "Ķeguma novads",
+        "abbreviation": "051"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LV-052",
+        "subdivision_name": "Ķekavas novads",
+        "abbreviation": "052"
+    }
+]

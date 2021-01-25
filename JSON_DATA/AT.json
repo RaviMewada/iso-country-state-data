@@ -1,0 +1,56 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-1",
+        "subdivision_name": "Burgenland",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-2",
+        "subdivision_name": "Kärnten",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-3",
+        "subdivision_name": "Niederösterreich",
+        "abbreviation": "3"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-4",
+        "subdivision_name": "Oberösterreich",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-5",
+        "subdivision_name": "Salzburg",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-6",
+        "subdivision_name": "Steiermark",
+        "abbreviation": "6"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-7",
+        "subdivision_name": "Tirol",
+        "abbreviation": "7"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-8",
+        "subdivision_name": "Vorarlberg",
+        "abbreviation": "8"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AT-9",
+        "subdivision_name": "Wien",
+        "abbreviation": "9"
+    }
+]

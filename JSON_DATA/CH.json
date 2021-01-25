@@ -1,0 +1,188 @@
+[
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-AG",
+        "subdivision_name": "Aargau",
+        "abbreviation": "AG"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-AR",
+        "subdivision_name": "Appenzell Ausserrhoden",
+        "abbreviation": "AR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-AI",
+        "subdivision_name": "Appenzell Innerrhoden",
+        "abbreviation": "AI"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-BL",
+        "subdivision_name": "Basel-Landschaft",
+        "abbreviation": "BL"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-BS",
+        "subdivision_name": "Basel-Stadt",
+        "abbreviation": "BS"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-BE",
+        "subdivision_name": "Bern",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-BE",
+        "subdivision_name": "Berne",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-FR",
+        "subdivision_name": "Freiburg",
+        "abbreviation": "FR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-FR",
+        "subdivision_name": "Fribourg",
+        "abbreviation": "FR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-GE",
+        "subdivision_name": "Genève",
+        "abbreviation": "GE"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-GL",
+        "subdivision_name": "Glarus",
+        "abbreviation": "GL"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-GR",
+        "subdivision_name": "Graubünden",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-GR",
+        "subdivision_name": "Grigioni",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-GR",
+        "subdivision_name": "Grischun",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-JU",
+        "subdivision_name": "Jura",
+        "abbreviation": "JU"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-LU",
+        "subdivision_name": "Luzern",
+        "abbreviation": "LU"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-NE",
+        "subdivision_name": "Neuchâtel",
+        "abbreviation": "NE"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-NW",
+        "subdivision_name": "Nidwalden",
+        "abbreviation": "NW"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-OW",
+        "subdivision_name": "Obwalden",
+        "abbreviation": "OW"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-SG",
+        "subdivision_name": "Sankt Gallen",
+        "abbreviation": "SG"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-SH",
+        "subdivision_name": "Schaffhausen",
+        "abbreviation": "SH"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-SZ",
+        "subdivision_name": "Schwyz",
+        "abbreviation": "SZ"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-SO",
+        "subdivision_name": "Solothurn",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-TG",
+        "subdivision_name": "Thurgau",
+        "abbreviation": "TG"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-TI",
+        "subdivision_name": "Ticino",
+        "abbreviation": "TI"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-UR",
+        "subdivision_name": "Uri",
+        "abbreviation": "UR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-VS",
+        "subdivision_name": "Valais",
+        "abbreviation": "VS"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-VD",
+        "subdivision_name": "Vaud",
+        "abbreviation": "VD"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-VS",
+        "subdivision_name": "Wallis",
+        "abbreviation": "VS"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-ZG",
+        "subdivision_name": "Zug",
+        "abbreviation": "ZG"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "CH-ZH",
+        "subdivision_name": "Zürich",
+        "abbreviation": "ZH"
+    }
+]

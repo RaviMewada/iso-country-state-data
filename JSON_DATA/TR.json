@@ -1,0 +1,488 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-01",
+        "subdivision_name": "Adana",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-02",
+        "subdivision_name": "Adıyaman",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-03",
+        "subdivision_name": "Afyonkarahisar",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-68",
+        "subdivision_name": "Aksaray",
+        "abbreviation": "68"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-05",
+        "subdivision_name": "Amasya",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-06",
+        "subdivision_name": "Ankara",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-07",
+        "subdivision_name": "Antalya",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-75",
+        "subdivision_name": "Ardahan",
+        "abbreviation": "75"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-08",
+        "subdivision_name": "Artvin",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-09",
+        "subdivision_name": "Aydın",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-04",
+        "subdivision_name": "Ağrı",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-10",
+        "subdivision_name": "Balıkesir",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-74",
+        "subdivision_name": "Bartın",
+        "abbreviation": "74"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-72",
+        "subdivision_name": "Batman",
+        "abbreviation": "72"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-69",
+        "subdivision_name": "Bayburt",
+        "abbreviation": "69"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-11",
+        "subdivision_name": "Bilecik",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-12",
+        "subdivision_name": "Bingöl",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-13",
+        "subdivision_name": "Bitlis",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-14",
+        "subdivision_name": "Bolu",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-15",
+        "subdivision_name": "Burdur",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-16",
+        "subdivision_name": "Bursa",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-20",
+        "subdivision_name": "Denizli",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-21",
+        "subdivision_name": "Diyarbakır",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-81",
+        "subdivision_name": "Düzce",
+        "abbreviation": "81"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-22",
+        "subdivision_name": "Edirne",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-23",
+        "subdivision_name": "Elazığ",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-24",
+        "subdivision_name": "Erzincan",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-25",
+        "subdivision_name": "Erzurum",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-26",
+        "subdivision_name": "Eskişehir",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-27",
+        "subdivision_name": "Gaziantep",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-28",
+        "subdivision_name": "Giresun",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-29",
+        "subdivision_name": "Gümüşhane",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-30",
+        "subdivision_name": "Hakkâri",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-31",
+        "subdivision_name": "Hatay",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-32",
+        "subdivision_name": "Isparta",
+        "abbreviation": "32"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-76",
+        "subdivision_name": "Iğdır",
+        "abbreviation": "76"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-46",
+        "subdivision_name": "Kahramanmaraş",
+        "abbreviation": "46"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-78",
+        "subdivision_name": "Karabük",
+        "abbreviation": "78"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-70",
+        "subdivision_name": "Karaman",
+        "abbreviation": "70"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-36",
+        "subdivision_name": "Kars",
+        "abbreviation": "36"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-37",
+        "subdivision_name": "Kastamonu",
+        "abbreviation": "37"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-38",
+        "subdivision_name": "Kayseri",
+        "abbreviation": "38"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-79",
+        "subdivision_name": "Kilis",
+        "abbreviation": "79"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-41",
+        "subdivision_name": "Kocaeli",
+        "abbreviation": "41"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-42",
+        "subdivision_name": "Konya",
+        "abbreviation": "42"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-43",
+        "subdivision_name": "Kütahya",
+        "abbreviation": "43"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-39",
+        "subdivision_name": "Kırklareli",
+        "abbreviation": "39"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-71",
+        "subdivision_name": "Kırıkkale",
+        "abbreviation": "71"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-40",
+        "subdivision_name": "Kırşehir",
+        "abbreviation": "40"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-44",
+        "subdivision_name": "Malatya",
+        "abbreviation": "44"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-45",
+        "subdivision_name": "Manisa",
+        "abbreviation": "45"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-47",
+        "subdivision_name": "Mardin",
+        "abbreviation": "47"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-33",
+        "subdivision_name": "Mersin",
+        "abbreviation": "33"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-48",
+        "subdivision_name": "Muğla",
+        "abbreviation": "48"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-49",
+        "subdivision_name": "Muş",
+        "abbreviation": "49"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-50",
+        "subdivision_name": "Nevşehir",
+        "abbreviation": "50"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-51",
+        "subdivision_name": "Niğde",
+        "abbreviation": "51"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-52",
+        "subdivision_name": "Ordu",
+        "abbreviation": "52"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-80",
+        "subdivision_name": "Osmaniye",
+        "abbreviation": "80"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-53",
+        "subdivision_name": "Rize",
+        "abbreviation": "53"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-54",
+        "subdivision_name": "Sakarya",
+        "abbreviation": "54"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-55",
+        "subdivision_name": "Samsun",
+        "abbreviation": "55"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-56",
+        "subdivision_name": "Siirt",
+        "abbreviation": "56"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-57",
+        "subdivision_name": "Sinop",
+        "abbreviation": "57"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-58",
+        "subdivision_name": "Sivas",
+        "abbreviation": "58"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-59",
+        "subdivision_name": "Tekirdağ",
+        "abbreviation": "59"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-60",
+        "subdivision_name": "Tokat",
+        "abbreviation": "60"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-61",
+        "subdivision_name": "Trabzon",
+        "abbreviation": "61"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-62",
+        "subdivision_name": "Tunceli",
+        "abbreviation": "62"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-64",
+        "subdivision_name": "Uşak",
+        "abbreviation": "64"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-65",
+        "subdivision_name": "Van",
+        "abbreviation": "65"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-77",
+        "subdivision_name": "Yalova",
+        "abbreviation": "77"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-66",
+        "subdivision_name": "Yozgat",
+        "abbreviation": "66"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-67",
+        "subdivision_name": "Zonguldak",
+        "abbreviation": "67"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-17",
+        "subdivision_name": "Çanakkale",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-18",
+        "subdivision_name": "Çankırı",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-19",
+        "subdivision_name": "Çorum",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-34",
+        "subdivision_name": "İstanbul",
+        "abbreviation": "34"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-35",
+        "subdivision_name": "İzmir",
+        "abbreviation": "35"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-63",
+        "subdivision_name": "Şanlıurfa",
+        "abbreviation": "63"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TR-73",
+        "subdivision_name": "Şırnak",
+        "abbreviation": "73"
+    }
+]

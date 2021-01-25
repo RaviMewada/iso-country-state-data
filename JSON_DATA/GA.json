@@ -1,0 +1,56 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-1",
+        "subdivision_name": "Estuaire",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-2",
+        "subdivision_name": "Haut-Ogooué",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-3",
+        "subdivision_name": "Moyen-Ogooué",
+        "abbreviation": "3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-4",
+        "subdivision_name": "Ngounié",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-5",
+        "subdivision_name": "Nyanga",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-6",
+        "subdivision_name": "Ogooué-Ivindo",
+        "abbreviation": "6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-7",
+        "subdivision_name": "Ogooué-Lolo",
+        "abbreviation": "7"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-8",
+        "subdivision_name": "Ogooué-Maritime",
+        "abbreviation": "8"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GA-9",
+        "subdivision_name": "Woleu-Ntem",
+        "abbreviation": "9"
+    }
+]

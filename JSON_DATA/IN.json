@@ -1,0 +1,218 @@
+[
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-AN",
+        "subdivision_name": "Andaman and Nicobar Islands",
+        "abbreviation": "AN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-AP",
+        "subdivision_name": "Andhra Pradesh",
+        "abbreviation": "AP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-AR",
+        "subdivision_name": "Arunāchal Pradesh",
+        "abbreviation": "AR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-AS",
+        "subdivision_name": "Assam",
+        "abbreviation": "AS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-BR",
+        "subdivision_name": "Bihār",
+        "abbreviation": "BR"
+    },
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-CH",
+        "subdivision_name": "Chandigarh",
+        "abbreviation": "CH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-CT",
+        "subdivision_name": "Chhattīsgarh",
+        "abbreviation": "CT"
+    },
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-DL",
+        "subdivision_name": "Delhi",
+        "abbreviation": "DL"
+    },
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-DH",
+        "subdivision_name": "Dādra and Nagar Haveli and Damān and Diu",
+        "abbreviation": "DH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-GA",
+        "subdivision_name": "Goa",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-GJ",
+        "subdivision_name": "Gujarāt",
+        "abbreviation": "GJ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-HR",
+        "subdivision_name": "Haryāna",
+        "abbreviation": "HR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-HP",
+        "subdivision_name": "Himāchal Pradesh",
+        "abbreviation": "HP"
+    },
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-JK",
+        "subdivision_name": "Jammu and Kashmīr",
+        "abbreviation": "JK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-JH",
+        "subdivision_name": "Jhārkhand",
+        "abbreviation": "JH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-KA",
+        "subdivision_name": "Karnātaka",
+        "abbreviation": "KA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-KL",
+        "subdivision_name": "Kerala",
+        "abbreviation": "KL"
+    },
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-LA",
+        "subdivision_name": "Ladākh",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-LD",
+        "subdivision_name": "Lakshadweep",
+        "abbreviation": "LD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-MP",
+        "subdivision_name": "Madhya Pradesh",
+        "abbreviation": "MP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-MH",
+        "subdivision_name": "Mahārāshtra",
+        "abbreviation": "MH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-MN",
+        "subdivision_name": "Manipur",
+        "abbreviation": "MN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-ML",
+        "subdivision_name": "Meghālaya",
+        "abbreviation": "ML"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-MZ",
+        "subdivision_name": "Mizoram",
+        "abbreviation": "MZ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-NL",
+        "subdivision_name": "Nāgāland",
+        "abbreviation": "NL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-OR",
+        "subdivision_name": "Odisha",
+        "abbreviation": "OR"
+    },
+    {
+        "subdivision_category": "Union territory",
+        "iso_3166_2_code": "IN-PY",
+        "subdivision_name": "Puducherry",
+        "abbreviation": "PY"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-PB",
+        "subdivision_name": "Punjab",
+        "abbreviation": "PB"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-RJ",
+        "subdivision_name": "Rājasthān",
+        "abbreviation": "RJ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-SK",
+        "subdivision_name": "Sikkim",
+        "abbreviation": "SK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-TN",
+        "subdivision_name": "Tamil Nādu",
+        "abbreviation": "TN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-TG",
+        "subdivision_name": "Telangāna",
+        "abbreviation": "TG"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-TR",
+        "subdivision_name": "Tripura",
+        "abbreviation": "TR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-UP",
+        "subdivision_name": "Uttar Pradesh",
+        "abbreviation": "UP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-UT",
+        "subdivision_name": "Uttarākhand",
+        "abbreviation": "UT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "IN-WB",
+        "subdivision_name": "West Bengal",
+        "abbreviation": "WB"
+    }
+]

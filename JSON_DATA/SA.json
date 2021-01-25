@@ -1,0 +1,80 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-14",
+        "subdivision_name": "'Asīr",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-11",
+        "subdivision_name": "Al Bāḩah",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-12",
+        "subdivision_name": "Al Jawf",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-03",
+        "subdivision_name": "Al Madīnah al Munawwarah",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-05",
+        "subdivision_name": "Al Qaşīm",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-08",
+        "subdivision_name": "Al Ḩudūd ash Shamālīyah",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-01",
+        "subdivision_name": "Ar Riyāḑ",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-04",
+        "subdivision_name": "Ash Sharqīyah",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-09",
+        "subdivision_name": "Jāzān",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-02",
+        "subdivision_name": "Makkah al Mukarramah",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-10",
+        "subdivision_name": "Najrān",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-07",
+        "subdivision_name": "Tabūk",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SA-06",
+        "subdivision_name": "Ḩā'il",
+        "abbreviation": "06"
+    }
+]

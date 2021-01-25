@@ -1,0 +1,38 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MG-T",
+        "subdivision_name": "Antananarivo",
+        "abbreviation": "T"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MG-D",
+        "subdivision_name": "Antsiranana",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MG-F",
+        "subdivision_name": "Fianarantsoa",
+        "abbreviation": "F"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MG-M",
+        "subdivision_name": "Mahajanga",
+        "abbreviation": "M"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MG-A",
+        "subdivision_name": "Toamasina",
+        "abbreviation": "A"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MG-U",
+        "subdivision_name": "Toliara",
+        "abbreviation": "U"
+    }
+]

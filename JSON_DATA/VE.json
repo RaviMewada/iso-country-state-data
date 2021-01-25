@@ -1,0 +1,152 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-Z",
+        "subdivision_name": "Amazonas",
+        "abbreviation": "Z"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-B",
+        "subdivision_name": "Anzoátegui",
+        "abbreviation": "B"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-C",
+        "subdivision_name": "Apure",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-D",
+        "subdivision_name": "Aragua",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-E",
+        "subdivision_name": "Barinas",
+        "abbreviation": "E"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-F",
+        "subdivision_name": "Bolívar",
+        "abbreviation": "F"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-G",
+        "subdivision_name": "Carabobo",
+        "abbreviation": "G"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-H",
+        "subdivision_name": "Cojedes",
+        "abbreviation": "H"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-Y",
+        "subdivision_name": "Delta Amacuro",
+        "abbreviation": "Y"
+    },
+    {
+        "subdivision_category": "federal dependency",
+        "iso_3166_2_code": "VE-W",
+        "subdivision_name": "Dependencias Federales",
+        "abbreviation": "W"
+    },
+    {
+        "subdivision_category": "capital district",
+        "iso_3166_2_code": "VE-A",
+        "subdivision_name": "Distrito Capital",
+        "abbreviation": "A"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-I",
+        "subdivision_name": "Falcón",
+        "abbreviation": "I"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-J",
+        "subdivision_name": "Guárico",
+        "abbreviation": "J"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-X",
+        "subdivision_name": "La Guaira",
+        "abbreviation": "X"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-K",
+        "subdivision_name": "Lara",
+        "abbreviation": "K"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-M",
+        "subdivision_name": "Miranda",
+        "abbreviation": "M"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-N",
+        "subdivision_name": "Monagas",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-L",
+        "subdivision_name": "Mérida",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-O",
+        "subdivision_name": "Nueva Esparta",
+        "abbreviation": "O"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-P",
+        "subdivision_name": "Portuguesa",
+        "abbreviation": "P"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-R",
+        "subdivision_name": "Sucre",
+        "abbreviation": "R"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-T",
+        "subdivision_name": "Trujillo",
+        "abbreviation": "T"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-S",
+        "subdivision_name": "Táchira",
+        "abbreviation": "S"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-U",
+        "subdivision_name": "Yaracuy",
+        "abbreviation": "U"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-V",
+        "subdivision_name": "Zulia",
+        "abbreviation": "V"
+    }
+]

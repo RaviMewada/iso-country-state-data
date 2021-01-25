@@ -1,0 +1,134 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-AB",
+        "subdivision_name": "Abyan",
+        "abbreviation": "AB"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-BA",
+        "subdivision_name": "Al Bayḑā’",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-JA",
+        "subdivision_name": "Al Jawf",
+        "abbreviation": "JA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-MR",
+        "subdivision_name": "Al Mahrah",
+        "abbreviation": "MR"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-MW",
+        "subdivision_name": "Al Maḩwīt",
+        "abbreviation": "MW"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-HU",
+        "subdivision_name": "Al Ḩudaydah",
+        "abbreviation": "HU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "YE-SA",
+        "subdivision_name": "Amānat al ‘Āşimah [city]",
+        "abbreviation": "SA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-SU",
+        "subdivision_name": "Arkhabīl Suquţrá",
+        "abbreviation": "SU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-DA",
+        "subdivision_name": "Aḑ Ḑāli‘",
+        "abbreviation": "DA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-DH",
+        "subdivision_name": "Dhamār",
+        "abbreviation": "DH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-IB",
+        "subdivision_name": "Ibb",
+        "abbreviation": "IB"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-LA",
+        "subdivision_name": "Laḩij",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-MA",
+        "subdivision_name": "Ma’rib",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-RA",
+        "subdivision_name": "Raymah",
+        "abbreviation": "RA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-SH",
+        "subdivision_name": "Shabwah",
+        "abbreviation": "SH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-TA",
+        "subdivision_name": "Tāʻizz",
+        "abbreviation": "TA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-SN",
+        "subdivision_name": "Şanʻā’",
+        "abbreviation": "SN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-SD",
+        "subdivision_name": "Şāʻdah",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-HJ",
+        "subdivision_name": "Ḩajjah",
+        "abbreviation": "HJ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-HD",
+        "subdivision_name": "Ḩaḑramawt",
+        "abbreviation": "HD"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-AD",
+        "subdivision_name": "‘Adan",
+        "abbreviation": "AD"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "YE-AM",
+        "subdivision_name": "‘Amrān",
+        "abbreviation": "AM"
+    }
+]

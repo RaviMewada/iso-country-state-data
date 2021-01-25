@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-BA",
+        "subdivision_name": "Bafatá",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-BM",
+        "subdivision_name": "Biombo",
+        "abbreviation": "BM"
+    },
+    {
+        "subdivision_category": "autonomous sector",
+        "iso_3166_2_code": "GW-BS",
+        "subdivision_name": "Bissau",
+        "abbreviation": "BS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-BL",
+        "subdivision_name": "Bolama / Bijagós",
+        "abbreviation": "BL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-CA",
+        "subdivision_name": "Cacheu",
+        "abbreviation": "CA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-GA",
+        "subdivision_name": "Gabú",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GW-L",
+        "subdivision_name": "Leste",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GW-N",
+        "subdivision_name": "Norte",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-OI",
+        "subdivision_name": "Oio",
+        "abbreviation": "OI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-QU",
+        "subdivision_name": "Quinara",
+        "abbreviation": "QU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GW-S",
+        "subdivision_name": "Sul",
+        "abbreviation": "S"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GW-TO",
+        "subdivision_name": "Tombali",
+        "abbreviation": "TO"
+    }
+]

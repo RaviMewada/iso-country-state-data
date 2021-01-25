@@ -1,0 +1,206 @@
+[
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-BB",
+        "subdivision_name": "Bamingui-Bangoran",
+        "abbreviation": "BB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-BB",
+        "subdivision_name": "Bamïngï-Bangoran",
+        "abbreviation": "BB"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "CF-BGF",
+        "subdivision_name": "Bangui",
+        "abbreviation": "BGF"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "CF-BGF",
+        "subdivision_name": "Bangî",
+        "abbreviation": "BGF"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-BK",
+        "subdivision_name": "Basse-Kotto",
+        "abbreviation": "BK"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-BK",
+        "subdivision_name": "Do-Kötö",
+        "abbreviation": "BK"
+    },
+    {
+        "subdivision_category": "economic prefecture",
+        "iso_3166_2_code": "CF-KB",
+        "subdivision_name": "Gribingui",
+        "abbreviation": "KB"
+    },
+    {
+        "subdivision_category": "economic prefecture",
+        "iso_3166_2_code": "CF-KB",
+        "subdivision_name": "Gïrïbïngï",
+        "abbreviation": "KB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-HM",
+        "subdivision_name": "Haut-Mbomou",
+        "abbreviation": "HM"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-HK",
+        "subdivision_name": "Haute-Kotto",
+        "abbreviation": "HK"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-HS",
+        "subdivision_name": "Haute-Sangha / Mambéré-Kadéï",
+        "abbreviation": "HS"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-KG",
+        "subdivision_name": "Kemö-Gïrïbïngï",
+        "abbreviation": "KG"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-KG",
+        "subdivision_name": "Kémo-Gribingui",
+        "abbreviation": "KG"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-LB",
+        "subdivision_name": "Lobaye",
+        "abbreviation": "LB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-LB",
+        "subdivision_name": "Lobâye",
+        "abbreviation": "LB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-MB",
+        "subdivision_name": "Mbomou",
+        "abbreviation": "MB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-MB",
+        "subdivision_name": "Mbömü",
+        "abbreviation": "MB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-NM",
+        "subdivision_name": "Nana-Mambéré",
+        "abbreviation": "NM"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-NM",
+        "subdivision_name": "Nanä-Mbaere",
+        "abbreviation": "NM"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-MP",
+        "subdivision_name": "Ombella-Mpoko",
+        "abbreviation": "MP"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-UK",
+        "subdivision_name": "Ouaka",
+        "abbreviation": "UK"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-AC",
+        "subdivision_name": "Ouham",
+        "abbreviation": "AC"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-OP",
+        "subdivision_name": "Ouham-Pendé",
+        "abbreviation": "OP"
+    },
+    {
+        "subdivision_category": "economic prefecture",
+        "iso_3166_2_code": "CF-SE",
+        "subdivision_name": "Sangha",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "economic prefecture",
+        "iso_3166_2_code": "CF-SE",
+        "subdivision_name": "Sangä",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-HK",
+        "subdivision_name": "Tö-Kötö",
+        "abbreviation": "HK"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-HM",
+        "subdivision_name": "Tö-Mbömü",
+        "abbreviation": "HM"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-HS",
+        "subdivision_name": "Tö-Sangä / Mbaere-Kadeï",
+        "abbreviation": "HS"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-VK",
+        "subdivision_name": "Vakaga",
+        "abbreviation": "VK"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-VK",
+        "subdivision_name": "Vakaga",
+        "abbreviation": "VK"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-AC",
+        "subdivision_name": "Wâmo",
+        "abbreviation": "AC"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-OP",
+        "subdivision_name": "Wâmo-Pendë",
+        "abbreviation": "OP"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-UK",
+        "subdivision_name": "Wäkä",
+        "abbreviation": "UK"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "CF-MP",
+        "subdivision_name": "Ömbëlä-Pökö",
+        "abbreviation": "MP"
+    }
+]

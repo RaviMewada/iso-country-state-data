@@ -1,0 +1,110 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-07",
+        "subdivision_name": "Adrar",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-03",
+        "subdivision_name": "Assaba",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-05",
+        "subdivision_name": "Brakna",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-08",
+        "subdivision_name": "Dakhlet Nouâdhibou",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-04",
+        "subdivision_name": "Gorgol",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-10",
+        "subdivision_name": "Guidimaka",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-01",
+        "subdivision_name": "Hodh ech Chargui",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-02",
+        "subdivision_name": "Hodh el Gharbi",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-12",
+        "subdivision_name": "Inchiri",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-14",
+        "subdivision_name": "Nouakchott Nord",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-13",
+        "subdivision_name": "Nouakchott Ouest",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-15",
+        "subdivision_name": "Nouakchott Sud",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-13",
+        "subdivision_name": "Nuwākshūţ al Gharbīyah",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-15",
+        "subdivision_name": "Nuwākshūţ al Janūbīyah",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-14",
+        "subdivision_name": "Nuwākshūţ ash Shamālīyah",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-09",
+        "subdivision_name": "Tagant",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-11",
+        "subdivision_name": "Tiris Zemmour",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MR-06",
+        "subdivision_name": "Trarza",
+        "abbreviation": "06"
+    }
+]

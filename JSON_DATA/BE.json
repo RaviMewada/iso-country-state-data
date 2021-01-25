@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-VAN",
+        "subdivision_name": "Antwerpen",
+        "abbreviation": "VAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-WBR",
+        "subdivision_name": "Brabant wallon",
+        "abbreviation": "WBR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BE-BRU",
+        "subdivision_name": "Brussels Hoofdstedelijk Gewest",
+        "abbreviation": "BRU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BE-BRU",
+        "subdivision_name": "Bruxelles-Capitale, Région de",
+        "abbreviation": "BRU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-WHT",
+        "subdivision_name": "Hainaut",
+        "abbreviation": "WHT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-VLI",
+        "subdivision_name": "Limburg",
+        "abbreviation": "VLI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-WLG",
+        "subdivision_name": "Liège",
+        "abbreviation": "WLG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-WLX",
+        "subdivision_name": "Luxembourg",
+        "abbreviation": "WLX"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-WNA",
+        "subdivision_name": "Namur",
+        "abbreviation": "WNA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-VOV",
+        "subdivision_name": "Oost-Vlaanderen",
+        "abbreviation": "VOV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BE-VLG",
+        "subdivision_name": "Vlaams Gewest",
+        "abbreviation": "VLG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-VBR",
+        "subdivision_name": "Vlaams-Brabant",
+        "abbreviation": "VBR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BE-VWV",
+        "subdivision_name": "West-Vlaanderen",
+        "abbreviation": "VWV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BE-WAL",
+        "subdivision_name": "wallonne, Région",
+        "abbreviation": "WAL"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "autonomous republic",
+        "iso_3166_2_code": "GE-AB",
+        "subdivision_name": "Abkhazia",
+        "abbreviation": "AB"
+    },
+    {
+        "subdivision_category": "autonomous republic",
+        "iso_3166_2_code": "GE-AJ",
+        "subdivision_name": "Ajaria",
+        "abbreviation": "AJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-GU",
+        "subdivision_name": "Guria",
+        "abbreviation": "GU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-IM",
+        "subdivision_name": "Imereti",
+        "abbreviation": "IM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-KA",
+        "subdivision_name": "K'akheti",
+        "abbreviation": "KA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-KK",
+        "subdivision_name": "Kvemo Kartli",
+        "abbreviation": "KK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-MM",
+        "subdivision_name": "Mtskheta-Mtianeti",
+        "abbreviation": "MM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-RL",
+        "subdivision_name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+        "abbreviation": "RL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-SZ",
+        "subdivision_name": "Samegrelo-Zemo Svaneti",
+        "abbreviation": "SZ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-SJ",
+        "subdivision_name": "Samtskhe-Javakheti",
+        "abbreviation": "SJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-SK",
+        "subdivision_name": "Shida Kartli",
+        "abbreviation": "SK"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "GE-TB",
+        "subdivision_name": "Tbilisi",
+        "abbreviation": "TB"
+    }
+]

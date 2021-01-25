@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-AH",
+        "subdivision_name": "Ahuachapán",
+        "abbreviation": "AH"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-CA",
+        "subdivision_name": "Cabañas",
+        "abbreviation": "CA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-CH",
+        "subdivision_name": "Chalatenango",
+        "abbreviation": "CH"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-CU",
+        "subdivision_name": "Cuscatlán",
+        "abbreviation": "CU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-LI",
+        "subdivision_name": "La Libertad",
+        "abbreviation": "LI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-PA",
+        "subdivision_name": "La Paz",
+        "abbreviation": "PA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-UN",
+        "subdivision_name": "La Unión",
+        "abbreviation": "UN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-MO",
+        "subdivision_name": "Morazán",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-SM",
+        "subdivision_name": "San Miguel",
+        "abbreviation": "SM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-SS",
+        "subdivision_name": "San Salvador",
+        "abbreviation": "SS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-SV",
+        "subdivision_name": "San Vicente",
+        "abbreviation": "SV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-SA",
+        "subdivision_name": "Santa Ana",
+        "abbreviation": "SA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-SO",
+        "subdivision_name": "Sonsonate",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "SV-US",
+        "subdivision_name": "Usulután",
+        "abbreviation": "US"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-LA",
+        "subdivision_name": "Al Lādhiqīyah",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-QU",
+        "subdivision_name": "Al Qunayţirah",
+        "abbreviation": "QU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-HA",
+        "subdivision_name": "Al Ḩasakah",
+        "abbreviation": "HA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-RA",
+        "subdivision_name": "Ar Raqqah",
+        "abbreviation": "RA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-SU",
+        "subdivision_name": "As Suwaydā'",
+        "abbreviation": "SU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-DR",
+        "subdivision_name": "Dar'ā",
+        "abbreviation": "DR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-DY",
+        "subdivision_name": "Dayr az Zawr",
+        "abbreviation": "DY"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-DI",
+        "subdivision_name": "Dimashq",
+        "abbreviation": "DI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-ID",
+        "subdivision_name": "Idlib",
+        "abbreviation": "ID"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-RD",
+        "subdivision_name": "Rīf Dimashq",
+        "abbreviation": "RD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-TA",
+        "subdivision_name": "Ţarţūs",
+        "abbreviation": "TA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-HL",
+        "subdivision_name": "Ḩalab",
+        "abbreviation": "HL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-HM",
+        "subdivision_name": "Ḩamāh",
+        "abbreviation": "HM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SY-HI",
+        "subdivision_name": "Ḩimş",
+        "abbreviation": "HI"
+    }
+]

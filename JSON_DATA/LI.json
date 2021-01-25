@@ -1,0 +1,68 @@
+[
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-01",
+        "subdivision_name": "Balzers",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-02",
+        "subdivision_name": "Eschen",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-03",
+        "subdivision_name": "Gamprin",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-04",
+        "subdivision_name": "Mauren",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-05",
+        "subdivision_name": "Planken",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-06",
+        "subdivision_name": "Ruggell",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-07",
+        "subdivision_name": "Schaan",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-08",
+        "subdivision_name": "Schellenberg",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-09",
+        "subdivision_name": "Triesen",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-10",
+        "subdivision_name": "Triesenberg",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "commune",
+        "iso_3166_2_code": "LI-11",
+        "subdivision_name": "Vaduz",
+        "abbreviation": "11"
+    }
+]

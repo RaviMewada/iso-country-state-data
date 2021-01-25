@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-AK",
+        "subdivision_name": "Aakkâr",
+        "abbreviation": "AK"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-BI",
+        "subdivision_name": "Al Biqā‘",
+        "abbreviation": "BI"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-JA",
+        "subdivision_name": "Al Janūb",
+        "abbreviation": "JA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-NA",
+        "subdivision_name": "An Nabaţīyah",
+        "abbreviation": "NA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-AS",
+        "subdivision_name": "Ash Shimāl",
+        "abbreviation": "AS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-BH",
+        "subdivision_name": "Baalbek-Hermel",
+        "abbreviation": "BH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-BA",
+        "subdivision_name": "Bayrūt",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-BA",
+        "subdivision_name": "Beyrouth",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-BI",
+        "subdivision_name": "Béqaa",
+        "abbreviation": "BI"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-BH",
+        "subdivision_name": "B‘alabak-Al Hirmil",
+        "abbreviation": "BH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-JL",
+        "subdivision_name": "Jabal Lubnān",
+        "abbreviation": "JL"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-AS",
+        "subdivision_name": "Liban-Nord",
+        "abbreviation": "AS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-JA",
+        "subdivision_name": "Liban-Sud",
+        "abbreviation": "JA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-JL",
+        "subdivision_name": "Mont-Liban",
+        "abbreviation": "JL"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-NA",
+        "subdivision_name": "Nabatîyé",
+        "abbreviation": "NA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "LB-AK",
+        "subdivision_name": "‘Akkār",
+        "abbreviation": "AK"
+    }
+]

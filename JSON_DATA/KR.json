@@ -1,0 +1,104 @@
+[
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KR-26",
+        "subdivision_name": "Busan-gwangyeoksi",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-43",
+        "subdivision_name": "Chungcheongbuk-do",
+        "abbreviation": "43"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-44",
+        "subdivision_name": "Chungcheongnam-do",
+        "abbreviation": "44"
+    },
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KR-27",
+        "subdivision_name": "Daegu-gwangyeoksi",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KR-30",
+        "subdivision_name": "Daejeon-gwangyeoksi",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-42",
+        "subdivision_name": "Gangwon-do",
+        "abbreviation": "42"
+    },
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KR-29",
+        "subdivision_name": "Gwangju-gwangyeoksi",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-41",
+        "subdivision_name": "Gyeonggi-do",
+        "abbreviation": "41"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-47",
+        "subdivision_name": "Gyeongsangbuk-do",
+        "abbreviation": "47"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-48",
+        "subdivision_name": "Gyeongsangnam-do",
+        "abbreviation": "48"
+    },
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KR-28",
+        "subdivision_name": "Incheon-gwangyeoksi",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "special self-governing province",
+        "iso_3166_2_code": "KR-49",
+        "subdivision_name": "Jeju-teukbyeoljachido",
+        "abbreviation": "49"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-45",
+        "subdivision_name": "Jeollabuk-do",
+        "abbreviation": "45"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KR-46",
+        "subdivision_name": "Jeollanam-do",
+        "abbreviation": "46"
+    },
+    {
+        "subdivision_category": "special self-governing city",
+        "iso_3166_2_code": "KR-50",
+        "subdivision_name": "Sejong",
+        "abbreviation": "50"
+    },
+    {
+        "subdivision_category": "special city",
+        "iso_3166_2_code": "KR-11",
+        "subdivision_name": "Seoul-teukbyeolsi",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KR-31",
+        "subdivision_name": "Ulsan-gwangyeoksi",
+        "abbreviation": "31"
+    }
+]

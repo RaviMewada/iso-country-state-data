@@ -1,0 +1,470 @@
+[
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-ABS",
+        "subdivision_name": "Abşeron",
+        "abbreviation": "ABS"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-AST",
+        "subdivision_name": "Astara",
+        "abbreviation": "AST"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-AGC",
+        "subdivision_name": "Ağcabədi",
+        "abbreviation": "AGC"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-AGM",
+        "subdivision_name": "Ağdam",
+        "abbreviation": "AGM"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-AGS",
+        "subdivision_name": "Ağdaş",
+        "abbreviation": "AGS"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-AGA",
+        "subdivision_name": "Ağstafa",
+        "abbreviation": "AGA"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-AGU",
+        "subdivision_name": "Ağsu",
+        "abbreviation": "AGU"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-BAB",
+        "subdivision_name": "Babək",
+        "abbreviation": "BAB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-BA",
+        "subdivision_name": "Bakı",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-BAL",
+        "subdivision_name": "Balakən",
+        "abbreviation": "BAL"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-BEY",
+        "subdivision_name": "Beyləqan",
+        "abbreviation": "BEY"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-BIL",
+        "subdivision_name": "Biləsuvar",
+        "abbreviation": "BIL"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-BAR",
+        "subdivision_name": "Bərdə",
+        "abbreviation": "BAR"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-CUL",
+        "subdivision_name": "Culfa",
+        "abbreviation": "CUL"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-CAB",
+        "subdivision_name": "Cəbrayıl",
+        "abbreviation": "CAB"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-CAL",
+        "subdivision_name": "Cəlilabad",
+        "abbreviation": "CAL"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-DAS",
+        "subdivision_name": "Daşkəsən",
+        "abbreviation": "DAS"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-FUZ",
+        "subdivision_name": "Füzuli",
+        "abbreviation": "FUZ"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-GOR",
+        "subdivision_name": "Goranboy",
+        "abbreviation": "GOR"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-GYG",
+        "subdivision_name": "Göygöl",
+        "abbreviation": "GYG"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-GOY",
+        "subdivision_name": "Göyçay",
+        "abbreviation": "GOY"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-GAD",
+        "subdivision_name": "Gədəbəy",
+        "abbreviation": "GAD"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-GA",
+        "subdivision_name": "Gəncə",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-HAC",
+        "subdivision_name": "Hacıqabul",
+        "abbreviation": "HAC"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-KUR",
+        "subdivision_name": "Kürdəmir",
+        "abbreviation": "KUR"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-KAN",
+        "subdivision_name": "Kǝngǝrli",
+        "abbreviation": "KAN"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-KAL",
+        "subdivision_name": "Kəlbəcər",
+        "abbreviation": "KAL"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-LAC",
+        "subdivision_name": "Laçın",
+        "abbreviation": "LAC"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-LER",
+        "subdivision_name": "Lerik",
+        "abbreviation": "LER"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-LA",
+        "subdivision_name": "Lənkəran",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-LAN",
+        "subdivision_name": "Lənkəran",
+        "abbreviation": "LAN"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-MAS",
+        "subdivision_name": "Masallı",
+        "abbreviation": "MAS"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-MI",
+        "subdivision_name": "Mingəçevir",
+        "abbreviation": "MI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-NA",
+        "subdivision_name": "Naftalan",
+        "abbreviation": "NA"
+    },
+    {
+        "subdivision_category": "autonomous republic",
+        "iso_3166_2_code": "AZ-NX",
+        "subdivision_name": "Naxçıvan",
+        "abbreviation": "NX"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-NV",
+        "subdivision_name": "Naxçıvan",
+        "abbreviation": "NV"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-NEF",
+        "subdivision_name": "Neftçala",
+        "abbreviation": "NEF"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-ORD",
+        "subdivision_name": "Ordubad",
+        "abbreviation": "ORD"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-OGU",
+        "subdivision_name": "Oğuz",
+        "abbreviation": "OGU"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-QAX",
+        "subdivision_name": "Qax",
+        "abbreviation": "QAX"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-QAZ",
+        "subdivision_name": "Qazax",
+        "abbreviation": "QAZ"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-QOB",
+        "subdivision_name": "Qobustan",
+        "abbreviation": "QOB"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-QBA",
+        "subdivision_name": "Quba",
+        "abbreviation": "QBA"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-QBI",
+        "subdivision_name": "Qubadlı",
+        "abbreviation": "QBI"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-QUS",
+        "subdivision_name": "Qusar",
+        "abbreviation": "QUS"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-QAB",
+        "subdivision_name": "Qəbələ",
+        "abbreviation": "QAB"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SAT",
+        "subdivision_name": "Saatlı",
+        "abbreviation": "SAT"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SAB",
+        "subdivision_name": "Sabirabad",
+        "abbreviation": "SAB"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SAL",
+        "subdivision_name": "Salyan",
+        "abbreviation": "SAL"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SMX",
+        "subdivision_name": "Samux",
+        "abbreviation": "SMX"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SIY",
+        "subdivision_name": "Siyəzən",
+        "abbreviation": "SIY"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-SM",
+        "subdivision_name": "Sumqayıt",
+        "abbreviation": "SM"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SAD",
+        "subdivision_name": "Sədərək",
+        "abbreviation": "SAD"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-TOV",
+        "subdivision_name": "Tovuz",
+        "abbreviation": "TOV"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-TAR",
+        "subdivision_name": "Tərtər",
+        "abbreviation": "TAR"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-UCA",
+        "subdivision_name": "Ucar",
+        "abbreviation": "UCA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-XA",
+        "subdivision_name": "Xankəndi",
+        "abbreviation": "XA"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-XAC",
+        "subdivision_name": "Xaçmaz",
+        "abbreviation": "XAC"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-XCI",
+        "subdivision_name": "Xocalı",
+        "abbreviation": "XCI"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-XVD",
+        "subdivision_name": "Xocavənd",
+        "abbreviation": "XVD"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-XIZ",
+        "subdivision_name": "Xızı",
+        "abbreviation": "XIZ"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-YAR",
+        "subdivision_name": "Yardımlı",
+        "abbreviation": "YAR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-YE",
+        "subdivision_name": "Yevlax",
+        "abbreviation": "YE"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-YEV",
+        "subdivision_name": "Yevlax",
+        "abbreviation": "YEV"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-ZAQ",
+        "subdivision_name": "Zaqatala",
+        "abbreviation": "ZAQ"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-ZAN",
+        "subdivision_name": "Zəngilan",
+        "abbreviation": "ZAN"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-ZAR",
+        "subdivision_name": "Zərdab",
+        "abbreviation": "ZAR"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-IMI",
+        "subdivision_name": "İmişli",
+        "abbreviation": "IMI"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-ISM",
+        "subdivision_name": "İsmayıllı",
+        "abbreviation": "ISM"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SBN",
+        "subdivision_name": "Şabran",
+        "abbreviation": "SBN"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SAH",
+        "subdivision_name": "Şahbuz",
+        "abbreviation": "SAH"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SMI",
+        "subdivision_name": "Şamaxı",
+        "abbreviation": "SMI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-SR",
+        "subdivision_name": "Şirvan",
+        "abbreviation": "SR"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SUS",
+        "subdivision_name": "Şuşa",
+        "abbreviation": "SUS"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "AZ-SA",
+        "subdivision_name": "Şəki",
+        "abbreviation": "SA"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SAK",
+        "subdivision_name": "Şəki",
+        "abbreviation": "SAK"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SKR",
+        "subdivision_name": "Şəmkir",
+        "abbreviation": "SKR"
+    },
+    {
+        "subdivision_category": "rayon",
+        "iso_3166_2_code": "AZ-SAR",
+        "subdivision_name": "Şərur",
+        "abbreviation": "SAR"
+    }
+]

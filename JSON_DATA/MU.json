@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "MU-AG",
+        "subdivision_name": "Agalega Islands",
+        "abbreviation": "AG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-BL",
+        "subdivision_name": "Black River",
+        "abbreviation": "BL"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "MU-CC",
+        "subdivision_name": "Cargados Carajos Shoals",
+        "abbreviation": "CC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-FL",
+        "subdivision_name": "Flacq",
+        "abbreviation": "FL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-GP",
+        "subdivision_name": "Grand Port",
+        "abbreviation": "GP"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-MO",
+        "subdivision_name": "Moka",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-PA",
+        "subdivision_name": "Pamplemousses",
+        "abbreviation": "PA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-PW",
+        "subdivision_name": "Plaines Wilhems",
+        "abbreviation": "PW"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-PL",
+        "subdivision_name": "Port Louis",
+        "abbreviation": "PL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-RR",
+        "subdivision_name": "Rivière du Rempart",
+        "abbreviation": "RR"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "MU-RO",
+        "subdivision_name": "Rodrigues Island",
+        "abbreviation": "RO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-SA",
+        "subdivision_name": "Savanne",
+        "abbreviation": "SA"
+    }
+]

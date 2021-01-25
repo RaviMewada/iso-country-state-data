@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-B",
+        "subdivision_name": "Buenos Aires",
+        "abbreviation": "B"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-K",
+        "subdivision_name": "Catamarca",
+        "abbreviation": "K"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-H",
+        "subdivision_name": "Chaco",
+        "abbreviation": "H"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-U",
+        "subdivision_name": "Chubut",
+        "abbreviation": "U"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "AR-C",
+        "subdivision_name": "Ciudad Autónoma de Buenos Aires",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-W",
+        "subdivision_name": "Corrientes",
+        "abbreviation": "W"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-X",
+        "subdivision_name": "Córdoba",
+        "abbreviation": "X"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-E",
+        "subdivision_name": "Entre Ríos",
+        "abbreviation": "E"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-P",
+        "subdivision_name": "Formosa",
+        "abbreviation": "P"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-Y",
+        "subdivision_name": "Jujuy",
+        "abbreviation": "Y"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-L",
+        "subdivision_name": "La Pampa",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-F",
+        "subdivision_name": "La Rioja",
+        "abbreviation": "F"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-M",
+        "subdivision_name": "Mendoza",
+        "abbreviation": "M"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-N",
+        "subdivision_name": "Misiones",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-Q",
+        "subdivision_name": "Neuquén",
+        "abbreviation": "Q"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-R",
+        "subdivision_name": "Río Negro",
+        "abbreviation": "R"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-A",
+        "subdivision_name": "Salta",
+        "abbreviation": "A"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-J",
+        "subdivision_name": "San Juan",
+        "abbreviation": "J"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-D",
+        "subdivision_name": "San Luis",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-Z",
+        "subdivision_name": "Santa Cruz",
+        "abbreviation": "Z"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-S",
+        "subdivision_name": "Santa Fe",
+        "abbreviation": "S"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-G",
+        "subdivision_name": "Santiago del Estero",
+        "abbreviation": "G"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-V",
+        "subdivision_name": "Tierra del Fuego",
+        "abbreviation": "V"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AR-T",
+        "subdivision_name": "Tucumán",
+        "abbreviation": "T"
+    }
+]

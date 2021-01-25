@@ -1,0 +1,20 @@
+[
+    {
+        "subdivision_category": "group of islands (20 inhabited islands)",
+        "iso_3166_2_code": "KI-G",
+        "subdivision_name": "Gilbert Islands",
+        "abbreviation": "G"
+    },
+    {
+        "subdivision_category": "group of islands (20 inhabited islands)",
+        "iso_3166_2_code": "KI-L",
+        "subdivision_name": "Line Islands",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "group of islands (20 inhabited islands)",
+        "iso_3166_2_code": "KI-P",
+        "subdivision_name": "Phoenix Islands",
+        "abbreviation": "P"
+    }
+]

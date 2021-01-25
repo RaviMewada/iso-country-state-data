@@ -1,0 +1,50 @@
+[
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "AG-10",
+        "subdivision_name": "Barbuda",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "AG-11",
+        "subdivision_name": "Redonda",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AG-03",
+        "subdivision_name": "Saint George",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AG-04",
+        "subdivision_name": "Saint John",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AG-05",
+        "subdivision_name": "Saint Mary",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AG-06",
+        "subdivision_name": "Saint Paul",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AG-07",
+        "subdivision_name": "Saint Peter",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AG-08",
+        "subdivision_name": "Saint Philip",
+        "abbreviation": "08"
+    }
+]

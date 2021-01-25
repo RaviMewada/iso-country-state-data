@@ -1,0 +1,542 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-201",
+        "subdivision_name": "Benešov",
+        "abbreviation": "201"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-202",
+        "subdivision_name": "Beroun",
+        "abbreviation": "202"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-641",
+        "subdivision_name": "Blansko",
+        "abbreviation": "641"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-642",
+        "subdivision_name": "Brno-město",
+        "abbreviation": "642"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-643",
+        "subdivision_name": "Brno-venkov",
+        "abbreviation": "643"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-801",
+        "subdivision_name": "Bruntál",
+        "abbreviation": "801"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-644",
+        "subdivision_name": "Břeclav",
+        "abbreviation": "644"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-411",
+        "subdivision_name": "Cheb",
+        "abbreviation": "411"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-422",
+        "subdivision_name": "Chomutov",
+        "abbreviation": "422"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-531",
+        "subdivision_name": "Chrudim",
+        "abbreviation": "531"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-321",
+        "subdivision_name": "Domažlice",
+        "abbreviation": "321"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-421",
+        "subdivision_name": "Děčín",
+        "abbreviation": "421"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-802",
+        "subdivision_name": "Frýdek-Místek",
+        "abbreviation": "802"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-631",
+        "subdivision_name": "Havlíčkův Brod",
+        "abbreviation": "631"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-645",
+        "subdivision_name": "Hodonín",
+        "abbreviation": "645"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-521",
+        "subdivision_name": "Hradec Králové",
+        "abbreviation": "521"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-512",
+        "subdivision_name": "Jablonec nad Nisou",
+        "abbreviation": "512"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-711",
+        "subdivision_name": "Jeseník",
+        "abbreviation": "711"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-632",
+        "subdivision_name": "Jihlava",
+        "abbreviation": "632"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-64",
+        "subdivision_name": "Jihomoravský kraj",
+        "abbreviation": "64"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-31",
+        "subdivision_name": "Jihočeský kraj",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-313",
+        "subdivision_name": "Jindřichův Hradec",
+        "abbreviation": "313"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-522",
+        "subdivision_name": "Jičín",
+        "abbreviation": "522"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-41",
+        "subdivision_name": "Karlovarský kraj",
+        "abbreviation": "41"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-412",
+        "subdivision_name": "Karlovy Vary",
+        "abbreviation": "412"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-803",
+        "subdivision_name": "Karviná",
+        "abbreviation": "803"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-203",
+        "subdivision_name": "Kladno",
+        "abbreviation": "203"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-322",
+        "subdivision_name": "Klatovy",
+        "abbreviation": "322"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-204",
+        "subdivision_name": "Kolín",
+        "abbreviation": "204"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-63",
+        "subdivision_name": "Kraj Vysočina",
+        "abbreviation": "63"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-721",
+        "subdivision_name": "Kroměříž",
+        "abbreviation": "721"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-52",
+        "subdivision_name": "Královéhradecký kraj",
+        "abbreviation": "52"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-205",
+        "subdivision_name": "Kutná Hora",
+        "abbreviation": "205"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-513",
+        "subdivision_name": "Liberec",
+        "abbreviation": "513"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-51",
+        "subdivision_name": "Liberecký kraj",
+        "abbreviation": "51"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-423",
+        "subdivision_name": "Litoměřice",
+        "abbreviation": "423"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-424",
+        "subdivision_name": "Louny",
+        "abbreviation": "424"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-207",
+        "subdivision_name": "Mladá Boleslav",
+        "abbreviation": "207"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-80",
+        "subdivision_name": "Moravskoslezský kraj",
+        "abbreviation": "80"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-425",
+        "subdivision_name": "Most",
+        "abbreviation": "425"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-206",
+        "subdivision_name": "Mělník",
+        "abbreviation": "206"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-804",
+        "subdivision_name": "Nový Jičín",
+        "abbreviation": "804"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-208",
+        "subdivision_name": "Nymburk",
+        "abbreviation": "208"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-523",
+        "subdivision_name": "Náchod",
+        "abbreviation": "523"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-712",
+        "subdivision_name": "Olomouc",
+        "abbreviation": "712"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-71",
+        "subdivision_name": "Olomoucký kraj",
+        "abbreviation": "71"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-805",
+        "subdivision_name": "Opava",
+        "abbreviation": "805"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-806",
+        "subdivision_name": "Ostrava-město",
+        "abbreviation": "806"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-532",
+        "subdivision_name": "Pardubice",
+        "abbreviation": "532"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-53",
+        "subdivision_name": "Pardubický kraj",
+        "abbreviation": "53"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-633",
+        "subdivision_name": "Pelhřimov",
+        "abbreviation": "633"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-324",
+        "subdivision_name": "Plzeň-jih",
+        "abbreviation": "324"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-323",
+        "subdivision_name": "Plzeň-město",
+        "abbreviation": "323"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-325",
+        "subdivision_name": "Plzeň-sever",
+        "abbreviation": "325"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-32",
+        "subdivision_name": "Plzeňský kraj",
+        "abbreviation": "32"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-315",
+        "subdivision_name": "Prachatice",
+        "abbreviation": "315"
+    },
+    {
+        "subdivision_category": "capital city",
+        "iso_3166_2_code": "CZ-10",
+        "subdivision_name": "Praha, Hlavní město",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-209",
+        "subdivision_name": "Praha-východ",
+        "abbreviation": "209"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-20A",
+        "subdivision_name": "Praha-západ",
+        "abbreviation": "20A"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-713",
+        "subdivision_name": "Prostějov",
+        "abbreviation": "713"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-314",
+        "subdivision_name": "Písek",
+        "abbreviation": "314"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-714",
+        "subdivision_name": "Přerov",
+        "abbreviation": "714"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-20B",
+        "subdivision_name": "Příbram",
+        "abbreviation": "20B"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-20C",
+        "subdivision_name": "Rakovník",
+        "abbreviation": "20C"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-326",
+        "subdivision_name": "Rokycany",
+        "abbreviation": "326"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-524",
+        "subdivision_name": "Rychnov nad Kněžnou",
+        "abbreviation": "524"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-514",
+        "subdivision_name": "Semily",
+        "abbreviation": "514"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-413",
+        "subdivision_name": "Sokolov",
+        "abbreviation": "413"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-316",
+        "subdivision_name": "Strakonice",
+        "abbreviation": "316"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-20",
+        "subdivision_name": "Středočeský kraj",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-533",
+        "subdivision_name": "Svitavy",
+        "abbreviation": "533"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-327",
+        "subdivision_name": "Tachov",
+        "abbreviation": "327"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-426",
+        "subdivision_name": "Teplice",
+        "abbreviation": "426"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-525",
+        "subdivision_name": "Trutnov",
+        "abbreviation": "525"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-317",
+        "subdivision_name": "Tábor",
+        "abbreviation": "317"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-634",
+        "subdivision_name": "Třebíč",
+        "abbreviation": "634"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-722",
+        "subdivision_name": "Uherské Hradiště",
+        "abbreviation": "722"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-723",
+        "subdivision_name": "Vsetín",
+        "abbreviation": "723"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-646",
+        "subdivision_name": "Vyškov",
+        "abbreviation": "646"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-724",
+        "subdivision_name": "Zlín",
+        "abbreviation": "724"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-72",
+        "subdivision_name": "Zlínský kraj",
+        "abbreviation": "72"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-647",
+        "subdivision_name": "Znojmo",
+        "abbreviation": "647"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CZ-42",
+        "subdivision_name": "Ústecký kraj",
+        "abbreviation": "42"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-427",
+        "subdivision_name": "Ústí nad Labem",
+        "abbreviation": "427"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-534",
+        "subdivision_name": "Ústí nad Orlicí",
+        "abbreviation": "534"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-511",
+        "subdivision_name": "Česká Lípa",
+        "abbreviation": "511"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-311",
+        "subdivision_name": "České Budějovice",
+        "abbreviation": "311"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-312",
+        "subdivision_name": "Český Krumlov",
+        "abbreviation": "312"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-715",
+        "subdivision_name": "Šumperk",
+        "abbreviation": "715"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CZ-635",
+        "subdivision_name": "Žďár nad Sázavou",
+        "abbreviation": "635"
+    }
+]

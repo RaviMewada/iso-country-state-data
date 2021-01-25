@@ -1,0 +1,158 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-AB",
+        "subdivision_name": "Alberta",
+        "abbreviation": "AB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-AB",
+        "subdivision_name": "Alberta",
+        "abbreviation": "AB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-BC",
+        "subdivision_name": "British Columbia",
+        "abbreviation": "BC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-BC",
+        "subdivision_name": "Colombie-Britannique",
+        "abbreviation": "BC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-MB",
+        "subdivision_name": "Manitoba",
+        "abbreviation": "MB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-MB",
+        "subdivision_name": "Manitoba",
+        "abbreviation": "MB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-NB",
+        "subdivision_name": "New Brunswick",
+        "abbreviation": "NB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-NL",
+        "subdivision_name": "Newfoundland and Labrador",
+        "abbreviation": "NL"
+    },
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "CA-NT",
+        "subdivision_name": "Northwest Territories",
+        "abbreviation": "NT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-NB",
+        "subdivision_name": "Nouveau-Brunswick",
+        "abbreviation": "NB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-NS",
+        "subdivision_name": "Nouvelle-Écosse",
+        "abbreviation": "NS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-NS",
+        "subdivision_name": "Nova Scotia",
+        "abbreviation": "NS"
+    },
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "CA-NU",
+        "subdivision_name": "Nunavut",
+        "abbreviation": "NU"
+    },
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "CA-NU",
+        "subdivision_name": "Nunavut",
+        "abbreviation": "NU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-ON",
+        "subdivision_name": "Ontario",
+        "abbreviation": "ON"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-ON",
+        "subdivision_name": "Ontario",
+        "abbreviation": "ON"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-PE",
+        "subdivision_name": "Prince Edward Island",
+        "abbreviation": "PE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-QC",
+        "subdivision_name": "Quebec",
+        "abbreviation": "QC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-QC",
+        "subdivision_name": "Québec",
+        "abbreviation": "QC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-SK",
+        "subdivision_name": "Saskatchewan",
+        "abbreviation": "SK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-SK",
+        "subdivision_name": "Saskatchewan",
+        "abbreviation": "SK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-NL",
+        "subdivision_name": "Terre-Neuve-et-Labrador",
+        "abbreviation": "NL"
+    },
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "CA-NT",
+        "subdivision_name": "Territoires du Nord-Ouest",
+        "abbreviation": "NT"
+    },
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "CA-YT",
+        "subdivision_name": "Yukon",
+        "abbreviation": "YT"
+    },
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "CA-YT",
+        "subdivision_name": "Yukon",
+        "abbreviation": "YT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CA-PE",
+        "subdivision_name": "Île-du-Prince-Édouard",
+        "abbreviation": "PE"
+    }
+]

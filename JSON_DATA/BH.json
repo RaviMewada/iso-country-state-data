@@ -1,0 +1,26 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "BH-14",
+        "subdivision_name": "Al Janūbīyah",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "BH-15",
+        "subdivision_name": "Al Muḩarraq",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "BH-13",
+        "subdivision_name": "Al ‘Āşimah",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "BH-17",
+        "subdivision_name": "Ash Shamālīyah",
+        "abbreviation": "17"
+    }
+]

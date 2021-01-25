@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-AF",
+        "subdivision_name": "Ahafo",
+        "abbreviation": "AF"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-AH",
+        "subdivision_name": "Ashanti",
+        "abbreviation": "AH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-BO",
+        "subdivision_name": "Bono",
+        "abbreviation": "BO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-BE",
+        "subdivision_name": "Bono East",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-CP",
+        "subdivision_name": "Central",
+        "abbreviation": "CP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-EP",
+        "subdivision_name": "Eastern",
+        "abbreviation": "EP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-AA",
+        "subdivision_name": "Greater Accra",
+        "abbreviation": "AA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-NE",
+        "subdivision_name": "North East",
+        "abbreviation": "NE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-NP",
+        "subdivision_name": "Northern",
+        "abbreviation": "NP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-OT",
+        "subdivision_name": "Oti",
+        "abbreviation": "OT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-SV",
+        "subdivision_name": "Savannah",
+        "abbreviation": "SV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-UE",
+        "subdivision_name": "Upper East",
+        "abbreviation": "UE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-UW",
+        "subdivision_name": "Upper West",
+        "abbreviation": "UW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-TV",
+        "subdivision_name": "Volta",
+        "abbreviation": "TV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-WP",
+        "subdivision_name": "Western",
+        "abbreviation": "WP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GH-WN",
+        "subdivision_name": "Western North",
+        "abbreviation": "WN"
+    }
+]

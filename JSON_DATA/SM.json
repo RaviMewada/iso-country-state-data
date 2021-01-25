@@ -1,0 +1,56 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-01",
+        "subdivision_name": "Acquaviva",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-06",
+        "subdivision_name": "Borgo Maggiore",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-02",
+        "subdivision_name": "Chiesanuova",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-07",
+        "subdivision_name": "Città di San Marino",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-03",
+        "subdivision_name": "Domagnano",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-04",
+        "subdivision_name": "Faetano",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-05",
+        "subdivision_name": "Fiorentino",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-08",
+        "subdivision_name": "Montegiardino",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SM-09",
+        "subdivision_name": "Serravalle",
+        "abbreviation": "09"
+    }
+]

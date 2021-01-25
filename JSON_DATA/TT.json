@@ -1,0 +1,92 @@
+[
+    {
+        "subdivision_category": "borough",
+        "iso_3166_2_code": "TT-ARI",
+        "subdivision_name": "Arima",
+        "abbreviation": "ARI"
+    },
+    {
+        "subdivision_category": "borough",
+        "iso_3166_2_code": "TT-CHA",
+        "subdivision_name": "Chaguanas",
+        "abbreviation": "CHA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-CTT",
+        "subdivision_name": "Couva-Tabaquite-Talparo",
+        "abbreviation": "CTT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-DMN",
+        "subdivision_name": "Diego Martin",
+        "abbreviation": "DMN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-MRC",
+        "subdivision_name": "Mayaro-Rio Claro",
+        "abbreviation": "MRC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-PED",
+        "subdivision_name": "Penal-Debe",
+        "abbreviation": "PED"
+    },
+    {
+        "subdivision_category": "borough",
+        "iso_3166_2_code": "TT-PTF",
+        "subdivision_name": "Point Fortin",
+        "abbreviation": "PTF"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "TT-POS",
+        "subdivision_name": "Port of Spain",
+        "abbreviation": "POS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-PRT",
+        "subdivision_name": "Princes Town",
+        "abbreviation": "PRT"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "TT-SFO",
+        "subdivision_name": "San Fernando",
+        "abbreviation": "SFO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-SJL",
+        "subdivision_name": "San Juan-Laventille",
+        "abbreviation": "SJL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-SGE",
+        "subdivision_name": "Sangre Grande",
+        "abbreviation": "SGE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-SIP",
+        "subdivision_name": "Siparia",
+        "abbreviation": "SIP"
+    },
+    {
+        "subdivision_category": "ward",
+        "iso_3166_2_code": "TT-TOB",
+        "subdivision_name": "Tobago",
+        "abbreviation": "TOB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TT-TUP",
+        "subdivision_name": "Tunapuna-Piarco",
+        "abbreviation": "TUP"
+    }
+]

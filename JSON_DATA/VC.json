@@ -1,0 +1,38 @@
+[
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "VC-01",
+        "subdivision_name": "Charlotte",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "VC-06",
+        "subdivision_name": "Grenadines",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "VC-02",
+        "subdivision_name": "Saint Andrew",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "VC-03",
+        "subdivision_name": "Saint David",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "VC-04",
+        "subdivision_name": "Saint George",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "VC-05",
+        "subdivision_name": "Saint Patrick",
+        "abbreviation": "05"
+    }
+]

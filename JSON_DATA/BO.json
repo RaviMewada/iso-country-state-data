@@ -1,0 +1,56 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-H",
+        "subdivision_name": "Chuquisaca",
+        "abbreviation": "H"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-C",
+        "subdivision_name": "Cochabamba",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-B",
+        "subdivision_name": "El Beni",
+        "abbreviation": "B"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-L",
+        "subdivision_name": "La Paz",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-O",
+        "subdivision_name": "Oruro",
+        "abbreviation": "O"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-N",
+        "subdivision_name": "Pando",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-P",
+        "subdivision_name": "Potosí",
+        "abbreviation": "P"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-S",
+        "subdivision_name": "Santa Cruz",
+        "abbreviation": "S"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BO-T",
+        "subdivision_name": "Tarija",
+        "abbreviation": "T"
+    }
+]

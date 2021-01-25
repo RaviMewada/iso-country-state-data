@@ -1,0 +1,250 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-AC",
+        "subdivision_name": "Aceh",
+        "abbreviation": "AC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-BA",
+        "subdivision_name": "Bali",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-BT",
+        "subdivision_name": "Banten",
+        "abbreviation": "BT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-BE",
+        "subdivision_name": "Bengkulu",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-GO",
+        "subdivision_name": "Gorontalo",
+        "abbreviation": "GO"
+    },
+    {
+        "subdivision_category": "capital district",
+        "iso_3166_2_code": "ID-JK",
+        "subdivision_name": "Jakarta Raya",
+        "field8": "ID-JW",
+        "abbreviation": "JK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-JA",
+        "subdivision_name": "Jambi",
+        "abbreviation": "JA"
+    },
+    {
+        "subdivision_category": "geographical unit",
+        "iso_3166_2_code": "ID-JW",
+        "subdivision_name": "Jawa",
+        "abbreviation": "JW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-JB",
+        "subdivision_name": "Jawa Barat",
+        "abbreviation": "JB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-JT",
+        "subdivision_name": "Jawa Tengah",
+        "abbreviation": "JT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-JI",
+        "subdivision_name": "Jawa Timur",
+        "abbreviation": "JI"
+    },
+    {
+        "subdivision_category": "geographical unit",
+        "iso_3166_2_code": "ID-KA",
+        "subdivision_name": "Kalimantan",
+        "abbreviation": "KA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-KB",
+        "subdivision_name": "Kalimantan Barat",
+        "abbreviation": "KB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-KS",
+        "subdivision_name": "Kalimantan Selatan",
+        "abbreviation": "KS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-KT",
+        "subdivision_name": "Kalimantan Tengah",
+        "abbreviation": "KT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-KI",
+        "subdivision_name": "Kalimantan Timur",
+        "abbreviation": "KI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-KU",
+        "subdivision_name": "Kalimantan Utara",
+        "abbreviation": "KU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-BB",
+        "subdivision_name": "Kepulauan Bangka Belitung",
+        "abbreviation": "BB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-KR",
+        "subdivision_name": "Kepulauan Riau",
+        "abbreviation": "KR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-LA",
+        "subdivision_name": "Lampung",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "geographical unit",
+        "iso_3166_2_code": "ID-ML",
+        "subdivision_name": "Maluku",
+        "abbreviation": "ML"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-MA",
+        "subdivision_name": "Maluku",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-MU",
+        "subdivision_name": "Maluku Utara",
+        "abbreviation": "MU"
+    },
+    {
+        "subdivision_category": "geographical unit",
+        "iso_3166_2_code": "ID-NU",
+        "subdivision_name": "Nusa Tenggara",
+        "abbreviation": "NU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-NB",
+        "subdivision_name": "Nusa Tenggara Barat",
+        "abbreviation": "NB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-NT",
+        "subdivision_name": "Nusa Tenggara Timur",
+        "abbreviation": "NT"
+    },
+    {
+        "subdivision_category": "geographical unit",
+        "iso_3166_2_code": "ID-PP",
+        "subdivision_name": "Papua",
+        "abbreviation": "PP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-PA",
+        "subdivision_name": "Papua",
+        "abbreviation": "PA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-PB",
+        "subdivision_name": "Papua Barat",
+        "abbreviation": "PB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-RI",
+        "subdivision_name": "Riau",
+        "abbreviation": "RI"
+    },
+    {
+        "subdivision_category": "geographical unit",
+        "iso_3166_2_code": "ID-SL",
+        "subdivision_name": "Sulawesi",
+        "abbreviation": "SL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-SR",
+        "subdivision_name": "Sulawesi Barat",
+        "abbreviation": "SR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-SN",
+        "subdivision_name": "Sulawesi Selatan",
+        "abbreviation": "SN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-ST",
+        "subdivision_name": "Sulawesi Tengah",
+        "abbreviation": "ST"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-SG",
+        "subdivision_name": "Sulawesi Tenggara",
+        "abbreviation": "SG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-SA",
+        "subdivision_name": "Sulawesi Utara",
+        "abbreviation": "SA"
+    },
+    {
+        "subdivision_category": "geographical unit",
+        "iso_3166_2_code": "ID-SM",
+        "subdivision_name": "Sumatera",
+        "abbreviation": "SM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-SB",
+        "subdivision_name": "Sumatera Barat",
+        "abbreviation": "SB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-SS",
+        "subdivision_name": "Sumatera Selatan",
+        "abbreviation": "SS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ID-SU",
+        "subdivision_name": "Sumatera Utara",
+        "abbreviation": "SU"
+    },
+    {
+        "subdivision_category": "special region",
+        "iso_3166_2_code": "ID-YO",
+        "subdivision_name": "Yogyakarta",
+        "field8": "ID-JW",
+        "abbreviation": "YO"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "subdivision_category": "administrative precinct",
+        "iso_3166_2_code": "WF-AL",
+        "subdivision_name": "Alo",
+        "abbreviation": "AL"
+    },
+    {
+        "subdivision_category": "administrative precinct",
+        "iso_3166_2_code": "WF-SG",
+        "subdivision_name": "Sigave",
+        "abbreviation": "SG"
+    },
+    {
+        "subdivision_category": "administrative precinct",
+        "iso_3166_2_code": "WF-UV",
+        "subdivision_name": "Uvea",
+        "abbreviation": "UV"
+    }
+]

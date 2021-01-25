@@ -1,0 +1,232 @@
+[
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-BA",
+        "subdivision_name": "Bagmati",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-BH",
+        "subdivision_name": "Bheri",
+        "abbreviation": "BH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P3",
+        "subdivision_name": "Bāgmatī",
+        "abbreviation": "P3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P3",
+        "subdivision_name": "Bāgmatī",
+        "abbreviation": "P3"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-1",
+        "subdivision_name": "Central",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-DH",
+        "subdivision_name": "Dhawalagiri",
+        "abbreviation": "DH"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-4",
+        "subdivision_name": "Eastern",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-5",
+        "subdivision_name": "Far Western",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-GA",
+        "subdivision_name": "Gandaki",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P4",
+        "subdivision_name": "Gandaki",
+        "abbreviation": "P4"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P4",
+        "subdivision_name": "Gandaki",
+        "abbreviation": "P4"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-JA",
+        "subdivision_name": "Janakpur",
+        "abbreviation": "JA"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-KA",
+        "subdivision_name": "Karnali",
+        "abbreviation": "KA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P6",
+        "subdivision_name": "Karnali",
+        "abbreviation": "P6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P6",
+        "subdivision_name": "Karnali",
+        "abbreviation": "P6"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-KO",
+        "subdivision_name": "Kosi",
+        "abbreviation": "KO"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-LU",
+        "subdivision_name": "Lumbini",
+        "abbreviation": "LU"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-2",
+        "subdivision_name": "Madhya Pashchimanchal",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-1",
+        "subdivision_name": "Madhyamanchal",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-MA",
+        "subdivision_name": "Mahakali",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-ME",
+        "subdivision_name": "Mechi",
+        "abbreviation": "ME"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-2",
+        "subdivision_name": "Mid Western",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-NA",
+        "subdivision_name": "Narayani",
+        "abbreviation": "NA"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-3",
+        "subdivision_name": "Pashchimanchal",
+        "abbreviation": "3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P1",
+        "subdivision_name": "Pradesh 1",
+        "abbreviation": "P1"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P2",
+        "subdivision_name": "Pradesh 2",
+        "abbreviation": "P2"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P5",
+        "subdivision_name": "Pradesh 5",
+        "abbreviation": "P5"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P1",
+        "subdivision_name": "Province 1",
+        "abbreviation": "P1"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P2",
+        "subdivision_name": "Province 2",
+        "abbreviation": "P2"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P5",
+        "subdivision_name": "Province 5",
+        "abbreviation": "P5"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-4",
+        "subdivision_name": "Purwanchal",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-RA",
+        "subdivision_name": "Rapti",
+        "abbreviation": "RA"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-SA",
+        "subdivision_name": "Sagarmatha",
+        "abbreviation": "SA"
+    },
+    {
+        "subdivision_category": "zone",
+        "iso_3166_2_code": "NP-SE",
+        "subdivision_name": "Seti",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-5",
+        "subdivision_name": "Sudur Pashchimanchal",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P7",
+        "subdivision_name": "Sudūr Pashchim",
+        "field8": "",
+        "abbreviation": "P7"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NP-P7",
+        "subdivision_name": "Sudūr Pashchim",
+        "field8": "",
+        "abbreviation": "P7"
+    },
+    {
+        "subdivision_category": "development region",
+        "iso_3166_2_code": "NP-3",
+        "subdivision_name": "Western",
+        "abbreviation": "3"
+    }
+]

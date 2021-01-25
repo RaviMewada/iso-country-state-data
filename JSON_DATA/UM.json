@@ -1,0 +1,56 @@
+[
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-81",
+        "subdivision_name": "Baker Island",
+        "abbreviation": "81"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-84",
+        "subdivision_name": "Howland Island",
+        "abbreviation": "84"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-86",
+        "subdivision_name": "Jarvis Island",
+        "abbreviation": "86"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-67",
+        "subdivision_name": "Johnston Atoll",
+        "abbreviation": "67"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-89",
+        "subdivision_name": "Kingman Reef",
+        "abbreviation": "89"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-71",
+        "subdivision_name": "Midway Islands",
+        "abbreviation": "71"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-76",
+        "subdivision_name": "Navassa Island",
+        "abbreviation": "76"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-95",
+        "subdivision_name": "Palmyra Atoll",
+        "abbreviation": "95"
+    },
+    {
+        "subdivision_category": "islands, groups of islands",
+        "iso_3166_2_code": "UM-79",
+        "subdivision_name": "Wake Island",
+        "abbreviation": "79"
+    }
+]

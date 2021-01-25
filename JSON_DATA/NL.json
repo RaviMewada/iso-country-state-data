@@ -1,0 +1,110 @@
+[
+    {
+        "subdivision_category": "country",
+        "iso_3166_2_code": "NL-AW",
+        "subdivision_name": "Aruba (see also separate country code entry under AW)",
+        "abbreviation": "AW"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "NL-BQ1",
+        "subdivision_name": "Bonaire (see also separate country code entry under BQ)",
+        "abbreviation": "BQ1"
+    },
+    {
+        "subdivision_category": "country",
+        "iso_3166_2_code": "NL-CW",
+        "subdivision_name": "Curaçao (see also separate country code entry under CW)",
+        "abbreviation": "CW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-DR",
+        "subdivision_name": "Drenthe",
+        "abbreviation": "DR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-FL",
+        "subdivision_name": "Flevoland",
+        "abbreviation": "FL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-FR",
+        "subdivision_name": "Fryslân",
+        "abbreviation": "FR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-GE",
+        "subdivision_name": "Gelderland",
+        "abbreviation": "GE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-GR",
+        "subdivision_name": "Groningen",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-LI",
+        "subdivision_name": "Limburg",
+        "abbreviation": "LI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-NB",
+        "subdivision_name": "Noord-Brabant",
+        "abbreviation": "NB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-NH",
+        "subdivision_name": "Noord-Holland",
+        "abbreviation": "NH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-OV",
+        "subdivision_name": "Overijssel",
+        "abbreviation": "OV"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "NL-BQ2",
+        "subdivision_name": "Saba (see also separate country code entry under BQ)",
+        "abbreviation": "BQ2"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "NL-BQ3",
+        "subdivision_name": "Sint Eustatius (see also separate country code entry under BQ)",
+        "abbreviation": "BQ3"
+    },
+    {
+        "subdivision_category": "country",
+        "iso_3166_2_code": "NL-SX",
+        "subdivision_name": "Sint Maarten (see also separate country code entry under SX)",
+        "abbreviation": "SX"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-UT",
+        "subdivision_name": "Utrecht",
+        "abbreviation": "UT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-ZE",
+        "subdivision_name": "Zeeland",
+        "abbreviation": "ZE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "NL-ZH",
+        "subdivision_name": "Zuid-Holland",
+        "abbreviation": "ZH"
+    }
+]

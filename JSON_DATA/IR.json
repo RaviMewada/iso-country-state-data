@@ -1,0 +1,188 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-30",
+        "subdivision_name": "Alborz",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-24",
+        "subdivision_name": "Ardabīl",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-18",
+        "subdivision_name": "Būshehr",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-14",
+        "subdivision_name": "Chahār Maḩāl va Bakhtīārī",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-10",
+        "subdivision_name": "Eşfahān",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-07",
+        "subdivision_name": "Fārs",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-27",
+        "subdivision_name": "Golestān",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-01",
+        "subdivision_name": "Gīlān",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-13",
+        "subdivision_name": "Hamadān",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-22",
+        "subdivision_name": "Hormozgān",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-08",
+        "subdivision_name": "Kermān",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-05",
+        "subdivision_name": "Kermānshāh",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-29",
+        "subdivision_name": "Khorāsān-e Jonūbī",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-09",
+        "subdivision_name": "Khorāsān-e Raẕavī",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-28",
+        "subdivision_name": "Khorāsān-e Shomālī",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-06",
+        "subdivision_name": "Khūzestān",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-17",
+        "subdivision_name": "Kohgīlūyeh va Bowyer Aḩmad",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-12",
+        "subdivision_name": "Kordestān",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-15",
+        "subdivision_name": "Lorestān",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-00",
+        "subdivision_name": "Markazī",
+        "abbreviation": "00"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-02",
+        "subdivision_name": "Māzandarān",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-26",
+        "subdivision_name": "Qazvīn",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-25",
+        "subdivision_name": "Qom",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-20",
+        "subdivision_name": "Semnān",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-11",
+        "subdivision_name": "Sīstān va Balūchestān",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-23",
+        "subdivision_name": "Tehrān",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-21",
+        "subdivision_name": "Yazd",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-19",
+        "subdivision_name": "Zanjān",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-04",
+        "subdivision_name": "Āz̄ārbāyjān-e Ghārbī",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-03",
+        "subdivision_name": "Āz̄ārbāyjān-e Shārqī",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IR-16",
+        "subdivision_name": "Īlām",
+        "abbreviation": "16"
+    }
+]

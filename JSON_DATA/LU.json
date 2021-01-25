@@ -1,0 +1,218 @@
+[
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-CA",
+        "subdivision_name": "Capellen",
+        "abbreviation": "CA"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-CA",
+        "subdivision_name": "Capellen",
+        "abbreviation": "CA"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-CL",
+        "subdivision_name": "Clerf",
+        "abbreviation": "CL"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-CL",
+        "subdivision_name": "Clervaux",
+        "abbreviation": "CL"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-DI",
+        "subdivision_name": "Diekirch",
+        "abbreviation": "DI"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-DI",
+        "subdivision_name": "Diekirch",
+        "abbreviation": "DI"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-DI",
+        "subdivision_name": "Diekrech",
+        "abbreviation": "DI"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-EC",
+        "subdivision_name": "Echternach",
+        "abbreviation": "EC"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-EC",
+        "subdivision_name": "Echternach",
+        "abbreviation": "EC"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-ES",
+        "subdivision_name": "Esch an der Alzette",
+        "abbreviation": "ES"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-ES",
+        "subdivision_name": "Esch-Uelzecht",
+        "abbreviation": "ES"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-ES",
+        "subdivision_name": "Esch-sur-Alzette",
+        "abbreviation": "ES"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-GR",
+        "subdivision_name": "Grevenmacher",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-GR",
+        "subdivision_name": "Grevenmacher",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-GR",
+        "subdivision_name": "Gréivemaacher",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-EC",
+        "subdivision_name": "Iechternach",
+        "abbreviation": "EC"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-CA",
+        "subdivision_name": "Kapellen",
+        "abbreviation": "CA"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-CL",
+        "subdivision_name": "Klierf",
+        "abbreviation": "CL"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-LU",
+        "subdivision_name": "Luxembourg",
+        "abbreviation": "LU"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-LU",
+        "subdivision_name": "Luxemburg",
+        "abbreviation": "LU"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-LU",
+        "subdivision_name": "Lëtzebuerg",
+        "abbreviation": "LU"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-ME",
+        "subdivision_name": "Mersch",
+        "abbreviation": "ME"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-ME",
+        "subdivision_name": "Mersch",
+        "abbreviation": "ME"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-ME",
+        "subdivision_name": "Miersch",
+        "abbreviation": "ME"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-RD",
+        "subdivision_name": "Redange",
+        "abbreviation": "RD"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-RD",
+        "subdivision_name": "Redingen",
+        "abbreviation": "RD"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-RM",
+        "subdivision_name": "Remich",
+        "abbreviation": "RM"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-RM",
+        "subdivision_name": "Remich",
+        "abbreviation": "RM"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-RD",
+        "subdivision_name": "Réiden-Atert",
+        "abbreviation": "RD"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-RM",
+        "subdivision_name": "Réimech",
+        "abbreviation": "RM"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-VD",
+        "subdivision_name": "Veianen",
+        "abbreviation": "VD"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-VD",
+        "subdivision_name": "Vianden",
+        "abbreviation": "VD"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-VD",
+        "subdivision_name": "Vianden",
+        "abbreviation": "VD"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-WI",
+        "subdivision_name": "Wiltz",
+        "abbreviation": "WI"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-WI",
+        "subdivision_name": "Wiltz",
+        "abbreviation": "WI"
+    },
+    {
+        "subdivision_category": "canton",
+        "iso_3166_2_code": "LU-WI",
+        "subdivision_name": "Wolz",
+        "abbreviation": "WI"
+    }
+]

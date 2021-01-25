@@ -1,0 +1,164 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-AC",
+        "subdivision_name": "Acre",
+        "abbreviation": "AC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-AL",
+        "subdivision_name": "Alagoas",
+        "abbreviation": "AL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-AP",
+        "subdivision_name": "Amapá",
+        "abbreviation": "AP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-AM",
+        "subdivision_name": "Amazonas",
+        "abbreviation": "AM"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-BA",
+        "subdivision_name": "Bahia",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-CE",
+        "subdivision_name": "Ceará",
+        "abbreviation": "CE"
+    },
+    {
+        "subdivision_category": "federal district",
+        "iso_3166_2_code": "BR-DF",
+        "subdivision_name": "Distrito Federal",
+        "abbreviation": "DF"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-ES",
+        "subdivision_name": "Espírito Santo",
+        "abbreviation": "ES"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-GO",
+        "subdivision_name": "Goiás",
+        "abbreviation": "GO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-MA",
+        "subdivision_name": "Maranhão",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-MT",
+        "subdivision_name": "Mato Grosso",
+        "abbreviation": "MT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-MS",
+        "subdivision_name": "Mato Grosso do Sul",
+        "abbreviation": "MS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-MG",
+        "subdivision_name": "Minas Gerais",
+        "abbreviation": "MG"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-PR",
+        "subdivision_name": "Paraná",
+        "abbreviation": "PR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-PB",
+        "subdivision_name": "Paraíba",
+        "abbreviation": "PB"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-PA",
+        "subdivision_name": "Pará",
+        "abbreviation": "PA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-PE",
+        "subdivision_name": "Pernambuco",
+        "abbreviation": "PE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-PI",
+        "subdivision_name": "Piauí",
+        "abbreviation": "PI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-RN",
+        "subdivision_name": "Rio Grande do Norte",
+        "abbreviation": "RN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-RS",
+        "subdivision_name": "Rio Grande do Sul",
+        "abbreviation": "RS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-RJ",
+        "subdivision_name": "Rio de Janeiro",
+        "abbreviation": "RJ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-RO",
+        "subdivision_name": "Rondônia",
+        "abbreviation": "RO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-RR",
+        "subdivision_name": "Roraima",
+        "abbreviation": "RR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-SC",
+        "subdivision_name": "Santa Catarina",
+        "abbreviation": "SC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-SE",
+        "subdivision_name": "Sergipe",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-SP",
+        "subdivision_name": "São Paulo",
+        "abbreviation": "SP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "BR-TO",
+        "subdivision_name": "Tocantins",
+        "abbreviation": "TO"
+    }
+]

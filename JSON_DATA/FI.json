@@ -1,0 +1,230 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-01",
+        "subdivision_name": "Ahvenanmaan maakunta",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-11",
+        "subdivision_name": "Birkaland",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-19",
+        "subdivision_name": "Egentliga Finland",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-06",
+        "subdivision_name": "Egentliga Tavastland",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-02",
+        "subdivision_name": "Etelä-Karjala",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-03",
+        "subdivision_name": "Etelä-Pohjanmaa",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-04",
+        "subdivision_name": "Etelä-Savo",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-05",
+        "subdivision_name": "Kainuu",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-05",
+        "subdivision_name": "Kajanaland",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-06",
+        "subdivision_name": "Kanta-Häme",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-07",
+        "subdivision_name": "Keski-Pohjanmaa",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-08",
+        "subdivision_name": "Keski-Suomi",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-09",
+        "subdivision_name": "Kymenlaakso",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-09",
+        "subdivision_name": "Kymmenedalen",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-01",
+        "subdivision_name": "Landskapet Åland",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-10",
+        "subdivision_name": "Lappi",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-10",
+        "subdivision_name": "Lappland",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-08",
+        "subdivision_name": "Mellersta Finland",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-07",
+        "subdivision_name": "Mellersta Österbotten",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-13",
+        "subdivision_name": "Norra Karelen",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-15",
+        "subdivision_name": "Norra Savolax",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-14",
+        "subdivision_name": "Norra Österbotten",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-18",
+        "subdivision_name": "Nyland",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-11",
+        "subdivision_name": "Pirkanmaa",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-12",
+        "subdivision_name": "Pohjanmaa",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-13",
+        "subdivision_name": "Pohjois-Karjala",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-14",
+        "subdivision_name": "Pohjois-Pohjanmaa",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-15",
+        "subdivision_name": "Pohjois-Savo",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-16",
+        "subdivision_name": "Päijänne-Tavastland",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-16",
+        "subdivision_name": "Päijät-Häme",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-17",
+        "subdivision_name": "Satakunda",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-17",
+        "subdivision_name": "Satakunta",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-02",
+        "subdivision_name": "Södra Karelen",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-04",
+        "subdivision_name": "Södra Savolax",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-03",
+        "subdivision_name": "Södra Österbotten",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-18",
+        "subdivision_name": "Uusimaa",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-19",
+        "subdivision_name": "Varsinais-Suomi",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "FI-12",
+        "subdivision_name": "Österbotten",
+        "abbreviation": "12"
+    }
+]

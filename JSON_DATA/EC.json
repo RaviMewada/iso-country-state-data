@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-A",
+        "subdivision_name": "Azuay",
+        "abbreviation": "A"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-B",
+        "subdivision_name": "Bolívar",
+        "abbreviation": "B"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-C",
+        "subdivision_name": "Carchi",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-F",
+        "subdivision_name": "Cañar",
+        "abbreviation": "F"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-H",
+        "subdivision_name": "Chimborazo",
+        "abbreviation": "H"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-X",
+        "subdivision_name": "Cotopaxi",
+        "abbreviation": "X"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-O",
+        "subdivision_name": "El Oro",
+        "abbreviation": "O"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-E",
+        "subdivision_name": "Esmeraldas",
+        "abbreviation": "E"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-W",
+        "subdivision_name": "Galápagos",
+        "abbreviation": "W"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-G",
+        "subdivision_name": "Guayas",
+        "abbreviation": "G"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-I",
+        "subdivision_name": "Imbabura",
+        "abbreviation": "I"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-L",
+        "subdivision_name": "Loja",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-R",
+        "subdivision_name": "Los Ríos",
+        "abbreviation": "R"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-M",
+        "subdivision_name": "Manabí",
+        "abbreviation": "M"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-S",
+        "subdivision_name": "Morona Santiago",
+        "abbreviation": "S"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-N",
+        "subdivision_name": "Napo",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-D",
+        "subdivision_name": "Orellana",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-Y",
+        "subdivision_name": "Pastaza",
+        "abbreviation": "Y"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-P",
+        "subdivision_name": "Pichincha",
+        "abbreviation": "P"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-SE",
+        "subdivision_name": "Santa Elena",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-SD",
+        "subdivision_name": "Santo Domingo de los Tsáchilas",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-U",
+        "subdivision_name": "Sucumbíos",
+        "abbreviation": "U"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-T",
+        "subdivision_name": "Tungurahua",
+        "abbreviation": "T"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "EC-Z",
+        "subdivision_name": "Zamora Chinchipe",
+        "abbreviation": "Z"
+    }
+]

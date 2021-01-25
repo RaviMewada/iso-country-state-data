@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-MA",
+        "subdivision_name": "Al Awsaţ",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DU",
+        "subdivision_name": "Al Janūbī",
+        "abbreviation": "DU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-AN",
+        "subdivision_name": "Ansabā",
+        "abbreviation": "AN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DU",
+        "subdivision_name": "Debub",
+        "abbreviation": "DU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DK",
+        "subdivision_name": "Debubawi K’eyyĭḥ Baḥri",
+        "abbreviation": "DK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-GB",
+        "subdivision_name": "Gash-Barka",
+        "abbreviation": "GB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DK",
+        "subdivision_name": "Janūbī al Baḩrī al Aḩmar",
+        "abbreviation": "DK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-MA",
+        "subdivision_name": "Ma’ĭkel",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-GB",
+        "subdivision_name": "Qāsh-Barkah",
+        "abbreviation": "GB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-SK",
+        "subdivision_name": "Semienawi K’eyyĭḥ Baḥri",
+        "abbreviation": "SK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-SK",
+        "subdivision_name": "Shimālī al Baḩrī al Aḩmar",
+        "abbreviation": "SK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-AN",
+        "subdivision_name": "‘Anseba",
+        "abbreviation": "AN"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-15",
+        "subdivision_name": "Artemisa",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-09",
+        "subdivision_name": "Camagüey",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-08",
+        "subdivision_name": "Ciego de Ávila",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-06",
+        "subdivision_name": "Cienfuegos",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-12",
+        "subdivision_name": "Granma",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-14",
+        "subdivision_name": "Guantánamo",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-11",
+        "subdivision_name": "Holguín",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "CU-99",
+        "subdivision_name": "Isla de la Juventud",
+        "abbreviation": "99"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-03",
+        "subdivision_name": "La Habana",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-10",
+        "subdivision_name": "Las Tunas",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-04",
+        "subdivision_name": "Matanzas",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-16",
+        "subdivision_name": "Mayabeque",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-01",
+        "subdivision_name": "Pinar del Río",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-07",
+        "subdivision_name": "Sancti Spíritus",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-13",
+        "subdivision_name": "Santiago de Cuba",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CU-05",
+        "subdivision_name": "Villa Clara",
+        "abbreviation": "05"
+    }
+]

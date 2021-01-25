@@ -1,0 +1,194 @@
+[
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "RS-00",
+        "subdivision_name": "Beograd",
+        "abbreviation": "00"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-14",
+        "subdivision_name": "Borski okrug",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-11",
+        "subdivision_name": "Braničevski okrug",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-23",
+        "subdivision_name": "Jablanički okrug",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-04",
+        "subdivision_name": "Južnobanatski okrug",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-06",
+        "subdivision_name": "Južnobački okrug",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-09",
+        "subdivision_name": "Kolubarski okrug",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "autonomous province",
+        "iso_3166_2_code": "RS-KM",
+        "subdivision_name": "Kosovo-Metohija",
+        "abbreviation": "KM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-25",
+        "subdivision_name": "Kosovski okrug",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-28",
+        "subdivision_name": "Kosovsko-Mitrovački okrug",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-29",
+        "subdivision_name": "Kosovsko-Pomoravski okrug",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-08",
+        "subdivision_name": "Mačvanski okrug",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-17",
+        "subdivision_name": "Moravički okrug",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-20",
+        "subdivision_name": "Nišavski okrug",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-26",
+        "subdivision_name": "Pećki okrug",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-22",
+        "subdivision_name": "Pirotski okrug",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-10",
+        "subdivision_name": "Podunavski okrug",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-13",
+        "subdivision_name": "Pomoravski okrug",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-27",
+        "subdivision_name": "Prizrenski okrug",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-24",
+        "subdivision_name": "Pčinjski okrug",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-19",
+        "subdivision_name": "Rasinski okrug",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-18",
+        "subdivision_name": "Raški okrug",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-03",
+        "subdivision_name": "Severnobanatski okrug",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-01",
+        "subdivision_name": "Severnobački okrug",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-02",
+        "subdivision_name": "Srednjebanatski okrug",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-07",
+        "subdivision_name": "Sremski okrug",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-21",
+        "subdivision_name": "Toplički okrug",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "autonomous province",
+        "iso_3166_2_code": "RS-VO",
+        "subdivision_name": "Vojvodina",
+        "abbreviation": "VO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-15",
+        "subdivision_name": "Zaječarski okrug",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-05",
+        "subdivision_name": "Zapadnobački okrug",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-16",
+        "subdivision_name": "Zlatiborski okrug",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "RS-12",
+        "subdivision_name": "Šumadijski okrug",
+        "abbreviation": "12"
+    }
+]

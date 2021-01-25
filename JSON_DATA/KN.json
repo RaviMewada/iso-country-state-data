@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-01",
+        "subdivision_name": "Christ Church Nichola Town",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "KN-N",
+        "subdivision_name": "Nevis",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-02",
+        "subdivision_name": "Saint Anne Sandy Point",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-03",
+        "subdivision_name": "Saint George Basseterre",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-04",
+        "subdivision_name": "Saint George Gingerland",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-05",
+        "subdivision_name": "Saint James Windward",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-06",
+        "subdivision_name": "Saint John Capisterre",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-07",
+        "subdivision_name": "Saint John Figtree",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "KN-K",
+        "subdivision_name": "Saint Kitts",
+        "abbreviation": "K"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-08",
+        "subdivision_name": "Saint Mary Cayon",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-09",
+        "subdivision_name": "Saint Paul Capisterre",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-10",
+        "subdivision_name": "Saint Paul Charlestown",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-11",
+        "subdivision_name": "Saint Peter Basseterre",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-12",
+        "subdivision_name": "Saint Thomas Lowland",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-13",
+        "subdivision_name": "Saint Thomas Middle Island",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "KN-15",
+        "subdivision_name": "Trinity Palmetto Point",
+        "abbreviation": "15"
+    }
+]

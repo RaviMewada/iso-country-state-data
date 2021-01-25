@@ -1,0 +1,122 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-01",
+        "subdivision_name": "Aveiro",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-02",
+        "subdivision_name": "Beja",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-03",
+        "subdivision_name": "Braga",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-04",
+        "subdivision_name": "Bragança",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-05",
+        "subdivision_name": "Castelo Branco",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-06",
+        "subdivision_name": "Coimbra",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-08",
+        "subdivision_name": "Faro",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-09",
+        "subdivision_name": "Guarda",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-10",
+        "subdivision_name": "Leiria",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-11",
+        "subdivision_name": "Lisboa",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-12",
+        "subdivision_name": "Portalegre",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-13",
+        "subdivision_name": "Porto",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "PT-30",
+        "subdivision_name": "Região Autónoma da Madeira",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "PT-20",
+        "subdivision_name": "Região Autónoma dos Açores",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-14",
+        "subdivision_name": "Santarém",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-15",
+        "subdivision_name": "Setúbal",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-16",
+        "subdivision_name": "Viana do Castelo",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-17",
+        "subdivision_name": "Vila Real",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-18",
+        "subdivision_name": "Viseu",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "PT-07",
+        "subdivision_name": "Évora",
+        "abbreviation": "07"
+    }
+]

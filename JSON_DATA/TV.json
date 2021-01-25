@@ -1,0 +1,50 @@
+[
+    {
+        "subdivision_category": "town council",
+        "iso_3166_2_code": "TV-FUN",
+        "subdivision_name": "Funafuti",
+        "abbreviation": "FUN"
+    },
+    {
+        "subdivision_category": "island council",
+        "iso_3166_2_code": "TV-NMG",
+        "subdivision_name": "Nanumaga",
+        "abbreviation": "NMG"
+    },
+    {
+        "subdivision_category": "island council",
+        "iso_3166_2_code": "TV-NMA",
+        "subdivision_name": "Nanumea",
+        "abbreviation": "NMA"
+    },
+    {
+        "subdivision_category": "island council",
+        "iso_3166_2_code": "TV-NIT",
+        "subdivision_name": "Niutao",
+        "abbreviation": "NIT"
+    },
+    {
+        "subdivision_category": "island council",
+        "iso_3166_2_code": "TV-NUI",
+        "subdivision_name": "Nui",
+        "abbreviation": "NUI"
+    },
+    {
+        "subdivision_category": "island council",
+        "iso_3166_2_code": "TV-NKF",
+        "subdivision_name": "Nukufetau",
+        "abbreviation": "NKF"
+    },
+    {
+        "subdivision_category": "island council",
+        "iso_3166_2_code": "TV-NKL",
+        "subdivision_name": "Nukulaelae",
+        "abbreviation": "NKL"
+    },
+    {
+        "subdivision_category": "island council",
+        "iso_3166_2_code": "TV-VAI",
+        "subdivision_name": "Vaitupu",
+        "abbreviation": "VAI"
+    }
+]

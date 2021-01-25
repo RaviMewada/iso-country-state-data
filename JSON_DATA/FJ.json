@@ -1,0 +1,116 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-01",
+        "subdivision_name": "Ba",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-02",
+        "subdivision_name": "Bua",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-03",
+        "subdivision_name": "Cakaudrove",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "FJ-C",
+        "subdivision_name": "Central",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "FJ-E",
+        "subdivision_name": "Eastern",
+        "abbreviation": "E"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-04",
+        "subdivision_name": "Kadavu",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-05",
+        "subdivision_name": "Lau",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-06",
+        "subdivision_name": "Lomaiviti",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-07",
+        "subdivision_name": "Macuata",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-08",
+        "subdivision_name": "Nadroga and Navosa",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-09",
+        "subdivision_name": "Naitasiri",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-10",
+        "subdivision_name": "Namosi",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "FJ-N",
+        "subdivision_name": "Northern",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-11",
+        "subdivision_name": "Ra",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-12",
+        "subdivision_name": "Rewa",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "FJ-R",
+        "subdivision_name": "Rotuma",
+        "abbreviation": "R"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-13",
+        "subdivision_name": "Serua",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "FJ-14",
+        "subdivision_name": "Tailevu",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "FJ-W",
+        "subdivision_name": "Western",
+        "abbreviation": "W"
+    }
+]

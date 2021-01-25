@@ -1,0 +1,476 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-02",
+        "subdivision_name": "Ans Bwalo",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-03",
+        "subdivision_name": "Ans Etwal",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-05",
+        "subdivision_name": "Ans Royal",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-01",
+        "subdivision_name": "Ans o Pen",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-02",
+        "subdivision_name": "Anse Boileau",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-02",
+        "subdivision_name": "Anse Boileau",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-03",
+        "subdivision_name": "Anse Etoile",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-05",
+        "subdivision_name": "Anse Royale",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-05",
+        "subdivision_name": "Anse Royale",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-01",
+        "subdivision_name": "Anse aux Pins",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-01",
+        "subdivision_name": "Anse aux Pins",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-03",
+        "subdivision_name": "Anse Étoile",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-04",
+        "subdivision_name": "Au Cap",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-04",
+        "subdivision_name": "Au Cap",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-06",
+        "subdivision_name": "Baie Lazare",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-06",
+        "subdivision_name": "Baie Lazare",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-07",
+        "subdivision_name": "Baie Sainte Anne",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-07",
+        "subdivision_name": "Baie Sainte-Anne",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-06",
+        "subdivision_name": "Be Lazar",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-07",
+        "subdivision_name": "Be Sent Ann",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-08",
+        "subdivision_name": "Beau Vallon",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-08",
+        "subdivision_name": "Beau Vallon",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-09",
+        "subdivision_name": "Bel Air",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-09",
+        "subdivision_name": "Bel Air",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-10",
+        "subdivision_name": "Bel Ombre",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-10",
+        "subdivision_name": "Bel Ombre",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-09",
+        "subdivision_name": "Beler",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-10",
+        "subdivision_name": "Belonm",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-08",
+        "subdivision_name": "Bovalon",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-11",
+        "subdivision_name": "Cascade",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-11",
+        "subdivision_name": "Cascade",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-16",
+        "subdivision_name": "English River",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-12",
+        "subdivision_name": "Glacis",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-12",
+        "subdivision_name": "Glacis",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-12",
+        "subdivision_name": "Glasi",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-13",
+        "subdivision_name": "Grand Ans Mae",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-14",
+        "subdivision_name": "Grand Ans Pralen",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-13",
+        "subdivision_name": "Grand Anse Mahe",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-14",
+        "subdivision_name": "Grand Anse Praslin",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-13",
+        "subdivision_name": "Grand'Anse Mahé",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-14",
+        "subdivision_name": "Grand'Anse Praslin",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-26",
+        "subdivision_name": "Ile Perseverance I",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-27",
+        "subdivision_name": "Ile Perseverance II",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-11",
+        "subdivision_name": "Kaskad",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-15",
+        "subdivision_name": "La Digue",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-15",
+        "subdivision_name": "La Digue",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-16",
+        "subdivision_name": "La Rivière Anglaise",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-15",
+        "subdivision_name": "Ladig",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-16",
+        "subdivision_name": "Larivyer Anglez",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-24",
+        "subdivision_name": "Lemamel",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-24",
+        "subdivision_name": "Les Mamelles",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-24",
+        "subdivision_name": "Les Mamelles",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-17",
+        "subdivision_name": "Mon Bikston",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-18",
+        "subdivision_name": "Mon Fleri",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-17",
+        "subdivision_name": "Mont Buxton",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-17",
+        "subdivision_name": "Mont Buxton",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-18",
+        "subdivision_name": "Mont Fleuri",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-18",
+        "subdivision_name": "Mont Fleuri",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-04",
+        "subdivision_name": "O Kap",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-19",
+        "subdivision_name": "Plaisance",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-19",
+        "subdivision_name": "Plaisance",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-19",
+        "subdivision_name": "Plezans",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-20",
+        "subdivision_name": "Pointe La Rue",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-20",
+        "subdivision_name": "Pointe Larue",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-21",
+        "subdivision_name": "Porglo",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-21",
+        "subdivision_name": "Port Glaud",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-21",
+        "subdivision_name": "Port Glaud",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-20",
+        "subdivision_name": "Pwent Lari",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-25",
+        "subdivision_name": "Roche Caiman",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-25",
+        "subdivision_name": "Roche Caïman",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-25",
+        "subdivision_name": "Ros Kaiman",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-22",
+        "subdivision_name": "Saint Louis",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-22",
+        "subdivision_name": "Saint-Louis",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-22",
+        "subdivision_name": "Sen Lwi",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-23",
+        "subdivision_name": "Takamaka",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-23",
+        "subdivision_name": "Takamaka",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-23",
+        "subdivision_name": "Takamaka",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-26",
+        "subdivision_name": "Île Persévérance I",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SC-27",
+        "subdivision_name": "Île Persévérance II",
+        "abbreviation": "27"
+    }
+]

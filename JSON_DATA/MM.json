@@ -1,0 +1,92 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MM-07",
+        "subdivision_name": "Ayeyarwady",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MM-02",
+        "subdivision_name": "Bago",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MM-14",
+        "subdivision_name": "Chin",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MM-11",
+        "subdivision_name": "Kachin",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MM-12",
+        "subdivision_name": "Kayah",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MM-13",
+        "subdivision_name": "Kayin",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MM-03",
+        "subdivision_name": "Magway",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MM-04",
+        "subdivision_name": "Mandalay",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MM-15",
+        "subdivision_name": "Mon",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "union territory",
+        "iso_3166_2_code": "MM-18",
+        "subdivision_name": "Nay Pyi Taw",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MM-16",
+        "subdivision_name": "Rakhine",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MM-01",
+        "subdivision_name": "Sagaing",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MM-17",
+        "subdivision_name": "Shan",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MM-05",
+        "subdivision_name": "Tanintharyi",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MM-06",
+        "subdivision_name": "Yangon",
+        "abbreviation": "06"
+    }
+]

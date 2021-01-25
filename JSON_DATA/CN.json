@@ -1,0 +1,224 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-AH",
+        "subdivision_name": "Anhui Sheng",
+        "abbreviation": "AH"
+    },
+    {
+        "subdivision_category": "special administrative region",
+        "iso_3166_2_code": "CN-MO",
+        "subdivision_name": "Aomen Tebiexingzhengqu (see also separate country code entry under MO)",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CN-BJ",
+        "subdivision_name": "Beijing Shi",
+        "abbreviation": "BJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CN-CQ",
+        "subdivision_name": "Chongqing Shi",
+        "abbreviation": "CQ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-FJ",
+        "subdivision_name": "Fujian Sheng",
+        "abbreviation": "FJ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-GS",
+        "subdivision_name": "Gansu Sheng",
+        "abbreviation": "GS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-GD",
+        "subdivision_name": "Guangdong Sheng",
+        "abbreviation": "GD"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "CN-GX",
+        "subdivision_name": "Guangxi Zhuangzu Zizhiqu",
+        "abbreviation": "GX"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-GZ",
+        "subdivision_name": "Guizhou Sheng",
+        "abbreviation": "GZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-HI",
+        "subdivision_name": "Hainan Sheng",
+        "abbreviation": "HI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-HE",
+        "subdivision_name": "Hebei Sheng",
+        "abbreviation": "HE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-HL",
+        "subdivision_name": "Heilongjiang Sheng",
+        "abbreviation": "HL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-HA",
+        "subdivision_name": "Henan Sheng",
+        "abbreviation": "HA"
+    },
+    {
+        "subdivision_category": "special administrative region",
+        "iso_3166_2_code": "CN-HK",
+        "subdivision_name": "Hong Kong SAR (see also separate country code entry under HK)",
+        "abbreviation": "HK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-HB",
+        "subdivision_name": "Hubei Sheng",
+        "abbreviation": "HB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-HN",
+        "subdivision_name": "Hunan Sheng",
+        "abbreviation": "HN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-JS",
+        "subdivision_name": "Jiangsu Sheng",
+        "abbreviation": "JS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-JX",
+        "subdivision_name": "Jiangxi Sheng",
+        "abbreviation": "JX"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-JL",
+        "subdivision_name": "Jilin Sheng",
+        "abbreviation": "JL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-LN",
+        "subdivision_name": "Liaoning Sheng",
+        "abbreviation": "LN"
+    },
+    {
+        "subdivision_category": "special administrative region",
+        "iso_3166_2_code": "CN-MO",
+        "subdivision_name": "Macao SAR (see also separate country code entry under MO)",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "special administrative region",
+        "iso_3166_2_code": "CN-MO",
+        "subdivision_name": "Macau SAR (see also separate country code entry under MO)",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "CN-NM",
+        "subdivision_name": "Nei Mongol Zizhiqu",
+        "abbreviation": "NM"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "CN-NX",
+        "subdivision_name": "Ningxia Huizi Zizhiqu",
+        "abbreviation": "NX"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-QH",
+        "subdivision_name": "Qinghai Sheng",
+        "abbreviation": "QH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-SN",
+        "subdivision_name": "Shaanxi Sheng",
+        "abbreviation": "SN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-SD",
+        "subdivision_name": "Shandong Sheng",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CN-SH",
+        "subdivision_name": "Shanghai Shi",
+        "abbreviation": "SH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-SX",
+        "subdivision_name": "Shanxi Sheng",
+        "abbreviation": "SX"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-SC",
+        "subdivision_name": "Sichuan Sheng",
+        "abbreviation": "SC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-TW",
+        "subdivision_name": "Taiwan Sheng (see also separate country code entry under TW)",
+        "abbreviation": "TW"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CN-TJ",
+        "subdivision_name": "Tianjin Shi",
+        "abbreviation": "TJ"
+    },
+    {
+        "subdivision_category": "special administrative region",
+        "iso_3166_2_code": "CN-HK",
+        "subdivision_name": "Xianggang Tebiexingzhengqu (see also separate country code entry under HK)",
+        "abbreviation": "HK"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "CN-XJ",
+        "subdivision_name": "Xinjiang Uygur Zizhiqu",
+        "abbreviation": "XJ"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "CN-XZ",
+        "subdivision_name": "Xizang Zizhiqu",
+        "abbreviation": "XZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-YN",
+        "subdivision_name": "Yunnan Sheng",
+        "abbreviation": "YN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CN-ZJ",
+        "subdivision_name": "Zhejiang Sheng",
+        "abbreviation": "ZJ"
+    }
+]

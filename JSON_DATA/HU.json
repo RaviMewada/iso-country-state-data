@@ -1,0 +1,260 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-BA",
+        "subdivision_name": "Baranya",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-BZ",
+        "subdivision_name": "Borsod-Abaúj-Zemplén",
+        "abbreviation": "BZ"
+    },
+    {
+        "subdivision_category": "capital city",
+        "iso_3166_2_code": "HU-BU",
+        "subdivision_name": "Budapest",
+        "abbreviation": "BU"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-BK",
+        "subdivision_name": "Bács-Kiskun",
+        "abbreviation": "BK"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-BE",
+        "subdivision_name": "Békés",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-BC",
+        "subdivision_name": "Békéscsaba",
+        "abbreviation": "BC"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-CS",
+        "subdivision_name": "Csongrád",
+        "abbreviation": "CS"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-DE",
+        "subdivision_name": "Debrecen",
+        "abbreviation": "DE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-DU",
+        "subdivision_name": "Dunaújváros",
+        "abbreviation": "DU"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-EG",
+        "subdivision_name": "Eger",
+        "abbreviation": "EG"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-FE",
+        "subdivision_name": "Fejér",
+        "abbreviation": "FE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-GY",
+        "subdivision_name": "Győr",
+        "abbreviation": "GY"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-GS",
+        "subdivision_name": "Győr-Moson-Sopron",
+        "abbreviation": "GS"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-HB",
+        "subdivision_name": "Hajdú-Bihar",
+        "abbreviation": "HB"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-HE",
+        "subdivision_name": "Heves",
+        "abbreviation": "HE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-HV",
+        "subdivision_name": "Hódmezővásárhely",
+        "abbreviation": "HV"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-JN",
+        "subdivision_name": "Jász-Nagykun-Szolnok",
+        "abbreviation": "JN"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-KV",
+        "subdivision_name": "Kaposvár",
+        "abbreviation": "KV"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-KM",
+        "subdivision_name": "Kecskemét",
+        "abbreviation": "KM"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-KE",
+        "subdivision_name": "Komárom-Esztergom",
+        "abbreviation": "KE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-MI",
+        "subdivision_name": "Miskolc",
+        "abbreviation": "MI"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-NK",
+        "subdivision_name": "Nagykanizsa",
+        "abbreviation": "NK"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-NY",
+        "subdivision_name": "Nyíregyháza",
+        "abbreviation": "NY"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-NO",
+        "subdivision_name": "Nógrád",
+        "abbreviation": "NO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-PE",
+        "subdivision_name": "Pest",
+        "abbreviation": "PE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-PS",
+        "subdivision_name": "Pécs",
+        "abbreviation": "PS"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-ST",
+        "subdivision_name": "Salgótarján",
+        "abbreviation": "ST"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-SO",
+        "subdivision_name": "Somogy",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-SN",
+        "subdivision_name": "Sopron",
+        "abbreviation": "SN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-SZ",
+        "subdivision_name": "Szabolcs-Szatmár-Bereg",
+        "abbreviation": "SZ"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-SD",
+        "subdivision_name": "Szeged",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-SS",
+        "subdivision_name": "Szekszárd",
+        "abbreviation": "SS"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-SK",
+        "subdivision_name": "Szolnok",
+        "abbreviation": "SK"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-SH",
+        "subdivision_name": "Szombathely",
+        "abbreviation": "SH"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-SF",
+        "subdivision_name": "Székesfehérvár",
+        "abbreviation": "SF"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-TB",
+        "subdivision_name": "Tatabánya",
+        "abbreviation": "TB"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-TO",
+        "subdivision_name": "Tolna",
+        "abbreviation": "TO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-VA",
+        "subdivision_name": "Vas",
+        "abbreviation": "VA"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-VE",
+        "subdivision_name": "Veszprém",
+        "abbreviation": "VE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-VM",
+        "subdivision_name": "Veszprém",
+        "abbreviation": "VM"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HU-ZA",
+        "subdivision_name": "Zala",
+        "abbreviation": "ZA"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-ZE",
+        "subdivision_name": "Zalaegerszeg",
+        "abbreviation": "ZE"
+    },
+    {
+        "subdivision_category": "city with county rights",
+        "iso_3166_2_code": "HU-ER",
+        "subdivision_name": "Érd",
+        "abbreviation": "ER"
+    }
+]

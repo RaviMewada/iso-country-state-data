@@ -1,0 +1,38 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BZ-BZ",
+        "subdivision_name": "Belize",
+        "abbreviation": "BZ"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BZ-CY",
+        "subdivision_name": "Cayo",
+        "abbreviation": "CY"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BZ-CZL",
+        "subdivision_name": "Corozal",
+        "abbreviation": "CZL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BZ-OW",
+        "subdivision_name": "Orange Walk",
+        "abbreviation": "OW"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BZ-SC",
+        "subdivision_name": "Stann Creek",
+        "abbreviation": "SC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BZ-TOL",
+        "subdivision_name": "Toledo",
+        "abbreviation": "TOL"
+    }
+]

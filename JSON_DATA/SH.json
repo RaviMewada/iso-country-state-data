@@ -1,0 +1,20 @@
+[
+    {
+        "subdivision_category": "geographical entity",
+        "iso_3166_2_code": "SH-AC",
+        "subdivision_name": "Ascension",
+        "abbreviation": "AC"
+    },
+    {
+        "subdivision_category": "geographical entity",
+        "iso_3166_2_code": "SH-HL",
+        "subdivision_name": "Saint Helena",
+        "abbreviation": "HL"
+    },
+    {
+        "subdivision_category": "geographical entity",
+        "iso_3166_2_code": "SH-TA",
+        "subdivision_name": "Tristan da Cunha",
+        "abbreviation": "TA"
+    }
+]

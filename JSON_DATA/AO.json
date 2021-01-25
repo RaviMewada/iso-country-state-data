@@ -1,0 +1,110 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-BGO",
+        "subdivision_name": "Bengo",
+        "abbreviation": "BGO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-BGU",
+        "subdivision_name": "Benguela",
+        "abbreviation": "BGU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-BIE",
+        "subdivision_name": "Bié",
+        "abbreviation": "BIE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-CAB",
+        "subdivision_name": "Cabinda",
+        "abbreviation": "CAB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-CCU",
+        "subdivision_name": "Cuando Cubango",
+        "abbreviation": "CCU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-CNO",
+        "subdivision_name": "Cuanza-Norte",
+        "abbreviation": "CNO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-CUS",
+        "subdivision_name": "Cuanza-Sul",
+        "abbreviation": "CUS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-CNN",
+        "subdivision_name": "Cunene",
+        "abbreviation": "CNN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-HUA",
+        "subdivision_name": "Huambo",
+        "abbreviation": "HUA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-HUI",
+        "subdivision_name": "Huíla",
+        "abbreviation": "HUI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-LUA",
+        "subdivision_name": "Luanda",
+        "abbreviation": "LUA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-LNO",
+        "subdivision_name": "Lunda-Norte",
+        "abbreviation": "LNO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-LSU",
+        "subdivision_name": "Lunda-Sul",
+        "abbreviation": "LSU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-MAL",
+        "subdivision_name": "Malange",
+        "abbreviation": "MAL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-MOX",
+        "subdivision_name": "Moxico",
+        "abbreviation": "MOX"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-NAM",
+        "subdivision_name": "Namibe",
+        "abbreviation": "NAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-UIG",
+        "subdivision_name": "Uíge",
+        "abbreviation": "UIG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AO-ZAI",
+        "subdivision_name": "Zaire",
+        "abbreviation": "ZAI"
+    }
+]

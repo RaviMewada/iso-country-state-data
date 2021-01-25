@@ -1,0 +1,362 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CN",
+        "subdivision_name": "An Cabhán",
+        "abbreviation": "CN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CE",
+        "subdivision_name": "An Clár",
+        "abbreviation": "CE"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WH",
+        "subdivision_name": "An Iarmhí",
+        "abbreviation": "WH"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LD",
+        "subdivision_name": "An Longfort",
+        "abbreviation": "LD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-M",
+        "subdivision_name": "An Mhumhain",
+        "abbreviation": "M"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-MH",
+        "subdivision_name": "An Mhí",
+        "abbreviation": "MH"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-D",
+        "subdivision_name": "Baile Átha Cliath",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CW",
+        "subdivision_name": "Carlow",
+        "abbreviation": "CW"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CN",
+        "subdivision_name": "Cavan",
+        "abbreviation": "CN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CW",
+        "subdivision_name": "Ceatharlach",
+        "abbreviation": "CW"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-KY",
+        "subdivision_name": "Ciarraí",
+        "abbreviation": "KY"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-KK",
+        "subdivision_name": "Cill Chainnigh",
+        "abbreviation": "KK"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-KE",
+        "subdivision_name": "Cill Dara",
+        "abbreviation": "KE"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WW",
+        "subdivision_name": "Cill Mhantáin",
+        "abbreviation": "WW"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CE",
+        "subdivision_name": "Clare",
+        "abbreviation": "CE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-C",
+        "subdivision_name": "Connacht",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-C",
+        "subdivision_name": "Connaught",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CO",
+        "subdivision_name": "Corcaigh",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-CO",
+        "subdivision_name": "Cork",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-DL",
+        "subdivision_name": "Donegal",
+        "abbreviation": "DL"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-D",
+        "subdivision_name": "Dublin",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-DL",
+        "subdivision_name": "Dún na nGall",
+        "abbreviation": "DL"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-G",
+        "subdivision_name": "Gaillimh",
+        "abbreviation": "G"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-G",
+        "subdivision_name": "Galway",
+        "abbreviation": "G"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-KY",
+        "subdivision_name": "Kerry",
+        "abbreviation": "KY"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-KE",
+        "subdivision_name": "Kildare",
+        "abbreviation": "KE"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-KK",
+        "subdivision_name": "Kilkenny",
+        "abbreviation": "KK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-L",
+        "subdivision_name": "Laighin",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LS",
+        "subdivision_name": "Laois",
+        "abbreviation": "LS"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LS",
+        "subdivision_name": "Laois",
+        "abbreviation": "LS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-L",
+        "subdivision_name": "Leinster",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LM",
+        "subdivision_name": "Leitrim",
+        "abbreviation": "LM"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LM",
+        "subdivision_name": "Liatroim",
+        "abbreviation": "LM"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LK",
+        "subdivision_name": "Limerick",
+        "abbreviation": "LK"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WX",
+        "subdivision_name": "Loch Garman",
+        "abbreviation": "WX"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LD",
+        "subdivision_name": "Longford",
+        "abbreviation": "LD"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LH",
+        "subdivision_name": "Louth",
+        "abbreviation": "LH"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LK",
+        "subdivision_name": "Luimneach",
+        "abbreviation": "LK"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-LH",
+        "subdivision_name": "Lú",
+        "abbreviation": "LH"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-MO",
+        "subdivision_name": "Maigh Eo",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-MO",
+        "subdivision_name": "Mayo",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-MH",
+        "subdivision_name": "Meath",
+        "abbreviation": "MH"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-MN",
+        "subdivision_name": "Monaghan",
+        "abbreviation": "MN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-MN",
+        "subdivision_name": "Muineachán",
+        "abbreviation": "MN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-M",
+        "subdivision_name": "Munster",
+        "abbreviation": "M"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-OY",
+        "subdivision_name": "Offaly",
+        "abbreviation": "OY"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WD",
+        "subdivision_name": "Port Láirge",
+        "abbreviation": "WD"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-RN",
+        "subdivision_name": "Ros Comáin",
+        "abbreviation": "RN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-RN",
+        "subdivision_name": "Roscommon",
+        "abbreviation": "RN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-SO",
+        "subdivision_name": "Sligeach",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-SO",
+        "subdivision_name": "Sligo",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-TA",
+        "subdivision_name": "Tiobraid Árann",
+        "abbreviation": "TA"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-TA",
+        "subdivision_name": "Tipperary",
+        "abbreviation": "TA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-U",
+        "subdivision_name": "Ulaidh",
+        "abbreviation": "U"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "IE-U",
+        "subdivision_name": "Ulster",
+        "abbreviation": "U"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-OY",
+        "subdivision_name": "Uíbh Fhailí",
+        "abbreviation": "OY"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WD",
+        "subdivision_name": "Waterford",
+        "abbreviation": "WD"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WH",
+        "subdivision_name": "Westmeath",
+        "abbreviation": "WH"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WX",
+        "subdivision_name": "Wexford",
+        "abbreviation": "WX"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "IE-WW",
+        "subdivision_name": "Wicklow",
+        "abbreviation": "WW"
+    }
+]

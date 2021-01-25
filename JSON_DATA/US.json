@@ -1,0 +1,344 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-AL",
+        "subdivision_name": "Alabama",
+        "abbreviation": "AL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-AK",
+        "subdivision_name": "Alaska",
+        "abbreviation": "AK"
+    },
+    {
+        "subdivision_category": "outlying area",
+        "iso_3166_2_code": "US-AS",
+        "subdivision_name": "American Samoa (see also separate country code entry under AS)",
+        "abbreviation": "AS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-AZ",
+        "subdivision_name": "Arizona",
+        "abbreviation": "AZ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-AR",
+        "subdivision_name": "Arkansas",
+        "abbreviation": "AR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-CA",
+        "subdivision_name": "California",
+        "abbreviation": "CA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-CO",
+        "subdivision_name": "Colorado",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-CT",
+        "subdivision_name": "Connecticut",
+        "abbreviation": "CT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-DE",
+        "subdivision_name": "Delaware",
+        "abbreviation": "DE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "US-DC",
+        "subdivision_name": "District of Columbia",
+        "abbreviation": "DC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-FL",
+        "subdivision_name": "Florida",
+        "abbreviation": "FL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-GA",
+        "subdivision_name": "Georgia",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "outlying area",
+        "iso_3166_2_code": "US-GU",
+        "subdivision_name": "Guam (see also separate country code entry under GU)",
+        "abbreviation": "GU"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-HI",
+        "subdivision_name": "Hawaii",
+        "abbreviation": "HI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-ID",
+        "subdivision_name": "Idaho",
+        "abbreviation": "ID"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-IL",
+        "subdivision_name": "Illinois",
+        "abbreviation": "IL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-IN",
+        "subdivision_name": "Indiana",
+        "abbreviation": "IN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-IA",
+        "subdivision_name": "Iowa",
+        "abbreviation": "IA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-KS",
+        "subdivision_name": "Kansas",
+        "abbreviation": "KS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-KY",
+        "subdivision_name": "Kentucky",
+        "abbreviation": "KY"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-LA",
+        "subdivision_name": "Louisiana",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-ME",
+        "subdivision_name": "Maine",
+        "abbreviation": "ME"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-MD",
+        "subdivision_name": "Maryland",
+        "abbreviation": "MD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-MA",
+        "subdivision_name": "Massachusetts",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-MI",
+        "subdivision_name": "Michigan",
+        "abbreviation": "MI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-MN",
+        "subdivision_name": "Minnesota",
+        "abbreviation": "MN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-MS",
+        "subdivision_name": "Mississippi",
+        "abbreviation": "MS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-MO",
+        "subdivision_name": "Missouri",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-MT",
+        "subdivision_name": "Montana",
+        "abbreviation": "MT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-NE",
+        "subdivision_name": "Nebraska",
+        "abbreviation": "NE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-NV",
+        "subdivision_name": "Nevada",
+        "abbreviation": "NV"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-NH",
+        "subdivision_name": "New Hampshire",
+        "abbreviation": "NH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-NJ",
+        "subdivision_name": "New Jersey",
+        "abbreviation": "NJ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-NM",
+        "subdivision_name": "New Mexico",
+        "abbreviation": "NM"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-NY",
+        "subdivision_name": "New York",
+        "abbreviation": "NY"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-NC",
+        "subdivision_name": "North Carolina",
+        "abbreviation": "NC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-ND",
+        "subdivision_name": "North Dakota",
+        "abbreviation": "ND"
+    },
+    {
+        "subdivision_category": "outlying area",
+        "iso_3166_2_code": "US-MP",
+        "subdivision_name": "Northern Mariana Islands (see also separate country code entry under MP)",
+        "abbreviation": "MP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-OH",
+        "subdivision_name": "Ohio",
+        "abbreviation": "OH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-OK",
+        "subdivision_name": "Oklahoma",
+        "abbreviation": "OK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-OR",
+        "subdivision_name": "Oregon",
+        "abbreviation": "OR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-PA",
+        "subdivision_name": "Pennsylvania",
+        "abbreviation": "PA"
+    },
+    {
+        "subdivision_category": "outlying area",
+        "iso_3166_2_code": "US-PR",
+        "subdivision_name": "Puerto Rico (see also separate country code entry under PR)",
+        "abbreviation": "PR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-RI",
+        "subdivision_name": "Rhode Island",
+        "abbreviation": "RI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-SC",
+        "subdivision_name": "South Carolina",
+        "abbreviation": "SC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-SD",
+        "subdivision_name": "South Dakota",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-TN",
+        "subdivision_name": "Tennessee",
+        "abbreviation": "TN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-TX",
+        "subdivision_name": "Texas",
+        "abbreviation": "TX"
+    },
+    {
+        "subdivision_category": "outlying area",
+        "iso_3166_2_code": "US-UM",
+        "subdivision_name": "United States Minor Outlying Islands (see also separate country code entry under UM)",
+        "abbreviation": "UM"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-UT",
+        "subdivision_name": "Utah",
+        "abbreviation": "UT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-VT",
+        "subdivision_name": "Vermont",
+        "abbreviation": "VT"
+    },
+    {
+        "subdivision_category": "outlying area",
+        "iso_3166_2_code": "US-VI",
+        "subdivision_name": "Virgin Islands, U.S. (see also separate country code entry under VI)",
+        "abbreviation": "VI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-VA",
+        "subdivision_name": "Virginia",
+        "abbreviation": "VA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-WA",
+        "subdivision_name": "Washington",
+        "abbreviation": "WA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-WV",
+        "subdivision_name": "West Virginia",
+        "abbreviation": "WV"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-WI",
+        "subdivision_name": "Wisconsin",
+        "abbreviation": "WI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "US-WY",
+        "subdivision_name": "Wyoming",
+        "abbreviation": "WY"
+    }
+]

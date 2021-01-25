@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-AL",
+        "subdivision_name": "Alibori",
+        "abbreviation": "AL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-AK",
+        "subdivision_name": "Atacora",
+        "abbreviation": "AK"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-AQ",
+        "subdivision_name": "Atlantique",
+        "abbreviation": "AQ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-BO",
+        "subdivision_name": "Borgou",
+        "abbreviation": "BO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-CO",
+        "subdivision_name": "Collines",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-KO",
+        "subdivision_name": "Couffo",
+        "abbreviation": "KO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-DO",
+        "subdivision_name": "Donga",
+        "abbreviation": "DO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-LI",
+        "subdivision_name": "Littoral",
+        "abbreviation": "LI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-MO",
+        "subdivision_name": "Mono",
+        "abbreviation": "MO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-OU",
+        "subdivision_name": "Ouémé",
+        "abbreviation": "OU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-PL",
+        "subdivision_name": "Plateau",
+        "abbreviation": "PL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "BJ-ZO",
+        "subdivision_name": "Zou",
+        "abbreviation": "ZO"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "subdivision_category": "emirate",
+        "iso_3166_2_code": "AE-AZ",
+        "subdivision_name": "Abū Z̧aby",
+        "abbreviation": "AZ"
+    },
+    {
+        "subdivision_category": "emirate",
+        "iso_3166_2_code": "AE-FU",
+        "subdivision_name": "Al Fujayrah",
+        "abbreviation": "FU"
+    },
+    {
+        "subdivision_category": "emirate",
+        "iso_3166_2_code": "AE-SH",
+        "subdivision_name": "Ash Shāriqah",
+        "abbreviation": "SH"
+    },
+    {
+        "subdivision_category": "emirate",
+        "iso_3166_2_code": "AE-DU",
+        "subdivision_name": "Dubayy",
+        "abbreviation": "DU"
+    },
+    {
+        "subdivision_category": "emirate",
+        "iso_3166_2_code": "AE-RK",
+        "subdivision_name": "Ra’s al Khaymah",
+        "abbreviation": "RK"
+    },
+    {
+        "subdivision_category": "emirate",
+        "iso_3166_2_code": "AE-UQ",
+        "subdivision_name": "Umm al Qaywayn",
+        "abbreviation": "UQ"
+    },
+    {
+        "subdivision_category": "emirate",
+        "iso_3166_2_code": "AE-AJ",
+        "subdivision_name": "‘Ajmān",
+        "abbreviation": "AJ"
+    }
+]

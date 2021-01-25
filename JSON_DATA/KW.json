@@ -1,0 +1,38 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "KW-AH",
+        "subdivision_name": "Al Aḩmadī",
+        "abbreviation": "AH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "KW-FA",
+        "subdivision_name": "Al Farwānīyah",
+        "abbreviation": "FA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "KW-JA",
+        "subdivision_name": "Al Jahrā’",
+        "abbreviation": "JA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "KW-KU",
+        "subdivision_name": "Al ‘Āşimah",
+        "abbreviation": "KU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "KW-MU",
+        "subdivision_name": "Mubārak al Kabīr",
+        "abbreviation": "MU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "KW-HA",
+        "subdivision_name": "Ḩawallī",
+        "abbreviation": "HA"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-13",
+        "subdivision_name": "Ben Arous",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-23",
+        "subdivision_name": "Bizerte",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-31",
+        "subdivision_name": "Béja",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-81",
+        "subdivision_name": "Gabès",
+        "abbreviation": "81"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-71",
+        "subdivision_name": "Gafsa",
+        "abbreviation": "71"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-32",
+        "subdivision_name": "Jendouba",
+        "abbreviation": "32"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-41",
+        "subdivision_name": "Kairouan",
+        "abbreviation": "41"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-42",
+        "subdivision_name": "Kasserine",
+        "abbreviation": "42"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-73",
+        "subdivision_name": "Kébili",
+        "abbreviation": "73"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-12",
+        "subdivision_name": "L'Ariana",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-14",
+        "subdivision_name": "La Manouba",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-33",
+        "subdivision_name": "Le Kef",
+        "abbreviation": "33"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-53",
+        "subdivision_name": "Mahdia",
+        "abbreviation": "53"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-52",
+        "subdivision_name": "Monastir",
+        "abbreviation": "52"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-82",
+        "subdivision_name": "Médenine",
+        "abbreviation": "82"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-21",
+        "subdivision_name": "Nabeul",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-61",
+        "subdivision_name": "Sfax",
+        "abbreviation": "61"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-43",
+        "subdivision_name": "Sidi Bouzid",
+        "abbreviation": "43"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-34",
+        "subdivision_name": "Siliana",
+        "abbreviation": "34"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-51",
+        "subdivision_name": "Sousse",
+        "abbreviation": "51"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-83",
+        "subdivision_name": "Tataouine",
+        "abbreviation": "83"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-72",
+        "subdivision_name": "Tozeur",
+        "abbreviation": "72"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-11",
+        "subdivision_name": "Tunis",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "TN-22",
+        "subdivision_name": "Zaghouan",
+        "abbreviation": "22"
+    }
+]

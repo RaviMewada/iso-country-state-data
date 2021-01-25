@@ -1,0 +1,410 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BDS",
+        "subdivision_name": "Badakhshān",
+        "abbreviation": "BDS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BDS",
+        "subdivision_name": "Badakhshān",
+        "abbreviation": "BDS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BGL",
+        "subdivision_name": "Baghlān",
+        "abbreviation": "BGL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BGL",
+        "subdivision_name": "Baghlān",
+        "abbreviation": "BGL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BAL",
+        "subdivision_name": "Balkh",
+        "abbreviation": "BAL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BAL",
+        "subdivision_name": "Balkh",
+        "abbreviation": "BAL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BDG",
+        "subdivision_name": "Bādghīs",
+        "abbreviation": "BDG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BDG",
+        "subdivision_name": "Bādghīs",
+        "abbreviation": "BDG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BAM",
+        "subdivision_name": "Bāmyān",
+        "abbreviation": "BAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-BAM",
+        "subdivision_name": "Bāmyān",
+        "abbreviation": "BAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-DAY",
+        "subdivision_name": "Dāykundī",
+        "abbreviation": "DAY"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-DAY",
+        "subdivision_name": "Dāykundī",
+        "abbreviation": "DAY"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-FRA",
+        "subdivision_name": "Farāh",
+        "abbreviation": "FRA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-FRA",
+        "subdivision_name": "Farāh",
+        "abbreviation": "FRA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-FYB",
+        "subdivision_name": "Fāryāb",
+        "abbreviation": "FYB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-FYB",
+        "subdivision_name": "Fāryāb",
+        "abbreviation": "FYB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-GHA",
+        "subdivision_name": "Ghaznī",
+        "abbreviation": "GHA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-GHA",
+        "subdivision_name": "Ghaznī",
+        "abbreviation": "GHA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-GHO",
+        "subdivision_name": "Ghōr",
+        "abbreviation": "GHO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-GHO",
+        "subdivision_name": "Ghōr",
+        "abbreviation": "GHO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-HEL",
+        "subdivision_name": "Helmand",
+        "abbreviation": "HEL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-HEL",
+        "subdivision_name": "Helmand",
+        "abbreviation": "HEL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-HER",
+        "subdivision_name": "Herāt",
+        "abbreviation": "HER"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-HER",
+        "subdivision_name": "Herāt",
+        "abbreviation": "HER"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-JOW",
+        "subdivision_name": "Jowzjān",
+        "abbreviation": "JOW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-JOW",
+        "subdivision_name": "Jowzjān",
+        "abbreviation": "JOW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KAN",
+        "subdivision_name": "Kandahār",
+        "abbreviation": "KAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KAN",
+        "subdivision_name": "Kandahār",
+        "abbreviation": "KAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KHO",
+        "subdivision_name": "Khōst",
+        "abbreviation": "KHO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KHO",
+        "subdivision_name": "Khōst",
+        "abbreviation": "KHO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KNR",
+        "subdivision_name": "Kunaṟ",
+        "abbreviation": "KNR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KNR",
+        "subdivision_name": "Kunaṟ",
+        "abbreviation": "KNR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KDZ",
+        "subdivision_name": "Kunduz",
+        "abbreviation": "KDZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KDZ",
+        "subdivision_name": "Kunduz",
+        "abbreviation": "KDZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KAB",
+        "subdivision_name": "Kābul",
+        "abbreviation": "KAB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KAB",
+        "subdivision_name": "Kābul",
+        "abbreviation": "KAB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KAP",
+        "subdivision_name": "Kāpīsā",
+        "abbreviation": "KAP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-KAP",
+        "subdivision_name": "Kāpīsā",
+        "abbreviation": "KAP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-LAG",
+        "subdivision_name": "Laghmān",
+        "abbreviation": "LAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-LAG",
+        "subdivision_name": "Laghmān",
+        "abbreviation": "LAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-LOG",
+        "subdivision_name": "Lōgar",
+        "abbreviation": "LOG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-LOG",
+        "subdivision_name": "Lōgar",
+        "abbreviation": "LOG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-NAN",
+        "subdivision_name": "Nangarhār",
+        "abbreviation": "NAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-NAN",
+        "subdivision_name": "Nangarhār",
+        "abbreviation": "NAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-NIM",
+        "subdivision_name": "Nīmrōz",
+        "abbreviation": "NIM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-NIM",
+        "subdivision_name": "Nīmrōz",
+        "abbreviation": "NIM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-NUR",
+        "subdivision_name": "Nūristān",
+        "abbreviation": "NUR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-NUR",
+        "subdivision_name": "Nūristān",
+        "abbreviation": "NUR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PIA",
+        "subdivision_name": "Paktiyā",
+        "abbreviation": "PIA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PIA",
+        "subdivision_name": "Paktiyā",
+        "abbreviation": "PIA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PKA",
+        "subdivision_name": "Paktīkā",
+        "abbreviation": "PKA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PKA",
+        "subdivision_name": "Paktīkā",
+        "abbreviation": "PKA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PAN",
+        "subdivision_name": "Panjshayr",
+        "abbreviation": "PAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PAN",
+        "subdivision_name": "Panjshayr",
+        "abbreviation": "PAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PAR",
+        "subdivision_name": "Parwān",
+        "abbreviation": "PAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-PAR",
+        "subdivision_name": "Parwān",
+        "abbreviation": "PAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-SAM",
+        "subdivision_name": "Samangān",
+        "abbreviation": "SAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-SAM",
+        "subdivision_name": "Samangān",
+        "abbreviation": "SAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-SAR",
+        "subdivision_name": "Sar-e Pul",
+        "abbreviation": "SAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-SAR",
+        "subdivision_name": "Sar-e Pul",
+        "abbreviation": "SAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-TAK",
+        "subdivision_name": "Takhār",
+        "abbreviation": "TAK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-TAK",
+        "subdivision_name": "Takhār",
+        "abbreviation": "TAK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-URU",
+        "subdivision_name": "Uruzgān",
+        "abbreviation": "URU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-URU",
+        "subdivision_name": "Uruzgān",
+        "abbreviation": "URU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-WAR",
+        "subdivision_name": "Wardak",
+        "abbreviation": "WAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-WAR",
+        "subdivision_name": "Wardak",
+        "abbreviation": "WAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-ZAB",
+        "subdivision_name": "Zābul",
+        "abbreviation": "ZAB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "AF-ZAB",
+        "subdivision_name": "Zābul",
+        "abbreviation": "ZAB"
+    }
+]

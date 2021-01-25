@@ -1,0 +1,188 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-AUK",
+        "subdivision_name": "Auckland",
+        "abbreviation": "AUK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-BOP",
+        "subdivision_name": "Bay of Plenty",
+        "abbreviation": "BOP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-CAN",
+        "subdivision_name": "Canterbury",
+        "abbreviation": "CAN"
+    },
+    {
+        "subdivision_category": "special island authority",
+        "iso_3166_2_code": "NZ-CIT",
+        "subdivision_name": "Chatham Islands Territory",
+        "abbreviation": "CIT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-GIS",
+        "subdivision_name": "Gisborne",
+        "abbreviation": "GIS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-HKB",
+        "subdivision_name": "Hawke's Bay",
+        "abbreviation": "HKB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-MWT",
+        "subdivision_name": "Manawatu Whanganui",
+        "abbreviation": "MWT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-MWT",
+        "subdivision_name": "Manawatu-Wanganui",
+        "abbreviation": "MWT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-MBH",
+        "subdivision_name": "Marlborough",
+        "abbreviation": "MBH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-STL",
+        "subdivision_name": "Murihiku",
+        "abbreviation": "STL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-NSN",
+        "subdivision_name": "Nelson",
+        "abbreviation": "NSN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-NTL",
+        "subdivision_name": "Northland",
+        "abbreviation": "NTL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-OTA",
+        "subdivision_name": "Otago",
+        "abbreviation": "OTA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-STL",
+        "subdivision_name": "Southland",
+        "abbreviation": "STL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-TKI",
+        "subdivision_name": "Taranaki",
+        "abbreviation": "TKI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-TKI",
+        "subdivision_name": "Taranaki",
+        "abbreviation": "TKI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-TAS",
+        "subdivision_name": "Tasman",
+        "abbreviation": "TAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-HKB",
+        "subdivision_name": "Te Matau a Māui",
+        "abbreviation": "HKB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-BOP",
+        "subdivision_name": "Te Moana a Toi Te Huatahi",
+        "abbreviation": "BOP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-NTL",
+        "subdivision_name": "Te Tai tokerau",
+        "abbreviation": "NTL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-WTC",
+        "subdivision_name": "Te Taihau ā uru",
+        "abbreviation": "WTC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-WGN",
+        "subdivision_name": "Te Whanga-nui-a-Tara",
+        "abbreviation": "WGN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-AUK",
+        "subdivision_name": "Tāmaki-makau-rau",
+        "abbreviation": "AUK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-GIS",
+        "subdivision_name": "Tūranga nui a Kiwa",
+        "abbreviation": "GIS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-WKO",
+        "subdivision_name": "Waikato",
+        "abbreviation": "WKO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-CAN",
+        "subdivision_name": "Waitaha",
+        "abbreviation": "CAN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-WGN",
+        "subdivision_name": "Wellington",
+        "abbreviation": "WGN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-WTC",
+        "subdivision_name": "West Coast",
+        "abbreviation": "WTC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-NSN",
+        "subdivision_name": "Whakatū",
+        "abbreviation": "NSN"
+    },
+    {
+        "subdivision_category": "special island authority",
+        "iso_3166_2_code": "NZ-CIT",
+        "subdivision_name": "Wharekauri",
+        "abbreviation": "CIT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NZ-OTA",
+        "subdivision_name": "Ō Tākou",
+        "abbreviation": "OTA"
+    }
+]

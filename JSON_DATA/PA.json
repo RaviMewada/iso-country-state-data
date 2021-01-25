@@ -1,0 +1,80 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-1",
+        "subdivision_name": "Bocas del Toro",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-4",
+        "subdivision_name": "Chiriquí",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-2",
+        "subdivision_name": "Coclé",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-3",
+        "subdivision_name": "Colón",
+        "abbreviation": "3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-5",
+        "subdivision_name": "Darién",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "indigenous region",
+        "iso_3166_2_code": "PA-EM",
+        "subdivision_name": "Emberá",
+        "abbreviation": "EM"
+    },
+    {
+        "subdivision_category": "indigenous region",
+        "iso_3166_2_code": "PA-KY",
+        "subdivision_name": "Guna Yala",
+        "abbreviation": "KY"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-6",
+        "subdivision_name": "Herrera",
+        "abbreviation": "6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-7",
+        "subdivision_name": "Los Santos",
+        "abbreviation": "7"
+    },
+    {
+        "subdivision_category": "indigenous region",
+        "iso_3166_2_code": "PA-NB",
+        "subdivision_name": "Ngöbe-Buglé",
+        "abbreviation": "NB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-8",
+        "subdivision_name": "Panamá",
+        "abbreviation": "8"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-10",
+        "subdivision_name": "Panamá Oeste",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PA-9",
+        "subdivision_name": "Veraguas",
+        "abbreviation": "9"
+    }
+]

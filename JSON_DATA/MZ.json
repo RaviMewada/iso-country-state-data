@@ -1,0 +1,68 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-P",
+        "subdivision_name": "Cabo Delgado",
+        "abbreviation": "P"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-G",
+        "subdivision_name": "Gaza",
+        "abbreviation": "G"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-I",
+        "subdivision_name": "Inhambane",
+        "abbreviation": "I"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-B",
+        "subdivision_name": "Manica",
+        "abbreviation": "B"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MZ-MPM",
+        "subdivision_name": "Maputo",
+        "abbreviation": "MPM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-L",
+        "subdivision_name": "Maputo",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-N",
+        "subdivision_name": "Nampula",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-A",
+        "subdivision_name": "Niassa",
+        "abbreviation": "A"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-S",
+        "subdivision_name": "Sofala",
+        "abbreviation": "S"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-T",
+        "subdivision_name": "Tete",
+        "abbreviation": "T"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MZ-Q",
+        "subdivision_name": "Zambézia",
+        "abbreviation": "Q"
+    }
+]

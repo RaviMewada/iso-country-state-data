@@ -1,0 +1,350 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-BAL",
+        "subdivision_name": "Balé",
+        "abbreviation": "BAL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-BAM",
+        "subdivision_name": "Bam",
+        "abbreviation": "BAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-BAN",
+        "subdivision_name": "Banwa",
+        "abbreviation": "BAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-BAZ",
+        "subdivision_name": "Bazèga",
+        "abbreviation": "BAZ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-01",
+        "subdivision_name": "Boucle du Mouhoun",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-BGR",
+        "subdivision_name": "Bougouriba",
+        "abbreviation": "BGR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-BLG",
+        "subdivision_name": "Boulgou",
+        "abbreviation": "BLG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-BLK",
+        "subdivision_name": "Boulkiemdé",
+        "abbreviation": "BLK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-02",
+        "subdivision_name": "Cascades",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-03",
+        "subdivision_name": "Centre",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-04",
+        "subdivision_name": "Centre-Est",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-05",
+        "subdivision_name": "Centre-Nord",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-06",
+        "subdivision_name": "Centre-Ouest",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-07",
+        "subdivision_name": "Centre-Sud",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-COM",
+        "subdivision_name": "Comoé",
+        "abbreviation": "COM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-08",
+        "subdivision_name": "Est",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-GAN",
+        "subdivision_name": "Ganzourgou",
+        "abbreviation": "GAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-GNA",
+        "subdivision_name": "Gnagna",
+        "abbreviation": "GNA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-GOU",
+        "subdivision_name": "Gourma",
+        "abbreviation": "GOU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-09",
+        "subdivision_name": "Hauts-Bassins",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-HOU",
+        "subdivision_name": "Houet",
+        "abbreviation": "HOU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-IOB",
+        "subdivision_name": "Ioba",
+        "abbreviation": "IOB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KAD",
+        "subdivision_name": "Kadiogo",
+        "abbreviation": "KAD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KMD",
+        "subdivision_name": "Komondjari",
+        "abbreviation": "KMD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KMP",
+        "subdivision_name": "Kompienga",
+        "abbreviation": "KMP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KOS",
+        "subdivision_name": "Kossi",
+        "abbreviation": "KOS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KOP",
+        "subdivision_name": "Koulpélogo",
+        "abbreviation": "KOP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KOT",
+        "subdivision_name": "Kouritenga",
+        "abbreviation": "KOT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KOW",
+        "subdivision_name": "Kourwéogo",
+        "abbreviation": "KOW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-KEN",
+        "subdivision_name": "Kénédougou",
+        "abbreviation": "KEN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-LOR",
+        "subdivision_name": "Loroum",
+        "abbreviation": "LOR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-LER",
+        "subdivision_name": "Léraba",
+        "abbreviation": "LER"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-MOU",
+        "subdivision_name": "Mouhoun",
+        "abbreviation": "MOU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-NAO",
+        "subdivision_name": "Nahouri",
+        "abbreviation": "NAO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-NAM",
+        "subdivision_name": "Namentenga",
+        "abbreviation": "NAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-NAY",
+        "subdivision_name": "Nayala",
+        "abbreviation": "NAY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-10",
+        "subdivision_name": "Nord",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-NOU",
+        "subdivision_name": "Noumbiel",
+        "abbreviation": "NOU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-OUB",
+        "subdivision_name": "Oubritenga",
+        "abbreviation": "OUB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-OUD",
+        "subdivision_name": "Oudalan",
+        "abbreviation": "OUD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-PAS",
+        "subdivision_name": "Passoré",
+        "abbreviation": "PAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-11",
+        "subdivision_name": "Plateau-Central",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-PON",
+        "subdivision_name": "Poni",
+        "abbreviation": "PON"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-12",
+        "subdivision_name": "Sahel",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-SNG",
+        "subdivision_name": "Sanguié",
+        "abbreviation": "SNG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-SMT",
+        "subdivision_name": "Sanmatenga",
+        "abbreviation": "SMT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-SIS",
+        "subdivision_name": "Sissili",
+        "abbreviation": "SIS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-SOM",
+        "subdivision_name": "Soum",
+        "abbreviation": "SOM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-SOR",
+        "subdivision_name": "Sourou",
+        "abbreviation": "SOR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "BF-13",
+        "subdivision_name": "Sud-Ouest",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-SEN",
+        "subdivision_name": "Séno",
+        "abbreviation": "SEN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-TAP",
+        "subdivision_name": "Tapoa",
+        "abbreviation": "TAP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-TUI",
+        "subdivision_name": "Tuy",
+        "abbreviation": "TUI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-YAG",
+        "subdivision_name": "Yagha",
+        "abbreviation": "YAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-YAT",
+        "subdivision_name": "Yatenga",
+        "abbreviation": "YAT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-ZIR",
+        "subdivision_name": "Ziro",
+        "abbreviation": "ZIR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-ZON",
+        "subdivision_name": "Zondoma",
+        "abbreviation": "ZON"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "BF-ZOU",
+        "subdivision_name": "Zoundwéogo",
+        "abbreviation": "ZOU"
+    }
+]

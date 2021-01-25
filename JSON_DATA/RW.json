@@ -1,0 +1,92 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-03",
+        "subdivision_name": "Amajyaruguru",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-05",
+        "subdivision_name": "Amajyepfo",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "RW-01",
+        "subdivision_name": "City of Kigali",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-02",
+        "subdivision_name": "Eastern",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-02",
+        "subdivision_name": "Est",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-02",
+        "subdivision_name": "Iburasirazuba",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-04",
+        "subdivision_name": "Iburengerazuba",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-03",
+        "subdivision_name": "Nord",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-03",
+        "subdivision_name": "Northern",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-04",
+        "subdivision_name": "Ouest",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-05",
+        "subdivision_name": "Southern",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-05",
+        "subdivision_name": "Sud",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "RW-01",
+        "subdivision_name": "Umujyi wa Kigali",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "RW-01",
+        "subdivision_name": "Ville de Kigali",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "RW-04",
+        "subdivision_name": "Western",
+        "abbreviation": "04"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-04",
+        "subdivision_name": "Chagang-do",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-09",
+        "subdivision_name": "Hamgyǒng-bukto",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-08",
+        "subdivision_name": "Hamgyǒng-namdo",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-08",
+        "subdivision_name": "Hamkyeongnamto",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-09",
+        "subdivision_name": "Hamkyeongpukto",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-06",
+        "subdivision_name": "Hwanghae-bukto",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-05",
+        "subdivision_name": "Hwanghae-namdo",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-05",
+        "subdivision_name": "Hwanghainamto",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-06",
+        "subdivision_name": "Hwanghaipukto",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-04",
+        "subdivision_name": "Jakangto",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-07",
+        "subdivision_name": "Kangweonto",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-07",
+        "subdivision_name": "Kangwǒn-do",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KP-14",
+        "subdivision_name": "Nampho",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "metropolitan city",
+        "iso_3166_2_code": "KP-14",
+        "subdivision_name": "Namp’o",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-03",
+        "subdivision_name": "P'yǒngan-bukto",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-02",
+        "subdivision_name": "P'yǒngan-namdo",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "capital city",
+        "iso_3166_2_code": "KP-01",
+        "subdivision_name": "P'yǒngyang",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-02",
+        "subdivision_name": "Phyeongannamto",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-03",
+        "subdivision_name": "Phyeonganpukto",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "capital city",
+        "iso_3166_2_code": "KP-01",
+        "subdivision_name": "Phyeongyang",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "special city",
+        "iso_3166_2_code": "KP-13",
+        "subdivision_name": "Raseon",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "special city",
+        "iso_3166_2_code": "KP-13",
+        "subdivision_name": "Rasǒn",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-10",
+        "subdivision_name": "Ryanggang-do",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KP-10",
+        "subdivision_name": "Ryangkangto",
+        "abbreviation": "10"
+    }
+]

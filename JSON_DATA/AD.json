@@ -1,0 +1,44 @@
+[
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AD-07",
+        "subdivision_name": "Andorra la Vella",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AD-02",
+        "subdivision_name": "Canillo",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AD-03",
+        "subdivision_name": "Encamp",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AD-08",
+        "subdivision_name": "Escaldes-Engordany",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AD-04",
+        "subdivision_name": "La Massana",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AD-05",
+        "subdivision_name": "Ordino",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "AD-06",
+        "subdivision_name": "Sant Julià de Lòria",
+        "abbreviation": "06"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-BA",
+        "subdivision_name": "Al Balqā’",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-KA",
+        "subdivision_name": "Al Karak",
+        "abbreviation": "KA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-MA",
+        "subdivision_name": "Al Mafraq",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-AQ",
+        "subdivision_name": "Al ‘Aqabah",
+        "abbreviation": "AQ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-AM",
+        "subdivision_name": "Al ‘A̅şimah",
+        "abbreviation": "AM"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-AZ",
+        "subdivision_name": "Az Zarqā’",
+        "abbreviation": "AZ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-AT",
+        "subdivision_name": "Aţ Ţafīlah",
+        "abbreviation": "AT"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-IR",
+        "subdivision_name": "Irbid",
+        "abbreviation": "IR"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-JA",
+        "subdivision_name": "Jarash",
+        "abbreviation": "JA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-MN",
+        "subdivision_name": "Ma‘ān",
+        "abbreviation": "MN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-MD",
+        "subdivision_name": "Mādabā",
+        "abbreviation": "MD"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "JO-AJ",
+        "subdivision_name": "‘Ajlūn",
+        "abbreviation": "AJ"
+    }
+]

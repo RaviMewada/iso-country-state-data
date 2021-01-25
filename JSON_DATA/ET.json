@@ -1,0 +1,134 @@
+[
+    {
+        "subdivision_category": "administration",
+        "iso_3166_2_code": "ET-AA",
+        "subdivision_name": "Addis Ababa",
+        "abbreviation": "AA"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-AF",
+        "subdivision_name": "Afar",
+        "abbreviation": "AF"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-AM",
+        "subdivision_name": "Amara",
+        "abbreviation": "AM"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-BE",
+        "subdivision_name": "Benshangul-Gumaz",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-BE",
+        "subdivision_name": "Bīnshangul Gumuz",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "administration",
+        "iso_3166_2_code": "ET-DD",
+        "subdivision_name": "Dire Dawa",
+        "abbreviation": "DD"
+    },
+    {
+        "subdivision_category": "administration",
+        "iso_3166_2_code": "ET-DD",
+        "subdivision_name": "Dirē Dawa",
+        "abbreviation": "DD"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-GA",
+        "subdivision_name": "Gambela Peoples",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-GA",
+        "subdivision_name": "Gambēla Hizboch",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-HA",
+        "subdivision_name": "Harari People",
+        "abbreviation": "HA"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-HA",
+        "subdivision_name": "Hārerī Hizb",
+        "abbreviation": "HA"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-OR",
+        "subdivision_name": "Oromia",
+        "abbreviation": "OR"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-OR",
+        "subdivision_name": "Oromīya",
+        "abbreviation": "OR"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-SO",
+        "subdivision_name": "Somali",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-SN",
+        "subdivision_name": "Southern Nations, Nationalities and Peoples",
+        "abbreviation": "SN"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-SO",
+        "subdivision_name": "Sumalē",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-TI",
+        "subdivision_name": "Tigrai",
+        "abbreviation": "TI"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-TI",
+        "subdivision_name": "Tigray",
+        "abbreviation": "TI"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-SN",
+        "subdivision_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+        "abbreviation": "SN"
+    },
+    {
+        "subdivision_category": "administration",
+        "iso_3166_2_code": "ET-AA",
+        "subdivision_name": "Ādīs Ābeba",
+        "abbreviation": "AA"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-AF",
+        "subdivision_name": "Āfar",
+        "abbreviation": "AF"
+    },
+    {
+        "subdivision_category": "regional state",
+        "iso_3166_2_code": "ET-AM",
+        "subdivision_name": "Āmara",
+        "abbreviation": "AM"
+    }
+]

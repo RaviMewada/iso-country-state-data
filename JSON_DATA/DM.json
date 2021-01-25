@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-02",
+        "subdivision_name": "Saint Andrew",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-03",
+        "subdivision_name": "Saint David",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-04",
+        "subdivision_name": "Saint George",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-05",
+        "subdivision_name": "Saint John",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-06",
+        "subdivision_name": "Saint Joseph",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-07",
+        "subdivision_name": "Saint Luke",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-08",
+        "subdivision_name": "Saint Mark",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-09",
+        "subdivision_name": "Saint Patrick",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-10",
+        "subdivision_name": "Saint Paul",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "DM-11",
+        "subdivision_name": "Saint Peter",
+        "abbreviation": "11"
+    }
+]

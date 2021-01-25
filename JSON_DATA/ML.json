@@ -1,0 +1,69 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "ML-BKO",
+        "subdivision_name": "Bamako",
+        "abbreviation": "BKO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-7",
+        "subdivision_name": "Gao",
+        "abbreviation": "7"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-1",
+        "subdivision_name": "Kayes",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-8",
+        "subdivision_name": "Kidal",
+        "abbreviation": "8"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-2",
+        "subdivision_name": "Koulikoro",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-5",
+        "subdivision_name": "Mopti",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-9",
+        "subdivision_name": "Ménaka",
+        "abbreviation": "9"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-3",
+        "subdivision_name": "Sikasso",
+        "abbreviation": "3"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-4",
+        "subdivision_name": "Ségou",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-10",
+        "subdivision_name": "Taoudénit",
+        "field8": "",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ML-6",
+        "subdivision_name": "Tombouctou",
+        "abbreviation": "6"
+    }
+]

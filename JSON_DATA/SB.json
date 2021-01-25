@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "capital territory",
+        "iso_3166_2_code": "SB-CT",
+        "subdivision_name": "Capital Territory (Honiara)",
+        "abbreviation": "CT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-CE",
+        "subdivision_name": "Central",
+        "abbreviation": "CE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-CH",
+        "subdivision_name": "Choiseul",
+        "abbreviation": "CH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-GU",
+        "subdivision_name": "Guadalcanal",
+        "abbreviation": "GU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-IS",
+        "subdivision_name": "Isabel",
+        "abbreviation": "IS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-MK",
+        "subdivision_name": "Makira-Ulawa",
+        "abbreviation": "MK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-ML",
+        "subdivision_name": "Malaita",
+        "abbreviation": "ML"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-RB",
+        "subdivision_name": "Rennell and Bellona",
+        "abbreviation": "RB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-TE",
+        "subdivision_name": "Temotu",
+        "abbreviation": "TE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SB-WE",
+        "subdivision_name": "Western",
+        "abbreviation": "WE"
+    }
+]

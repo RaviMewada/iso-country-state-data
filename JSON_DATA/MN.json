@@ -1,0 +1,134 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-073",
+        "subdivision_name": "Arhangay",
+        "abbreviation": "073"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-071",
+        "subdivision_name": "Bayan-Ölgiy",
+        "abbreviation": "071"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-069",
+        "subdivision_name": "Bayanhongor",
+        "abbreviation": "069"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-067",
+        "subdivision_name": "Bulgan",
+        "abbreviation": "067"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-037",
+        "subdivision_name": "Darhan uul",
+        "abbreviation": "037"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-061",
+        "subdivision_name": "Dornod",
+        "abbreviation": "061"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-063",
+        "subdivision_name": "Dornogovĭ",
+        "abbreviation": "063"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-059",
+        "subdivision_name": "Dundgovĭ",
+        "abbreviation": "059"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-057",
+        "subdivision_name": "Dzavhan",
+        "abbreviation": "057"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-065",
+        "subdivision_name": "Govĭ-Altay",
+        "abbreviation": "065"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-064",
+        "subdivision_name": "Govĭ-Sümber",
+        "abbreviation": "064"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-039",
+        "subdivision_name": "Hentiy",
+        "abbreviation": "039"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-043",
+        "subdivision_name": "Hovd",
+        "abbreviation": "043"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-041",
+        "subdivision_name": "Hövsgöl",
+        "abbreviation": "041"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-035",
+        "subdivision_name": "Orhon",
+        "abbreviation": "035"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-049",
+        "subdivision_name": "Selenge",
+        "abbreviation": "049"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-051",
+        "subdivision_name": "Sühbaatar",
+        "abbreviation": "051"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-047",
+        "subdivision_name": "Töv",
+        "abbreviation": "047"
+    },
+    {
+        "subdivision_category": "capital city",
+        "iso_3166_2_code": "MN-1",
+        "subdivision_name": "Ulaanbaatar",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-046",
+        "subdivision_name": "Uvs",
+        "abbreviation": "046"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-053",
+        "subdivision_name": "Ömnögovĭ",
+        "abbreviation": "053"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "MN-055",
+        "subdivision_name": "Övörhangay",
+        "abbreviation": "055"
+    }
+]

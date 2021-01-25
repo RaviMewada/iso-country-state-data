@@ -1,0 +1,26 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "FM-TRK",
+        "subdivision_name": "Chuuk",
+        "abbreviation": "TRK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "FM-KSA",
+        "subdivision_name": "Kosrae",
+        "abbreviation": "KSA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "FM-PNI",
+        "subdivision_name": "Pohnpei",
+        "abbreviation": "PNI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "FM-YAP",
+        "subdivision_name": "Yap",
+        "abbreviation": "YAP"
+    }
+]

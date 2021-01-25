@@ -1,0 +1,110 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-AT",
+        "subdivision_name": "Attapu",
+        "abbreviation": "AT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-BK",
+        "subdivision_name": "Bokèo",
+        "abbreviation": "BK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-BL",
+        "subdivision_name": "Bolikhamxai",
+        "abbreviation": "BL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-CH",
+        "subdivision_name": "Champasak",
+        "abbreviation": "CH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-HO",
+        "subdivision_name": "Houaphan",
+        "abbreviation": "HO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-KH",
+        "subdivision_name": "Khammouan",
+        "abbreviation": "KH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-LM",
+        "subdivision_name": "Louang Namtha",
+        "abbreviation": "LM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-LP",
+        "subdivision_name": "Louangphabang",
+        "abbreviation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-OU",
+        "subdivision_name": "Oudômxai",
+        "abbreviation": "OU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-PH",
+        "subdivision_name": "Phôngsali",
+        "abbreviation": "PH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-SL",
+        "subdivision_name": "Salavan",
+        "abbreviation": "SL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-SV",
+        "subdivision_name": "Savannakhét",
+        "abbreviation": "SV"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "LA-VT",
+        "subdivision_name": "Viangchan",
+        "abbreviation": "VT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-VI",
+        "subdivision_name": "Viangchan",
+        "abbreviation": "VI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-XA",
+        "subdivision_name": "Xaignabouli",
+        "abbreviation": "XA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-XS",
+        "subdivision_name": "Xaisômboun",
+        "abbreviation": "XS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-XI",
+        "subdivision_name": "Xiangkhouang",
+        "abbreviation": "XI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LA-XE",
+        "subdivision_name": "Xékong",
+        "abbreviation": "XE"
+    }
+]

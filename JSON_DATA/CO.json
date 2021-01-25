@@ -1,0 +1,200 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-AMA",
+        "subdivision_name": "Amazonas",
+        "abbreviation": "AMA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-ANT",
+        "subdivision_name": "Antioquia",
+        "abbreviation": "ANT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-ARA",
+        "subdivision_name": "Arauca",
+        "abbreviation": "ARA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-ATL",
+        "subdivision_name": "Atlántico",
+        "abbreviation": "ATL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-BOL",
+        "subdivision_name": "Bolívar",
+        "abbreviation": "BOL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-BOY",
+        "subdivision_name": "Boyacá",
+        "abbreviation": "BOY"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-CAL",
+        "subdivision_name": "Caldas",
+        "abbreviation": "CAL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-CAQ",
+        "subdivision_name": "Caquetá",
+        "abbreviation": "CAQ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-CAS",
+        "subdivision_name": "Casanare",
+        "abbreviation": "CAS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-CAU",
+        "subdivision_name": "Cauca",
+        "abbreviation": "CAU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-CES",
+        "subdivision_name": "Cesar",
+        "abbreviation": "CES"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-CHO",
+        "subdivision_name": "Chocó",
+        "abbreviation": "CHO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-CUN",
+        "subdivision_name": "Cundinamarca",
+        "abbreviation": "CUN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-COR",
+        "subdivision_name": "Córdoba",
+        "abbreviation": "COR"
+    },
+    {
+        "subdivision_category": "capital district",
+        "iso_3166_2_code": "CO-DC",
+        "subdivision_name": "Distrito Capital de Bogotá",
+        "abbreviation": "DC"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-GUA",
+        "subdivision_name": "Guainía",
+        "abbreviation": "GUA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-GUV",
+        "subdivision_name": "Guaviare",
+        "abbreviation": "GUV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-HUI",
+        "subdivision_name": "Huila",
+        "abbreviation": "HUI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-LAG",
+        "subdivision_name": "La Guajira",
+        "abbreviation": "LAG"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-MAG",
+        "subdivision_name": "Magdalena",
+        "abbreviation": "MAG"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-MET",
+        "subdivision_name": "Meta",
+        "abbreviation": "MET"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-NAR",
+        "subdivision_name": "Nariño",
+        "abbreviation": "NAR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-NSA",
+        "subdivision_name": "Norte de Santander",
+        "abbreviation": "NSA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-PUT",
+        "subdivision_name": "Putumayo",
+        "abbreviation": "PUT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-QUI",
+        "subdivision_name": "Quindío",
+        "abbreviation": "QUI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-RIS",
+        "subdivision_name": "Risaralda",
+        "abbreviation": "RIS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-SAP",
+        "subdivision_name": "San Andrés, Providencia y Santa Catalina",
+        "abbreviation": "SAP"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-SAN",
+        "subdivision_name": "Santander",
+        "abbreviation": "SAN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-SUC",
+        "subdivision_name": "Sucre",
+        "abbreviation": "SUC"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-TOL",
+        "subdivision_name": "Tolima",
+        "abbreviation": "TOL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-VAC",
+        "subdivision_name": "Valle del Cauca",
+        "abbreviation": "VAC"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-VAU",
+        "subdivision_name": "Vaupés",
+        "abbreviation": "VAU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "CO-VID",
+        "subdivision_name": "Vichada",
+        "abbreviation": "VID"
+    }
+]

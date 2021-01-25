@@ -1,0 +1,422 @@
+[
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-01",
+        "subdivision_name": "Akmenė",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-AL",
+        "subdivision_name": "Alytaus apskritis",
+        "abbreviation": "AL"
+    },
+    {
+        "subdivision_category": "city municipality",
+        "iso_3166_2_code": "LT-02",
+        "subdivision_name": "Alytaus miestas",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-03",
+        "subdivision_name": "Alytus",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-04",
+        "subdivision_name": "Anykščiai",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-05",
+        "subdivision_name": "Birštono",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-06",
+        "subdivision_name": "Biržai",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-07",
+        "subdivision_name": "Druskininkai",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-08",
+        "subdivision_name": "Elektrėnai",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-09",
+        "subdivision_name": "Ignalina",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-10",
+        "subdivision_name": "Jonava",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-11",
+        "subdivision_name": "Joniškis",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-12",
+        "subdivision_name": "Jurbarkas",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-13",
+        "subdivision_name": "Kaišiadorys",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-14",
+        "subdivision_name": "Kalvarijos",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-16",
+        "subdivision_name": "Kaunas",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-KU",
+        "subdivision_name": "Kauno apskritis",
+        "abbreviation": "KU"
+    },
+    {
+        "subdivision_category": "city municipality",
+        "iso_3166_2_code": "LT-15",
+        "subdivision_name": "Kauno miestas",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-17",
+        "subdivision_name": "Kazlų Rūdos",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-19",
+        "subdivision_name": "Kelmė",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-21",
+        "subdivision_name": "Klaipėda",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-KL",
+        "subdivision_name": "Klaipėdos apskritis",
+        "abbreviation": "KL"
+    },
+    {
+        "subdivision_category": "city municipality",
+        "iso_3166_2_code": "LT-20",
+        "subdivision_name": "Klaipėdos miestas",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-22",
+        "subdivision_name": "Kretinga",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-23",
+        "subdivision_name": "Kupiškis",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-18",
+        "subdivision_name": "Kėdainiai",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-24",
+        "subdivision_name": "Lazdijai",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-25",
+        "subdivision_name": "Marijampolė",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-MR",
+        "subdivision_name": "Marijampolės apskritis",
+        "abbreviation": "MR"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-26",
+        "subdivision_name": "Mažeikiai",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-27",
+        "subdivision_name": "Molėtai",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-28",
+        "subdivision_name": "Neringa",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-29",
+        "subdivision_name": "Pagėgiai",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-30",
+        "subdivision_name": "Pakruojis",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "city municipality",
+        "iso_3166_2_code": "LT-31",
+        "subdivision_name": "Palangos miestas",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-PN",
+        "subdivision_name": "Panevėžio apskritis",
+        "abbreviation": "PN"
+    },
+    {
+        "subdivision_category": "city municipality",
+        "iso_3166_2_code": "LT-32",
+        "subdivision_name": "Panevėžio miestas",
+        "abbreviation": "32"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-33",
+        "subdivision_name": "Panevėžys",
+        "abbreviation": "33"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-34",
+        "subdivision_name": "Pasvalys",
+        "abbreviation": "34"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-35",
+        "subdivision_name": "Plungė",
+        "abbreviation": "35"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-36",
+        "subdivision_name": "Prienai",
+        "abbreviation": "36"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-37",
+        "subdivision_name": "Radviliškis",
+        "abbreviation": "37"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-38",
+        "subdivision_name": "Raseiniai",
+        "abbreviation": "38"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-39",
+        "subdivision_name": "Rietavo",
+        "abbreviation": "39"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-40",
+        "subdivision_name": "Rokiškis",
+        "abbreviation": "40"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-48",
+        "subdivision_name": "Skuodas",
+        "abbreviation": "48"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-50",
+        "subdivision_name": "Tauragė",
+        "abbreviation": "50"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-TA",
+        "subdivision_name": "Tauragės apskritis",
+        "abbreviation": "TA"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-51",
+        "subdivision_name": "Telšiai",
+        "abbreviation": "51"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-TE",
+        "subdivision_name": "Telšių apskritis",
+        "abbreviation": "TE"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-52",
+        "subdivision_name": "Trakai",
+        "abbreviation": "52"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-53",
+        "subdivision_name": "Ukmergė",
+        "abbreviation": "53"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-54",
+        "subdivision_name": "Utena",
+        "abbreviation": "54"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-UT",
+        "subdivision_name": "Utenos apskritis",
+        "abbreviation": "UT"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-55",
+        "subdivision_name": "Varėna",
+        "abbreviation": "55"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-56",
+        "subdivision_name": "Vilkaviškis",
+        "abbreviation": "56"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-VL",
+        "subdivision_name": "Vilniaus apskritis",
+        "abbreviation": "VL"
+    },
+    {
+        "subdivision_category": "city municipality",
+        "iso_3166_2_code": "LT-57",
+        "subdivision_name": "Vilniaus miestas",
+        "abbreviation": "57"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-58",
+        "subdivision_name": "Vilnius",
+        "abbreviation": "58"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "LT-59",
+        "subdivision_name": "Visaginas",
+        "abbreviation": "59"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-60",
+        "subdivision_name": "Zarasai",
+        "abbreviation": "60"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-41",
+        "subdivision_name": "Šakiai",
+        "abbreviation": "41"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-42",
+        "subdivision_name": "Šalčininkai",
+        "abbreviation": "42"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-44",
+        "subdivision_name": "Šiauliai",
+        "abbreviation": "44"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "LT-SA",
+        "subdivision_name": "Šiaulių apskritis",
+        "abbreviation": "SA"
+    },
+    {
+        "subdivision_category": "city municipality",
+        "iso_3166_2_code": "LT-43",
+        "subdivision_name": "Šiaulių miestas",
+        "abbreviation": "43"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-45",
+        "subdivision_name": "Šilalė",
+        "abbreviation": "45"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-46",
+        "subdivision_name": "Šilutė",
+        "abbreviation": "46"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-47",
+        "subdivision_name": "Širvintos",
+        "abbreviation": "47"
+    },
+    {
+        "subdivision_category": "district municipality",
+        "iso_3166_2_code": "LT-49",
+        "subdivision_name": "Švenčionys",
+        "abbreviation": "49"
+    }
+]

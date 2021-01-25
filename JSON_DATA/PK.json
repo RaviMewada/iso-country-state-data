@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "Pakistan administered area",
+        "iso_3166_2_code": "PK-JK",
+        "subdivision_name": "Azad Jammu and Kashmir",
+        "abbreviation": "JK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-BA",
+        "subdivision_name": "Balochistan",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-BA",
+        "subdivision_name": "Balōchistān",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "Pakistan administered area",
+        "iso_3166_2_code": "PK-GB",
+        "subdivision_name": "Gilgit-Baltistan",
+        "abbreviation": "GB"
+    },
+    {
+        "subdivision_category": "Pakistan administered area",
+        "iso_3166_2_code": "PK-GB",
+        "subdivision_name": "Gilgit-Baltistān",
+        "abbreviation": "GB"
+    },
+    {
+        "subdivision_category": "federal capital territory",
+        "iso_3166_2_code": "PK-IS",
+        "subdivision_name": "Islamabad",
+        "abbreviation": "IS"
+    },
+    {
+        "subdivision_category": "federal capital territory",
+        "iso_3166_2_code": "PK-IS",
+        "subdivision_name": "Islāmābād",
+        "abbreviation": "IS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-KP",
+        "subdivision_name": "Khaībar Pakhtūnkhwā",
+        "abbreviation": "KP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-KP",
+        "subdivision_name": "Khyber Pakhtunkhwa",
+        "abbreviation": "KP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-PB",
+        "subdivision_name": "Panjāb",
+        "abbreviation": "PB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-PB",
+        "subdivision_name": "Punjab",
+        "abbreviation": "PB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-SD",
+        "subdivision_name": "Sindh",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PK-SD",
+        "subdivision_name": "Sindh",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "Pakistan administered area",
+        "iso_3166_2_code": "PK-JK",
+        "subdivision_name": "Āzād Jammūñ o Kashmīr",
+        "abbreviation": "JK"
+    }
+]

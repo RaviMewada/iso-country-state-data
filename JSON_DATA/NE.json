@@ -1,0 +1,50 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NE-1",
+        "subdivision_name": "Agadez",
+        "abbreviation": "1"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NE-2",
+        "subdivision_name": "Diffa",
+        "abbreviation": "2"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NE-3",
+        "subdivision_name": "Dosso",
+        "abbreviation": "3"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NE-4",
+        "subdivision_name": "Maradi",
+        "abbreviation": "4"
+    },
+    {
+        "subdivision_category": "urban community",
+        "iso_3166_2_code": "NE-8",
+        "subdivision_name": "Niamey",
+        "abbreviation": "8"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NE-5",
+        "subdivision_name": "Tahoua",
+        "abbreviation": "5"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NE-6",
+        "subdivision_name": "Tillabéri",
+        "abbreviation": "6"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NE-7",
+        "subdivision_name": "Zinder",
+        "abbreviation": "7"
+    }
+]

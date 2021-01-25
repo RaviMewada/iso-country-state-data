@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-02",
+        "subdivision_name": "Dolnośląskie",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-04",
+        "subdivision_name": "Kujawsko-pomorskie",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-06",
+        "subdivision_name": "Lubelskie",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-08",
+        "subdivision_name": "Lubuskie",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-14",
+        "subdivision_name": "Mazowieckie",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-12",
+        "subdivision_name": "Małopolskie",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-16",
+        "subdivision_name": "Opolskie",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-18",
+        "subdivision_name": "Podkarpackie",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-20",
+        "subdivision_name": "Podlaskie",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-22",
+        "subdivision_name": "Pomorskie",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-28",
+        "subdivision_name": "Warmińsko-mazurskie",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-30",
+        "subdivision_name": "Wielkopolskie",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-32",
+        "subdivision_name": "Zachodniopomorskie",
+        "abbreviation": "32"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-10",
+        "subdivision_name": "Łódzkie",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-24",
+        "subdivision_name": "Śląskie",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "voivodship",
+        "iso_3166_2_code": "PL-26",
+        "subdivision_name": "Świętokrzyskie",
+        "abbreviation": "26"
+    }
+]

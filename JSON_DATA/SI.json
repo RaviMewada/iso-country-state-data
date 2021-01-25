@@ -1,0 +1,1274 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-001",
+        "subdivision_name": "Ajdovščina",
+        "abbreviation": "001"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-213",
+        "subdivision_name": "Ankaran",
+        "abbreviation": "213"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-195",
+        "subdivision_name": "Apače",
+        "abbreviation": "195"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-002",
+        "subdivision_name": "Beltinci",
+        "abbreviation": "002"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-148",
+        "subdivision_name": "Benedikt",
+        "abbreviation": "148"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-149",
+        "subdivision_name": "Bistrica ob Sotli",
+        "abbreviation": "149"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-003",
+        "subdivision_name": "Bled",
+        "abbreviation": "003"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-150",
+        "subdivision_name": "Bloke",
+        "abbreviation": "150"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-004",
+        "subdivision_name": "Bohinj",
+        "abbreviation": "004"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-005",
+        "subdivision_name": "Borovnica",
+        "abbreviation": "005"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-006",
+        "subdivision_name": "Bovec",
+        "abbreviation": "006"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-151",
+        "subdivision_name": "Braslovče",
+        "abbreviation": "151"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-007",
+        "subdivision_name": "Brda",
+        "abbreviation": "007"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-008",
+        "subdivision_name": "Brezovica",
+        "abbreviation": "008"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-009",
+        "subdivision_name": "Brežice",
+        "abbreviation": "009"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-152",
+        "subdivision_name": "Cankova",
+        "abbreviation": "152"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-011",
+        "subdivision_name": "Celje",
+        "abbreviation": "011"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-012",
+        "subdivision_name": "Cerklje na Gorenjskem",
+        "abbreviation": "012"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-013",
+        "subdivision_name": "Cerknica",
+        "abbreviation": "013"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-014",
+        "subdivision_name": "Cerkno",
+        "abbreviation": "014"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-153",
+        "subdivision_name": "Cerkvenjak",
+        "abbreviation": "153"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-196",
+        "subdivision_name": "Cirkulane",
+        "abbreviation": "196"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-018",
+        "subdivision_name": "Destrnik",
+        "abbreviation": "018"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-019",
+        "subdivision_name": "Divača",
+        "abbreviation": "019"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-154",
+        "subdivision_name": "Dobje",
+        "abbreviation": "154"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-020",
+        "subdivision_name": "Dobrepolje",
+        "abbreviation": "020"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-155",
+        "subdivision_name": "Dobrna",
+        "abbreviation": "155"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-021",
+        "subdivision_name": "Dobrova-Polhov Gradec",
+        "abbreviation": "021"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-156",
+        "subdivision_name": "Dobrovnik",
+        "abbreviation": "156"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-022",
+        "subdivision_name": "Dol pri Ljubljani",
+        "abbreviation": "022"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-157",
+        "subdivision_name": "Dolenjske Toplice",
+        "abbreviation": "157"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-023",
+        "subdivision_name": "Domžale",
+        "abbreviation": "023"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-024",
+        "subdivision_name": "Dornava",
+        "abbreviation": "024"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-025",
+        "subdivision_name": "Dravograd",
+        "abbreviation": "025"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-026",
+        "subdivision_name": "Duplek",
+        "abbreviation": "026"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-027",
+        "subdivision_name": "Gorenja vas-Poljane",
+        "abbreviation": "027"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-028",
+        "subdivision_name": "Gorišnica",
+        "abbreviation": "028"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-207",
+        "subdivision_name": "Gorje",
+        "abbreviation": "207"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-029",
+        "subdivision_name": "Gornja Radgona",
+        "abbreviation": "029"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-030",
+        "subdivision_name": "Gornji Grad",
+        "abbreviation": "030"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-031",
+        "subdivision_name": "Gornji Petrovci",
+        "abbreviation": "031"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-158",
+        "subdivision_name": "Grad",
+        "abbreviation": "158"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-032",
+        "subdivision_name": "Grosuplje",
+        "abbreviation": "032"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-159",
+        "subdivision_name": "Hajdina",
+        "abbreviation": "159"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-161",
+        "subdivision_name": "Hodoš",
+        "abbreviation": "161"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-162",
+        "subdivision_name": "Horjul",
+        "abbreviation": "162"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-160",
+        "subdivision_name": "Hoče-Slivnica",
+        "abbreviation": "160"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-034",
+        "subdivision_name": "Hrastnik",
+        "abbreviation": "034"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-035",
+        "subdivision_name": "Hrpelje-Kozina",
+        "abbreviation": "035"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-036",
+        "subdivision_name": "Idrija",
+        "abbreviation": "036"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-037",
+        "subdivision_name": "Ig",
+        "abbreviation": "037"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-038",
+        "subdivision_name": "Ilirska Bistrica",
+        "abbreviation": "038"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-039",
+        "subdivision_name": "Ivančna Gorica",
+        "abbreviation": "039"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-040",
+        "subdivision_name": "Izola",
+        "abbreviation": "040"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-041",
+        "subdivision_name": "Jesenice",
+        "abbreviation": "041"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-163",
+        "subdivision_name": "Jezersko",
+        "abbreviation": "163"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-042",
+        "subdivision_name": "Juršinci",
+        "abbreviation": "042"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-043",
+        "subdivision_name": "Kamnik",
+        "abbreviation": "043"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-044",
+        "subdivision_name": "Kanal",
+        "abbreviation": "044"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-045",
+        "subdivision_name": "Kidričevo",
+        "abbreviation": "045"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-046",
+        "subdivision_name": "Kobarid",
+        "abbreviation": "046"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-047",
+        "subdivision_name": "Kobilje",
+        "abbreviation": "047"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-049",
+        "subdivision_name": "Komen",
+        "abbreviation": "049"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-164",
+        "subdivision_name": "Komenda",
+        "abbreviation": "164"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-050",
+        "subdivision_name": "Koper",
+        "abbreviation": "050"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-197",
+        "subdivision_name": "Kosanjevica na Krki",
+        "abbreviation": "197"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-165",
+        "subdivision_name": "Kostel",
+        "abbreviation": "165"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-051",
+        "subdivision_name": "Kozje",
+        "abbreviation": "051"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-048",
+        "subdivision_name": "Kočevje",
+        "abbreviation": "048"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-052",
+        "subdivision_name": "Kranj",
+        "abbreviation": "052"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-053",
+        "subdivision_name": "Kranjska Gora",
+        "abbreviation": "053"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-166",
+        "subdivision_name": "Križevci",
+        "abbreviation": "166"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-054",
+        "subdivision_name": "Krško",
+        "abbreviation": "054"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-055",
+        "subdivision_name": "Kungota",
+        "abbreviation": "055"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-056",
+        "subdivision_name": "Kuzma",
+        "abbreviation": "056"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-057",
+        "subdivision_name": "Laško",
+        "abbreviation": "057"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-058",
+        "subdivision_name": "Lenart",
+        "abbreviation": "058"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-059",
+        "subdivision_name": "Lendava",
+        "abbreviation": "059"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-060",
+        "subdivision_name": "Litija",
+        "abbreviation": "060"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-061",
+        "subdivision_name": "Ljubljana",
+        "abbreviation": "061"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-062",
+        "subdivision_name": "Ljubno",
+        "abbreviation": "062"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-063",
+        "subdivision_name": "Ljutomer",
+        "abbreviation": "063"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-208",
+        "subdivision_name": "Log-Dragomer",
+        "abbreviation": "208"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-064",
+        "subdivision_name": "Logatec",
+        "abbreviation": "064"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-167",
+        "subdivision_name": "Lovrenc na Pohorju",
+        "abbreviation": "167"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-065",
+        "subdivision_name": "Loška dolina",
+        "abbreviation": "065"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-066",
+        "subdivision_name": "Loški Potok",
+        "abbreviation": "066"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-068",
+        "subdivision_name": "Lukovica",
+        "abbreviation": "068"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-067",
+        "subdivision_name": "Luče",
+        "abbreviation": "067"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-069",
+        "subdivision_name": "Majšperk",
+        "abbreviation": "069"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-198",
+        "subdivision_name": "Makole",
+        "abbreviation": "198"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-070",
+        "subdivision_name": "Maribor",
+        "abbreviation": "070"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-168",
+        "subdivision_name": "Markovci",
+        "abbreviation": "168"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-071",
+        "subdivision_name": "Medvode",
+        "abbreviation": "071"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-072",
+        "subdivision_name": "Mengeš",
+        "abbreviation": "072"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-073",
+        "subdivision_name": "Metlika",
+        "abbreviation": "073"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-074",
+        "subdivision_name": "Mežica",
+        "abbreviation": "074"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-169",
+        "subdivision_name": "Miklavž na Dravskem polju",
+        "abbreviation": "169"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-075",
+        "subdivision_name": "Miren-Kostanjevica",
+        "abbreviation": "075"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-212",
+        "subdivision_name": "Mirna",
+        "abbreviation": "212"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-170",
+        "subdivision_name": "Mirna Peč",
+        "abbreviation": "170"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-076",
+        "subdivision_name": "Mislinja",
+        "abbreviation": "076"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-199",
+        "subdivision_name": "Mokronog-Trebelno",
+        "abbreviation": "199"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-078",
+        "subdivision_name": "Moravske Toplice",
+        "abbreviation": "078"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-077",
+        "subdivision_name": "Moravče",
+        "abbreviation": "077"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-079",
+        "subdivision_name": "Mozirje",
+        "abbreviation": "079"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-080",
+        "subdivision_name": "Murska Sobota",
+        "abbreviation": "080"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-081",
+        "subdivision_name": "Muta",
+        "abbreviation": "081"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-082",
+        "subdivision_name": "Naklo",
+        "abbreviation": "082"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-083",
+        "subdivision_name": "Nazarje",
+        "abbreviation": "083"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-084",
+        "subdivision_name": "Nova Gorica",
+        "abbreviation": "084"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-085",
+        "subdivision_name": "Novo Mesto",
+        "abbreviation": "085"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-086",
+        "subdivision_name": "Odranci",
+        "abbreviation": "086"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-171",
+        "subdivision_name": "Oplotnica",
+        "abbreviation": "171"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-087",
+        "subdivision_name": "Ormož",
+        "abbreviation": "087"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-088",
+        "subdivision_name": "Osilnica",
+        "abbreviation": "088"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-089",
+        "subdivision_name": "Pesnica",
+        "abbreviation": "089"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-090",
+        "subdivision_name": "Piran",
+        "abbreviation": "090"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-091",
+        "subdivision_name": "Pivka",
+        "abbreviation": "091"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-172",
+        "subdivision_name": "Podlehnik",
+        "abbreviation": "172"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-093",
+        "subdivision_name": "Podvelka",
+        "abbreviation": "093"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-092",
+        "subdivision_name": "Podčetrtek",
+        "abbreviation": "092"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-200",
+        "subdivision_name": "Poljčane",
+        "abbreviation": "200"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-173",
+        "subdivision_name": "Polzela",
+        "abbreviation": "173"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-094",
+        "subdivision_name": "Postojna",
+        "abbreviation": "094"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-174",
+        "subdivision_name": "Prebold",
+        "abbreviation": "174"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-095",
+        "subdivision_name": "Preddvor",
+        "abbreviation": "095"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-175",
+        "subdivision_name": "Prevalje",
+        "abbreviation": "175"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-096",
+        "subdivision_name": "Ptuj",
+        "abbreviation": "096"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-097",
+        "subdivision_name": "Puconci",
+        "abbreviation": "097"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-100",
+        "subdivision_name": "Radenci",
+        "abbreviation": "100"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-099",
+        "subdivision_name": "Radeče",
+        "abbreviation": "099"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-101",
+        "subdivision_name": "Radlje ob Dravi",
+        "abbreviation": "101"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-102",
+        "subdivision_name": "Radovljica",
+        "abbreviation": "102"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-103",
+        "subdivision_name": "Ravne na Koroškem",
+        "abbreviation": "103"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-176",
+        "subdivision_name": "Razkrižje",
+        "abbreviation": "176"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-098",
+        "subdivision_name": "Rače-Fram",
+        "abbreviation": "098"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-201",
+        "subdivision_name": "Renče-Vogrsko",
+        "abbreviation": "201"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-209",
+        "subdivision_name": "Rečica ob Savinji",
+        "abbreviation": "209"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-104",
+        "subdivision_name": "Ribnica",
+        "abbreviation": "104"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-177",
+        "subdivision_name": "Ribnica na Pohorju",
+        "abbreviation": "177"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-107",
+        "subdivision_name": "Rogatec",
+        "abbreviation": "107"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-106",
+        "subdivision_name": "Rogaška Slatina",
+        "abbreviation": "106"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-105",
+        "subdivision_name": "Rogašovci",
+        "abbreviation": "105"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-108",
+        "subdivision_name": "Ruše",
+        "abbreviation": "108"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-178",
+        "subdivision_name": "Selnica ob Dravi",
+        "abbreviation": "178"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-109",
+        "subdivision_name": "Semič",
+        "abbreviation": "109"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-110",
+        "subdivision_name": "Sevnica",
+        "abbreviation": "110"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-111",
+        "subdivision_name": "Sežana",
+        "abbreviation": "111"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-112",
+        "subdivision_name": "Slovenj Gradec",
+        "abbreviation": "112"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-113",
+        "subdivision_name": "Slovenska Bistrica",
+        "abbreviation": "113"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-114",
+        "subdivision_name": "Slovenske Konjice",
+        "abbreviation": "114"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-179",
+        "subdivision_name": "Sodražica",
+        "abbreviation": "179"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-180",
+        "subdivision_name": "Solčava",
+        "abbreviation": "180"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-202",
+        "subdivision_name": "Središče ob Dravi",
+        "abbreviation": "202"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-115",
+        "subdivision_name": "Starše",
+        "abbreviation": "115"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-203",
+        "subdivision_name": "Straža",
+        "abbreviation": "203"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-181",
+        "subdivision_name": "Sveta Ana",
+        "abbreviation": "181"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-204",
+        "subdivision_name": "Sveta Trojica v Slovenskih goricah",
+        "abbreviation": "204"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-182",
+        "subdivision_name": "Sveti Andraž v Slovenskih goricah",
+        "abbreviation": "182"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-116",
+        "subdivision_name": "Sveti Jurij ob Ščavnici",
+        "abbreviation": "116"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-210",
+        "subdivision_name": "Sveti Jurij v Slovenskih goricah",
+        "abbreviation": "210"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-205",
+        "subdivision_name": "Sveti Tomaž",
+        "abbreviation": "205"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-184",
+        "subdivision_name": "Tabor",
+        "abbreviation": "184"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-010",
+        "subdivision_name": "Tišina",
+        "abbreviation": "010"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-128",
+        "subdivision_name": "Tolmin",
+        "abbreviation": "128"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-129",
+        "subdivision_name": "Trbovlje",
+        "abbreviation": "129"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-130",
+        "subdivision_name": "Trebnje",
+        "abbreviation": "130"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-185",
+        "subdivision_name": "Trnovska Vas",
+        "abbreviation": "185"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-186",
+        "subdivision_name": "Trzin",
+        "abbreviation": "186"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-131",
+        "subdivision_name": "Tržič",
+        "abbreviation": "131"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-132",
+        "subdivision_name": "Turnišče",
+        "abbreviation": "132"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-133",
+        "subdivision_name": "Velenje",
+        "abbreviation": "133"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-187",
+        "subdivision_name": "Velika Polana",
+        "abbreviation": "187"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-134",
+        "subdivision_name": "Velike Lašče",
+        "abbreviation": "134"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-188",
+        "subdivision_name": "Veržej",
+        "abbreviation": "188"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-135",
+        "subdivision_name": "Videm",
+        "abbreviation": "135"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-136",
+        "subdivision_name": "Vipava",
+        "abbreviation": "136"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-137",
+        "subdivision_name": "Vitanje",
+        "abbreviation": "137"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-138",
+        "subdivision_name": "Vodice",
+        "abbreviation": "138"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-139",
+        "subdivision_name": "Vojnik",
+        "abbreviation": "139"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-189",
+        "subdivision_name": "Vransko",
+        "abbreviation": "189"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-140",
+        "subdivision_name": "Vrhnika",
+        "abbreviation": "140"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-141",
+        "subdivision_name": "Vuzenica",
+        "abbreviation": "141"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-142",
+        "subdivision_name": "Zagorje ob Savi",
+        "abbreviation": "142"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-143",
+        "subdivision_name": "Zavrč",
+        "abbreviation": "143"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-144",
+        "subdivision_name": "Zreče",
+        "abbreviation": "144"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-015",
+        "subdivision_name": "Črenšovci",
+        "abbreviation": "015"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-016",
+        "subdivision_name": "Črna na Koroškem",
+        "abbreviation": "016"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-017",
+        "subdivision_name": "Črnomelj",
+        "abbreviation": "017"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-033",
+        "subdivision_name": "Šalovci",
+        "abbreviation": "033"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-183",
+        "subdivision_name": "Šempeter-Vrtojba",
+        "abbreviation": "183"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-118",
+        "subdivision_name": "Šentilj",
+        "abbreviation": "118"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-119",
+        "subdivision_name": "Šentjernej",
+        "abbreviation": "119"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-120",
+        "subdivision_name": "Šentjur",
+        "abbreviation": "120"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-211",
+        "subdivision_name": "Šentrupert",
+        "abbreviation": "211"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-117",
+        "subdivision_name": "Šenčur",
+        "abbreviation": "117"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-121",
+        "subdivision_name": "Škocjan",
+        "abbreviation": "121"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-122",
+        "subdivision_name": "Škofja Loka",
+        "abbreviation": "122"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-123",
+        "subdivision_name": "Škofljica",
+        "abbreviation": "123"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-124",
+        "subdivision_name": "Šmarje pri Jelšah",
+        "abbreviation": "124"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-206",
+        "subdivision_name": "Šmarješke Toplice",
+        "abbreviation": "206"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-125",
+        "subdivision_name": "Šmartno ob Paki",
+        "abbreviation": "125"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-194",
+        "subdivision_name": "Šmartno pri Litiji",
+        "abbreviation": "194"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-126",
+        "subdivision_name": "Šoštanj",
+        "abbreviation": "126"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-127",
+        "subdivision_name": "Štore",
+        "abbreviation": "127"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-190",
+        "subdivision_name": "Žalec",
+        "abbreviation": "190"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-146",
+        "subdivision_name": "Železniki",
+        "abbreviation": "146"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-191",
+        "subdivision_name": "Žetale",
+        "abbreviation": "191"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-147",
+        "subdivision_name": "Žiri",
+        "abbreviation": "147"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-192",
+        "subdivision_name": "Žirovnica",
+        "abbreviation": "192"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "SI-193",
+        "subdivision_name": "Žužemberk",
+        "abbreviation": "193"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-AG",
+        "subdivision_name": "Aragac̣otn",
+        "abbreviation": "AG"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-AR",
+        "subdivision_name": "Ararat",
+        "abbreviation": "AR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-AV",
+        "subdivision_name": "Armavir",
+        "abbreviation": "AV"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "AM-ER",
+        "subdivision_name": "Erevan",
+        "abbreviation": "ER"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-GR",
+        "subdivision_name": "Geġark'unik'",
+        "abbreviation": "GR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-KT",
+        "subdivision_name": "Kotayk'",
+        "abbreviation": "KT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-LO",
+        "subdivision_name": "Loṙi",
+        "abbreviation": "LO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-SU",
+        "subdivision_name": "Syunik'",
+        "abbreviation": "SU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-TV",
+        "subdivision_name": "Tavuš",
+        "abbreviation": "TV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-VD",
+        "subdivision_name": "Vayoć Jor",
+        "abbreviation": "VD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "AM-SH",
+        "subdivision_name": "Širak",
+        "abbreviation": "SH"
+    }
+]

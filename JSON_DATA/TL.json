@@ -1,0 +1,158 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-AL",
+        "subdivision_name": "Aileu",
+        "abbreviation": "AL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-AL",
+        "subdivision_name": "Aileu",
+        "abbreviation": "AL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-AN",
+        "subdivision_name": "Ainaro",
+        "abbreviation": "AN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-AN",
+        "subdivision_name": "Ainaru",
+        "abbreviation": "AN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-BA",
+        "subdivision_name": "Baucau",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-BA",
+        "subdivision_name": "Baukau",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-BO",
+        "subdivision_name": "Bobonaro",
+        "abbreviation": "BO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-BO",
+        "subdivision_name": "Bobonaru",
+        "abbreviation": "BO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-CO",
+        "subdivision_name": "Cova Lima",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-DI",
+        "subdivision_name": "Díli",
+        "abbreviation": "DI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-DI",
+        "subdivision_name": "Díli",
+        "abbreviation": "DI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-ER",
+        "subdivision_name": "Ermera",
+        "abbreviation": "ER"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-ER",
+        "subdivision_name": "Ermera",
+        "abbreviation": "ER"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-CO",
+        "subdivision_name": "Kovalima",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-LA",
+        "subdivision_name": "Lautein",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-LA",
+        "subdivision_name": "Lautém",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-LI",
+        "subdivision_name": "Likisá",
+        "abbreviation": "LI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-LI",
+        "subdivision_name": "Liquiça",
+        "abbreviation": "LI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-MT",
+        "subdivision_name": "Manatuto",
+        "abbreviation": "MT"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-MT",
+        "subdivision_name": "Manatutu",
+        "abbreviation": "MT"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-MF",
+        "subdivision_name": "Manufahi",
+        "abbreviation": "MF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-MF",
+        "subdivision_name": "Manufahi",
+        "abbreviation": "MF"
+    },
+    {
+        "subdivision_category": "special administrative region",
+        "iso_3166_2_code": "TL-OE",
+        "subdivision_name": "Oekusi-Ambenu",
+        "abbreviation": "OE"
+    },
+    {
+        "subdivision_category": "special administrative region",
+        "iso_3166_2_code": "TL-OE",
+        "subdivision_name": "Oé-Cusse Ambeno",
+        "abbreviation": "OE"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-VI",
+        "subdivision_name": "Vikeke",
+        "abbreviation": "VI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "TL-VI",
+        "subdivision_name": "Viqueque",
+        "abbreviation": "VI"
+    }
+]

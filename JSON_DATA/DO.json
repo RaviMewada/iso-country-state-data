@@ -1,0 +1,254 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-02",
+        "subdivision_name": "Azua",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-03",
+        "subdivision_name": "Baoruco",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-04",
+        "subdivision_name": "Barahona",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-33",
+        "subdivision_name": "Cibao Nordeste",
+        "abbreviation": "33"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-34",
+        "subdivision_name": "Cibao Noroeste",
+        "abbreviation": "34"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-35",
+        "subdivision_name": "Cibao Norte",
+        "abbreviation": "35"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-36",
+        "subdivision_name": "Cibao Sur",
+        "abbreviation": "36"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-05",
+        "subdivision_name": "Dajabón",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "DO-01",
+        "subdivision_name": "Distrito Nacional (Santo Domingo)",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-06",
+        "subdivision_name": "Duarte",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-08",
+        "subdivision_name": "El Seibo",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-37",
+        "subdivision_name": "El Valle",
+        "abbreviation": "37"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-07",
+        "subdivision_name": "Elías Piña",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-38",
+        "subdivision_name": "Enriquillo",
+        "abbreviation": "38"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-09",
+        "subdivision_name": "Espaillat",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-30",
+        "subdivision_name": "Hato Mayor",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-19",
+        "subdivision_name": "Hermanas Mirabal",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-39",
+        "subdivision_name": "Higuamo",
+        "abbreviation": "39"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-10",
+        "subdivision_name": "Independencia",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-11",
+        "subdivision_name": "La Altagracia",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-12",
+        "subdivision_name": "La Romana",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-13",
+        "subdivision_name": "La Vega",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-14",
+        "subdivision_name": "María Trinidad Sánchez",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-28",
+        "subdivision_name": "Monseñor Nouel",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-15",
+        "subdivision_name": "Monte Cristi",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-29",
+        "subdivision_name": "Monte Plata",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-40",
+        "subdivision_name": "Ozama",
+        "abbreviation": "40"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-16",
+        "subdivision_name": "Pedernales",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-17",
+        "subdivision_name": "Peravia",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-18",
+        "subdivision_name": "Puerto Plata",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-20",
+        "subdivision_name": "Samaná",
+        "abbreviation": "20"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-21",
+        "subdivision_name": "San Cristóbal",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-31",
+        "subdivision_name": "San José de Ocoa",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-22",
+        "subdivision_name": "San Juan",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-23",
+        "subdivision_name": "San Pedro de Macorís",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-25",
+        "subdivision_name": "Santiago",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-26",
+        "subdivision_name": "Santiago Rodríguez",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-32",
+        "subdivision_name": "Santo Domingo",
+        "abbreviation": "32"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-24",
+        "subdivision_name": "Sánchez Ramírez",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-41",
+        "subdivision_name": "Valdesia",
+        "abbreviation": "41"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "DO-27",
+        "subdivision_name": "Valverde",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DO-42",
+        "subdivision_name": "Yuma",
+        "abbreviation": "42"
+    }
+]

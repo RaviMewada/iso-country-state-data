@@ -1,0 +1,32 @@
+[
+    {
+        "subdivision_category": "capital territory",
+        "iso_3166_2_code": "TJ-DU",
+        "subdivision_name": "Dushanbe",
+        "abbreviation": "DU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TJ-KT",
+        "subdivision_name": "Khatlon",
+        "abbreviation": "KT"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "TJ-GB",
+        "subdivision_name": "Kŭhistoni Badakhshon",
+        "abbreviation": "GB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TJ-SU",
+        "subdivision_name": "Sughd",
+        "abbreviation": "SU"
+    },
+    {
+        "subdivision_category": "districts under republic administration",
+        "iso_3166_2_code": "TJ-RA",
+        "subdivision_name": "nohiyahoi tobei jumhurí",
+        "abbreviation": "RA"
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-AB",
+        "subdivision_name": "Abia",
+        "abbreviation": "AB"
+    },
+    {
+        "subdivision_category": "capital territory",
+        "iso_3166_2_code": "NG-FC",
+        "subdivision_name": "Abuja Federal Capital Territory",
+        "abbreviation": "FC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-AD",
+        "subdivision_name": "Adamawa",
+        "abbreviation": "AD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-AK",
+        "subdivision_name": "Akwa Ibom",
+        "abbreviation": "AK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-AN",
+        "subdivision_name": "Anambra",
+        "abbreviation": "AN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-BA",
+        "subdivision_name": "Bauchi",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-BY",
+        "subdivision_name": "Bayelsa",
+        "abbreviation": "BY"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-BE",
+        "subdivision_name": "Benue",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-BO",
+        "subdivision_name": "Borno",
+        "abbreviation": "BO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-CR",
+        "subdivision_name": "Cross River",
+        "abbreviation": "CR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-DE",
+        "subdivision_name": "Delta",
+        "abbreviation": "DE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-EB",
+        "subdivision_name": "Ebonyi",
+        "abbreviation": "EB"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-ED",
+        "subdivision_name": "Edo",
+        "abbreviation": "ED"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-EK",
+        "subdivision_name": "Ekiti",
+        "abbreviation": "EK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-EN",
+        "subdivision_name": "Enugu",
+        "abbreviation": "EN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-GO",
+        "subdivision_name": "Gombe",
+        "abbreviation": "GO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-IM",
+        "subdivision_name": "Imo",
+        "abbreviation": "IM"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-JI",
+        "subdivision_name": "Jigawa",
+        "abbreviation": "JI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-KD",
+        "subdivision_name": "Kaduna",
+        "abbreviation": "KD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-KN",
+        "subdivision_name": "Kano",
+        "abbreviation": "KN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-KT",
+        "subdivision_name": "Katsina",
+        "abbreviation": "KT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-KE",
+        "subdivision_name": "Kebbi",
+        "abbreviation": "KE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-KO",
+        "subdivision_name": "Kogi",
+        "abbreviation": "KO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-KW",
+        "subdivision_name": "Kwara",
+        "abbreviation": "KW"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-LA",
+        "subdivision_name": "Lagos",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-NA",
+        "subdivision_name": "Nasarawa",
+        "abbreviation": "NA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-NI",
+        "subdivision_name": "Niger",
+        "abbreviation": "NI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-OG",
+        "subdivision_name": "Ogun",
+        "abbreviation": "OG"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-ON",
+        "subdivision_name": "Ondo",
+        "abbreviation": "ON"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-OS",
+        "subdivision_name": "Osun",
+        "abbreviation": "OS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-OY",
+        "subdivision_name": "Oyo",
+        "abbreviation": "OY"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-PL",
+        "subdivision_name": "Plateau",
+        "abbreviation": "PL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-RI",
+        "subdivision_name": "Rivers",
+        "abbreviation": "RI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-SO",
+        "subdivision_name": "Sokoto",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-TA",
+        "subdivision_name": "Taraba",
+        "abbreviation": "TA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-YO",
+        "subdivision_name": "Yobe",
+        "abbreviation": "YO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "NG-ZA",
+        "subdivision_name": "Zamfara",
+        "abbreviation": "ZA"
+    }
+]

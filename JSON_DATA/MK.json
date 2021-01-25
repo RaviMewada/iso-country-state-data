@@ -1,0 +1,482 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-801",
+        "subdivision_name": "Aerodrom †",
+        "abbreviation": "801"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-802",
+        "subdivision_name": "Aračinovo",
+        "abbreviation": "802"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-201",
+        "subdivision_name": "Berovo",
+        "abbreviation": "201"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-501",
+        "subdivision_name": "Bitola",
+        "abbreviation": "501"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-401",
+        "subdivision_name": "Bogdanci",
+        "abbreviation": "401"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-601",
+        "subdivision_name": "Bogovinje",
+        "abbreviation": "601"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-402",
+        "subdivision_name": "Bosilovo",
+        "abbreviation": "402"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-602",
+        "subdivision_name": "Brvenica",
+        "abbreviation": "602"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-803",
+        "subdivision_name": "Butel †",
+        "abbreviation": "803"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-313",
+        "subdivision_name": "Centar Župa",
+        "abbreviation": "313"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-814",
+        "subdivision_name": "Centar †",
+        "abbreviation": "814"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-303",
+        "subdivision_name": "Debar",
+        "abbreviation": "303"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-304",
+        "subdivision_name": "Debrca",
+        "abbreviation": "304"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-203",
+        "subdivision_name": "Delčevo",
+        "abbreviation": "203"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-502",
+        "subdivision_name": "Demir Hisar",
+        "abbreviation": "502"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-103",
+        "subdivision_name": "Demir Kapija",
+        "abbreviation": "103"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-406",
+        "subdivision_name": "Dojran",
+        "abbreviation": "406"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-503",
+        "subdivision_name": "Dolneni",
+        "abbreviation": "503"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-804",
+        "subdivision_name": "Gazi Baba †",
+        "abbreviation": "804"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-405",
+        "subdivision_name": "Gevgelija",
+        "abbreviation": "405"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-805",
+        "subdivision_name": "Gjorče Petrov †",
+        "abbreviation": "805"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-604",
+        "subdivision_name": "Gostivar",
+        "abbreviation": "604"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-102",
+        "subdivision_name": "Gradsko",
+        "abbreviation": "102"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-807",
+        "subdivision_name": "Ilinden",
+        "abbreviation": "807"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-606",
+        "subdivision_name": "Jegunovce",
+        "abbreviation": "606"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-205",
+        "subdivision_name": "Karbinci",
+        "abbreviation": "205"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-808",
+        "subdivision_name": "Karpoš †",
+        "abbreviation": "808"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-104",
+        "subdivision_name": "Kavadarci",
+        "abbreviation": "104"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-809",
+        "subdivision_name": "Kisela Voda †",
+        "abbreviation": "809"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-307",
+        "subdivision_name": "Kičevo",
+        "abbreviation": "307"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-407",
+        "subdivision_name": "Konče",
+        "abbreviation": "407"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-206",
+        "subdivision_name": "Kočani",
+        "abbreviation": "206"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-701",
+        "subdivision_name": "Kratovo",
+        "abbreviation": "701"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-702",
+        "subdivision_name": "Kriva Palanka",
+        "abbreviation": "702"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-504",
+        "subdivision_name": "Krivogaštani",
+        "abbreviation": "504"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-505",
+        "subdivision_name": "Kruševo",
+        "abbreviation": "505"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-703",
+        "subdivision_name": "Kumanovo",
+        "abbreviation": "703"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-704",
+        "subdivision_name": "Lipkovo",
+        "abbreviation": "704"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-105",
+        "subdivision_name": "Lozovo",
+        "abbreviation": "105"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-207",
+        "subdivision_name": "Makedonska Kamenica",
+        "abbreviation": "207"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-308",
+        "subdivision_name": "Makedonski Brod",
+        "abbreviation": "308"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-607",
+        "subdivision_name": "Mavrovo i Rostuše",
+        "abbreviation": "607"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-506",
+        "subdivision_name": "Mogila",
+        "abbreviation": "506"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-106",
+        "subdivision_name": "Negotino",
+        "abbreviation": "106"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-507",
+        "subdivision_name": "Novaci",
+        "abbreviation": "507"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-408",
+        "subdivision_name": "Novo Selo",
+        "abbreviation": "408"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-310",
+        "subdivision_name": "Ohrid",
+        "abbreviation": "310"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-208",
+        "subdivision_name": "Pehčevo",
+        "abbreviation": "208"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-810",
+        "subdivision_name": "Petrovec",
+        "abbreviation": "810"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-311",
+        "subdivision_name": "Plasnica",
+        "abbreviation": "311"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-508",
+        "subdivision_name": "Prilep",
+        "abbreviation": "508"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-209",
+        "subdivision_name": "Probištip",
+        "abbreviation": "209"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-409",
+        "subdivision_name": "Radoviš",
+        "abbreviation": "409"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-705",
+        "subdivision_name": "Rankovce",
+        "abbreviation": "705"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-509",
+        "subdivision_name": "Resen",
+        "abbreviation": "509"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-107",
+        "subdivision_name": "Rosoman",
+        "abbreviation": "107"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-811",
+        "subdivision_name": "Saraj †",
+        "abbreviation": "811"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-812",
+        "subdivision_name": "Sopište",
+        "abbreviation": "812"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-706",
+        "subdivision_name": "Staro Nagoričane",
+        "abbreviation": "706"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-312",
+        "subdivision_name": "Struga",
+        "abbreviation": "312"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-410",
+        "subdivision_name": "Strumica",
+        "abbreviation": "410"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-813",
+        "subdivision_name": "Studeničani",
+        "abbreviation": "813"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-108",
+        "subdivision_name": "Sveti Nikole",
+        "abbreviation": "108"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-608",
+        "subdivision_name": "Tearce",
+        "abbreviation": "608"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-609",
+        "subdivision_name": "Tetovo",
+        "abbreviation": "609"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-403",
+        "subdivision_name": "Valandovo",
+        "abbreviation": "403"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-404",
+        "subdivision_name": "Vasilevo",
+        "abbreviation": "404"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-101",
+        "subdivision_name": "Veles",
+        "abbreviation": "101"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-301",
+        "subdivision_name": "Vevčani",
+        "abbreviation": "301"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-202",
+        "subdivision_name": "Vinica",
+        "abbreviation": "202"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-603",
+        "subdivision_name": "Vrapčište",
+        "abbreviation": "603"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-806",
+        "subdivision_name": "Zelenikovo",
+        "abbreviation": "806"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-204",
+        "subdivision_name": "Zrnovci",
+        "abbreviation": "204"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-815",
+        "subdivision_name": "Čair †",
+        "abbreviation": "815"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-109",
+        "subdivision_name": "Čaška",
+        "abbreviation": "109"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-210",
+        "subdivision_name": "Češinovo-Obleševo",
+        "abbreviation": "210"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-816",
+        "subdivision_name": "Čučer-Sandevo",
+        "abbreviation": "816"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-211",
+        "subdivision_name": "Štip",
+        "abbreviation": "211"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-817",
+        "subdivision_name": "Šuto Orizari †",
+        "abbreviation": "817"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MK-605",
+        "subdivision_name": "Želino",
+        "abbreviation": "605"
+    }
+]

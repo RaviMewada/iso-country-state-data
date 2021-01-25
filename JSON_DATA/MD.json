@@ -1,0 +1,224 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-AN",
+        "subdivision_name": "Anenii Noi",
+        "abbreviation": "AN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-BS",
+        "subdivision_name": "Basarabeasca",
+        "abbreviation": "BS"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MD-BD",
+        "subdivision_name": "Bender [Tighina]",
+        "abbreviation": "BD"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-BR",
+        "subdivision_name": "Briceni",
+        "abbreviation": "BR"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MD-BA",
+        "subdivision_name": "Bălți",
+        "abbreviation": "BA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-CA",
+        "subdivision_name": "Cahul",
+        "abbreviation": "CA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-CT",
+        "subdivision_name": "Cantemir",
+        "abbreviation": "CT"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MD-CU",
+        "subdivision_name": "Chișinău",
+        "abbreviation": "CU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-CM",
+        "subdivision_name": "Cimișlia",
+        "abbreviation": "CM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-CR",
+        "subdivision_name": "Criuleni",
+        "abbreviation": "CR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-CL",
+        "subdivision_name": "Călărași",
+        "abbreviation": "CL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-CS",
+        "subdivision_name": "Căușeni",
+        "abbreviation": "CS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-DO",
+        "subdivision_name": "Dondușeni",
+        "abbreviation": "DO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-DR",
+        "subdivision_name": "Drochia",
+        "abbreviation": "DR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-DU",
+        "subdivision_name": "Dubăsari",
+        "abbreviation": "DU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-ED",
+        "subdivision_name": "Edineț",
+        "abbreviation": "ED"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-FL",
+        "subdivision_name": "Florești",
+        "abbreviation": "FL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-FA",
+        "subdivision_name": "Fălești",
+        "abbreviation": "FA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-GL",
+        "subdivision_name": "Glodeni",
+        "abbreviation": "GL"
+    },
+    {
+        "subdivision_category": "autonomous territorial unit",
+        "iso_3166_2_code": "MD-GA",
+        "subdivision_name": "Găgăuzia, Unitatea teritorială autonomă (UTAG)",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-HI",
+        "subdivision_name": "Hîncești",
+        "abbreviation": "HI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-IA",
+        "subdivision_name": "Ialoveni",
+        "abbreviation": "IA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-LE",
+        "subdivision_name": "Leova",
+        "abbreviation": "LE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-NI",
+        "subdivision_name": "Nisporeni",
+        "abbreviation": "NI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-OC",
+        "subdivision_name": "Ocnița",
+        "abbreviation": "OC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-OR",
+        "subdivision_name": "Orhei",
+        "abbreviation": "OR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-RE",
+        "subdivision_name": "Rezina",
+        "abbreviation": "RE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-RI",
+        "subdivision_name": "Rîșcani",
+        "abbreviation": "RI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-SO",
+        "subdivision_name": "Soroca",
+        "abbreviation": "SO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-ST",
+        "subdivision_name": "Strășeni",
+        "abbreviation": "ST"
+    },
+    {
+        "subdivision_category": "territorial unit",
+        "iso_3166_2_code": "MD-SN",
+        "subdivision_name": "Stînga Nistrului, unitatea teritorială din",
+        "abbreviation": "SN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-SI",
+        "subdivision_name": "Sîngerei",
+        "abbreviation": "SI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-TA",
+        "subdivision_name": "Taraclia",
+        "abbreviation": "TA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-TE",
+        "subdivision_name": "Telenești",
+        "abbreviation": "TE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-UN",
+        "subdivision_name": "Ungheni",
+        "abbreviation": "UN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-SD",
+        "subdivision_name": "Șoldănești",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MD-SV",
+        "subdivision_name": "Ștefan Vodă",
+        "abbreviation": "SV"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TM-A",
+        "subdivision_name": "Ahal",
+        "abbreviation": "A"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "TM-S",
+        "subdivision_name": "Aşgabat",
+        "abbreviation": "S"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TM-B",
+        "subdivision_name": "Balkan",
+        "abbreviation": "B"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TM-D",
+        "subdivision_name": "Daşoguz",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TM-L",
+        "subdivision_name": "Lebap",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TM-M",
+        "subdivision_name": "Mary",
+        "abbreviation": "M"
+    }
+]

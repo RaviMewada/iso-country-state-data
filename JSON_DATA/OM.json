@@ -1,0 +1,68 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-DA",
+        "subdivision_name": "Ad Dākhilīyah",
+        "abbreviation": "DA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-BU",
+        "subdivision_name": "Al Buraymī",
+        "abbreviation": "BU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-WU",
+        "subdivision_name": "Al Wusţá",
+        "abbreviation": "WU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-ZA",
+        "subdivision_name": "Az̧ Z̧āhirah",
+        "abbreviation": "ZA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-BJ",
+        "subdivision_name": "Janūb al Bāţinah",
+        "abbreviation": "BJ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-SJ",
+        "subdivision_name": "Janūb ash Sharqīyah",
+        "abbreviation": "SJ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-MA",
+        "subdivision_name": "Masqaţ",
+        "abbreviation": "MA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-MU",
+        "subdivision_name": "Musandam",
+        "abbreviation": "MU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-BS",
+        "subdivision_name": "Shamāl al Bāţinah",
+        "abbreviation": "BS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-SS",
+        "subdivision_name": "Shamāl ash Sharqīyah",
+        "abbreviation": "SS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "OM-ZU",
+        "subdivision_name": "Z̧ufār",
+        "abbreviation": "ZU"
+    }
+]

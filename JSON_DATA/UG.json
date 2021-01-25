@@ -1,0 +1,836 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-314",
+        "subdivision_name": "Abim",
+        "abbreviation": "314"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-301",
+        "subdivision_name": "Adjumani",
+        "abbreviation": "301"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-322",
+        "subdivision_name": "Agago",
+        "abbreviation": "322"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-323",
+        "subdivision_name": "Alebtong",
+        "abbreviation": "323"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-315",
+        "subdivision_name": "Amolatar",
+        "abbreviation": "315"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-324",
+        "subdivision_name": "Amudat",
+        "abbreviation": "324"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-216",
+        "subdivision_name": "Amuria",
+        "abbreviation": "216"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-316",
+        "subdivision_name": "Amuru",
+        "abbreviation": "316"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-302",
+        "subdivision_name": "Apac",
+        "abbreviation": "302"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-303",
+        "subdivision_name": "Arua",
+        "abbreviation": "303"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-217",
+        "subdivision_name": "Budaka",
+        "abbreviation": "217"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-218",
+        "subdivision_name": "Bududa",
+        "abbreviation": "218"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-201",
+        "subdivision_name": "Bugiri",
+        "abbreviation": "201"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-235",
+        "subdivision_name": "Bugweri",
+        "abbreviation": "235"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-420",
+        "subdivision_name": "Buhweju",
+        "abbreviation": "420"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-117",
+        "subdivision_name": "Buikwe",
+        "abbreviation": "117"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-219",
+        "subdivision_name": "Bukedea",
+        "abbreviation": "219"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-118",
+        "subdivision_name": "Bukomansibi",
+        "abbreviation": "118"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-220",
+        "subdivision_name": "Bukwo",
+        "abbreviation": "220"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-225",
+        "subdivision_name": "Bulambuli",
+        "abbreviation": "225"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-416",
+        "subdivision_name": "Buliisa",
+        "abbreviation": "416"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-401",
+        "subdivision_name": "Bundibugyo",
+        "abbreviation": "401"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-430",
+        "subdivision_name": "Bunyangabu",
+        "abbreviation": "430"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-402",
+        "subdivision_name": "Bushenyi",
+        "abbreviation": "402"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-202",
+        "subdivision_name": "Busia",
+        "abbreviation": "202"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-221",
+        "subdivision_name": "Butaleja",
+        "abbreviation": "221"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-119",
+        "subdivision_name": "Butambala",
+        "abbreviation": "119"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-233",
+        "subdivision_name": "Butebo",
+        "abbreviation": "233"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-120",
+        "subdivision_name": "Buvuma",
+        "abbreviation": "120"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-226",
+        "subdivision_name": "Buyende",
+        "abbreviation": "226"
+    },
+    {
+        "subdivision_category": "geographical region",
+        "iso_3166_2_code": "UG-C",
+        "subdivision_name": "Central",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-317",
+        "subdivision_name": "Dokolo",
+        "abbreviation": "317"
+    },
+    {
+        "subdivision_category": "geographical region",
+        "iso_3166_2_code": "UG-E",
+        "subdivision_name": "Eastern",
+        "abbreviation": "E"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-121",
+        "subdivision_name": "Gomba",
+        "abbreviation": "121"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-304",
+        "subdivision_name": "Gulu",
+        "abbreviation": "304"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-403",
+        "subdivision_name": "Hoima",
+        "abbreviation": "403"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-417",
+        "subdivision_name": "Ibanda",
+        "abbreviation": "417"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-203",
+        "subdivision_name": "Iganga",
+        "abbreviation": "203"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-418",
+        "subdivision_name": "Isingiro",
+        "abbreviation": "418"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-204",
+        "subdivision_name": "Jinja",
+        "abbreviation": "204"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-318",
+        "subdivision_name": "Kaabong",
+        "abbreviation": "318"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-404",
+        "subdivision_name": "Kabale",
+        "abbreviation": "404"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-405",
+        "subdivision_name": "Kabarole",
+        "abbreviation": "405"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-213",
+        "subdivision_name": "Kaberamaido",
+        "abbreviation": "213"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-427",
+        "subdivision_name": "Kagadi",
+        "abbreviation": "427"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-428",
+        "subdivision_name": "Kakumiro",
+        "abbreviation": "428"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-237",
+        "subdivision_name": "Kalaki",
+        "abbreviation": "237"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-101",
+        "subdivision_name": "Kalangala",
+        "abbreviation": "101"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-222",
+        "subdivision_name": "Kaliro",
+        "abbreviation": "222"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-122",
+        "subdivision_name": "Kalungu",
+        "abbreviation": "122"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "UG-102",
+        "subdivision_name": "Kampala",
+        "abbreviation": "102"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-205",
+        "subdivision_name": "Kamuli",
+        "abbreviation": "205"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-413",
+        "subdivision_name": "Kamwenge",
+        "abbreviation": "413"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-414",
+        "subdivision_name": "Kanungu",
+        "abbreviation": "414"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-206",
+        "subdivision_name": "Kapchorwa",
+        "abbreviation": "206"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-236",
+        "subdivision_name": "Kapelebyong",
+        "abbreviation": "236"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-335",
+        "subdivision_name": "Karenga",
+        "abbreviation": "335"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-126",
+        "subdivision_name": "Kasanda",
+        "abbreviation": "126"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-406",
+        "subdivision_name": "Kasese",
+        "abbreviation": "406"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-207",
+        "subdivision_name": "Katakwi",
+        "abbreviation": "207"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-112",
+        "subdivision_name": "Kayunga",
+        "abbreviation": "112"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-433",
+        "subdivision_name": "Kazo",
+        "abbreviation": "433"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-407",
+        "subdivision_name": "Kibaale",
+        "abbreviation": "407"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-103",
+        "subdivision_name": "Kiboga",
+        "abbreviation": "103"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-227",
+        "subdivision_name": "Kibuku",
+        "abbreviation": "227"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-432",
+        "subdivision_name": "Kikuube",
+        "abbreviation": "432"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-419",
+        "subdivision_name": "Kiruhura",
+        "abbreviation": "419"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-421",
+        "subdivision_name": "Kiryandongo",
+        "abbreviation": "421"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-408",
+        "subdivision_name": "Kisoro",
+        "abbreviation": "408"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-434",
+        "subdivision_name": "Kitagwenda",
+        "abbreviation": "434"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-305",
+        "subdivision_name": "Kitgum",
+        "abbreviation": "305"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-319",
+        "subdivision_name": "Koboko",
+        "abbreviation": "319"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-325",
+        "subdivision_name": "Kole",
+        "abbreviation": "325"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-306",
+        "subdivision_name": "Kotido",
+        "abbreviation": "306"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-208",
+        "subdivision_name": "Kumi",
+        "abbreviation": "208"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-333",
+        "subdivision_name": "Kwania",
+        "abbreviation": "333"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-228",
+        "subdivision_name": "Kween",
+        "abbreviation": "228"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-123",
+        "subdivision_name": "Kyankwanzi",
+        "abbreviation": "123"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-422",
+        "subdivision_name": "Kyegegwa",
+        "abbreviation": "422"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-415",
+        "subdivision_name": "Kyenjojo",
+        "abbreviation": "415"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-125",
+        "subdivision_name": "Kyotera",
+        "abbreviation": "125"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-326",
+        "subdivision_name": "Lamwo",
+        "abbreviation": "326"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-307",
+        "subdivision_name": "Lira",
+        "abbreviation": "307"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-229",
+        "subdivision_name": "Luuka",
+        "abbreviation": "229"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-104",
+        "subdivision_name": "Luwero",
+        "abbreviation": "104"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-124",
+        "subdivision_name": "Lwengo",
+        "abbreviation": "124"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-114",
+        "subdivision_name": "Lyantonde",
+        "abbreviation": "114"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-336",
+        "subdivision_name": "Madi-Okollo",
+        "abbreviation": "336"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-223",
+        "subdivision_name": "Manafwa",
+        "abbreviation": "223"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-320",
+        "subdivision_name": "Maracha",
+        "abbreviation": "320"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-105",
+        "subdivision_name": "Masaka",
+        "abbreviation": "105"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-409",
+        "subdivision_name": "Masindi",
+        "abbreviation": "409"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-214",
+        "subdivision_name": "Mayuge",
+        "abbreviation": "214"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-209",
+        "subdivision_name": "Mbale",
+        "abbreviation": "209"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-410",
+        "subdivision_name": "Mbarara",
+        "abbreviation": "410"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-423",
+        "subdivision_name": "Mitooma",
+        "abbreviation": "423"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-115",
+        "subdivision_name": "Mityana",
+        "abbreviation": "115"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-308",
+        "subdivision_name": "Moroto",
+        "abbreviation": "308"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-309",
+        "subdivision_name": "Moyo",
+        "abbreviation": "309"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-106",
+        "subdivision_name": "Mpigi",
+        "abbreviation": "106"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-107",
+        "subdivision_name": "Mubende",
+        "abbreviation": "107"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-108",
+        "subdivision_name": "Mukono",
+        "abbreviation": "108"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-334",
+        "subdivision_name": "Nabilatuk",
+        "abbreviation": "334"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-311",
+        "subdivision_name": "Nakapiripirit",
+        "abbreviation": "311"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-116",
+        "subdivision_name": "Nakaseke",
+        "abbreviation": "116"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-109",
+        "subdivision_name": "Nakasongola",
+        "abbreviation": "109"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-230",
+        "subdivision_name": "Namayingo",
+        "abbreviation": "230"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-234",
+        "subdivision_name": "Namisindwa",
+        "abbreviation": "234"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-224",
+        "subdivision_name": "Namutumba",
+        "abbreviation": "224"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-327",
+        "subdivision_name": "Napak",
+        "abbreviation": "327"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-310",
+        "subdivision_name": "Nebbi",
+        "abbreviation": "310"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-231",
+        "subdivision_name": "Ngora",
+        "abbreviation": "231"
+    },
+    {
+        "subdivision_category": "geographical region",
+        "iso_3166_2_code": "UG-N",
+        "subdivision_name": "Northern",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-424",
+        "subdivision_name": "Ntoroko",
+        "abbreviation": "424"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-411",
+        "subdivision_name": "Ntungamo",
+        "abbreviation": "411"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-328",
+        "subdivision_name": "Nwoya",
+        "abbreviation": "328"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-337",
+        "subdivision_name": "Obongi",
+        "abbreviation": "337"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-331",
+        "subdivision_name": "Omoro",
+        "abbreviation": "331"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-329",
+        "subdivision_name": "Otuke",
+        "abbreviation": "329"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-321",
+        "subdivision_name": "Oyam",
+        "abbreviation": "321"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-312",
+        "subdivision_name": "Pader",
+        "abbreviation": "312"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-332",
+        "subdivision_name": "Pakwach",
+        "abbreviation": "332"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-210",
+        "subdivision_name": "Pallisa",
+        "abbreviation": "210"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-110",
+        "subdivision_name": "Rakai",
+        "abbreviation": "110"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-429",
+        "subdivision_name": "Rubanda",
+        "abbreviation": "429"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-425",
+        "subdivision_name": "Rubirizi",
+        "abbreviation": "425"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-431",
+        "subdivision_name": "Rukiga",
+        "abbreviation": "431"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-412",
+        "subdivision_name": "Rukungiri",
+        "abbreviation": "412"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-435",
+        "subdivision_name": "Rwampara",
+        "abbreviation": "435"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-111",
+        "subdivision_name": "Sembabule",
+        "abbreviation": "111"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-232",
+        "subdivision_name": "Serere",
+        "abbreviation": "232"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-426",
+        "subdivision_name": "Sheema",
+        "abbreviation": "426"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-215",
+        "subdivision_name": "Sironko",
+        "abbreviation": "215"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-211",
+        "subdivision_name": "Soroti",
+        "abbreviation": "211"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-212",
+        "subdivision_name": "Tororo",
+        "abbreviation": "212"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-113",
+        "subdivision_name": "Wakiso",
+        "abbreviation": "113"
+    },
+    {
+        "subdivision_category": "geographical region",
+        "iso_3166_2_code": "UG-W",
+        "subdivision_name": "Western",
+        "abbreviation": "W"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-313",
+        "subdivision_name": "Yumbe",
+        "abbreviation": "313"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "UG-330",
+        "subdivision_name": "Zombo",
+        "abbreviation": "330"
+    }
+]

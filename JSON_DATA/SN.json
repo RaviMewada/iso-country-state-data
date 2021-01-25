@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-DK",
+        "subdivision_name": "Dakar",
+        "abbreviation": "DK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-DB",
+        "subdivision_name": "Diourbel",
+        "abbreviation": "DB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-FK",
+        "subdivision_name": "Fatick",
+        "abbreviation": "FK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-KA",
+        "subdivision_name": "Kaffrine",
+        "abbreviation": "KA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-KL",
+        "subdivision_name": "Kaolack",
+        "abbreviation": "KL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-KD",
+        "subdivision_name": "Kolda",
+        "abbreviation": "KD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-KE",
+        "subdivision_name": "Kédougou",
+        "abbreviation": "KE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-LG",
+        "subdivision_name": "Louga",
+        "abbreviation": "LG"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-MT",
+        "subdivision_name": "Matam",
+        "abbreviation": "MT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-SL",
+        "subdivision_name": "Saint-Louis",
+        "abbreviation": "SL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-SE",
+        "subdivision_name": "Sédhiou",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-TC",
+        "subdivision_name": "Tambacounda",
+        "abbreviation": "TC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-TH",
+        "subdivision_name": "Thiès",
+        "abbreviation": "TH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SN-ZG",
+        "subdivision_name": "Ziguinchor",
+        "abbreviation": "ZG"
+    }
+]

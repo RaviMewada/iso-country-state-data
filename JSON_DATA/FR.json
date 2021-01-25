@@ -1,0 +1,764 @@
+[
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-01",
+        "subdivision_name": "Ain",
+        "abbreviation": "01"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-02",
+        "subdivision_name": "Aisne",
+        "abbreviation": "02"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-03",
+        "subdivision_name": "Allier",
+        "abbreviation": "03"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-06",
+        "subdivision_name": "Alpes-Maritimes",
+        "abbreviation": "06"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-04",
+        "subdivision_name": "Alpes-de-Haute-Provence",
+        "abbreviation": "04"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-08",
+        "subdivision_name": "Ardennes",
+        "abbreviation": "08"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-07",
+        "subdivision_name": "Ardèche",
+        "abbreviation": "07"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-09",
+        "subdivision_name": "Ariège",
+        "abbreviation": "09"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-10",
+        "subdivision_name": "Aube",
+        "abbreviation": "10"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-11",
+        "subdivision_name": "Aude",
+        "abbreviation": "11"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-ARA",
+        "subdivision_name": "Auvergne-Rhône-Alpes",
+        "abbreviation": "ARA"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-12",
+        "subdivision_name": "Aveyron",
+        "abbreviation": "12"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-67",
+        "subdivision_name": "Bas-Rhin",
+        "abbreviation": "67"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-13",
+        "subdivision_name": "Bouches-du-Rhône",
+        "abbreviation": "13"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-BFC",
+        "subdivision_name": "Bourgogne-Franche-Comté",
+        "abbreviation": "BFC"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-BRE",
+        "subdivision_name": "Bretagne",
+        "abbreviation": "BRE"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-14",
+        "subdivision_name": "Calvados",
+        "abbreviation": "14"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-15",
+        "subdivision_name": "Cantal",
+        "abbreviation": "15"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-CVL",
+        "subdivision_name": "Centre-Val de Loire",
+        "abbreviation": "CVL"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-16",
+        "subdivision_name": "Charente",
+        "abbreviation": "16"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-17",
+        "subdivision_name": "Charente-Maritime",
+        "abbreviation": "17"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-18",
+        "subdivision_name": "Cher",
+        "abbreviation": "18"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "FR-CP",
+        "subdivision_name": "Clipperton",
+        "abbreviation": "CP"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-19",
+        "subdivision_name": "Corrèze",
+        "abbreviation": "19"
+    },
+    {
+        "subdivision_category": "metropolitan collectivity with special status",
+        "iso_3166_2_code": "FR-20R",
+        "subdivision_name": "Corse",
+        "abbreviation": "20R"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-2A",
+        "subdivision_name": "Corse-du-Sud",
+        "abbreviation": "2A"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-23",
+        "subdivision_name": "Creuse",
+        "abbreviation": "23"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-21",
+        "subdivision_name": "Côte-d'Or",
+        "abbreviation": "21"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-22",
+        "subdivision_name": "Côtes-d'Armor",
+        "abbreviation": "22"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-79",
+        "subdivision_name": "Deux-Sèvres",
+        "abbreviation": "79"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-24",
+        "subdivision_name": "Dordogne",
+        "abbreviation": "24"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-25",
+        "subdivision_name": "Doubs",
+        "abbreviation": "25"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-26",
+        "subdivision_name": "Drôme",
+        "abbreviation": "26"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-91",
+        "subdivision_name": "Essonne",
+        "abbreviation": "91"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-27",
+        "subdivision_name": "Eure",
+        "abbreviation": "27"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-28",
+        "subdivision_name": "Eure-et-Loir",
+        "abbreviation": "28"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-29",
+        "subdivision_name": "Finistère",
+        "abbreviation": "29"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-30",
+        "subdivision_name": "Gard",
+        "abbreviation": "30"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-32",
+        "subdivision_name": "Gers",
+        "abbreviation": "32"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-33",
+        "subdivision_name": "Gironde",
+        "abbreviation": "33"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-GES",
+        "subdivision_name": "Grand-Est",
+        "abbreviation": "GES"
+    },
+    {
+        "subdivision_category": "overseas department",
+        "iso_3166_2_code": "FR-971",
+        "subdivision_name": "Guadeloupe",
+        "abbreviation": "971"
+    },
+    {
+        "subdivision_category": "overseas region",
+        "iso_3166_2_code": "FR-GP",
+        "subdivision_name": "Guadeloupe (see also separate country code entry under GP)",
+        "abbreviation": "GP"
+    },
+    {
+        "subdivision_category": "overseas department",
+        "iso_3166_2_code": "FR-973",
+        "subdivision_name": "Guyane (française)",
+        "abbreviation": "973"
+    },
+    {
+        "subdivision_category": "overseas region",
+        "iso_3166_2_code": "FR-GF",
+        "subdivision_name": "Guyane (française) (see also separate country code entry under GF)",
+        "abbreviation": "GF"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-68",
+        "subdivision_name": "Haut-Rhin",
+        "abbreviation": "68"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-2B",
+        "subdivision_name": "Haute-Corse",
+        "abbreviation": "2B"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-31",
+        "subdivision_name": "Haute-Garonne",
+        "abbreviation": "31"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-43",
+        "subdivision_name": "Haute-Loire",
+        "abbreviation": "43"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-52",
+        "subdivision_name": "Haute-Marne",
+        "abbreviation": "52"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-74",
+        "subdivision_name": "Haute-Savoie",
+        "abbreviation": "74"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-70",
+        "subdivision_name": "Haute-Saône",
+        "abbreviation": "70"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-87",
+        "subdivision_name": "Haute-Vienne",
+        "abbreviation": "87"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-05",
+        "subdivision_name": "Hautes-Alpes",
+        "abbreviation": "05"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-65",
+        "subdivision_name": "Hautes-Pyrénées",
+        "abbreviation": "65"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-HDF",
+        "subdivision_name": "Hauts-de-France",
+        "abbreviation": "HDF"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-92",
+        "subdivision_name": "Hauts-de-Seine",
+        "abbreviation": "92"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-34",
+        "subdivision_name": "Hérault",
+        "abbreviation": "34"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-35",
+        "subdivision_name": "Ille-et-Vilaine",
+        "abbreviation": "35"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-36",
+        "subdivision_name": "Indre",
+        "abbreviation": "36"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-37",
+        "subdivision_name": "Indre-et-Loire",
+        "abbreviation": "37"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-38",
+        "subdivision_name": "Isère",
+        "abbreviation": "38"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-39",
+        "subdivision_name": "Jura",
+        "abbreviation": "39"
+    },
+    {
+        "subdivision_category": "overseas department",
+        "iso_3166_2_code": "FR-974",
+        "subdivision_name": "La Réunion",
+        "abbreviation": "974"
+    },
+    {
+        "subdivision_category": "overseas region",
+        "iso_3166_2_code": "FR-RE",
+        "subdivision_name": "La Réunion (see also separate country code entry under RE)",
+        "abbreviation": "RE"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-40",
+        "subdivision_name": "Landes",
+        "abbreviation": "40"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-41",
+        "subdivision_name": "Loir-et-Cher",
+        "abbreviation": "41"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-42",
+        "subdivision_name": "Loire",
+        "abbreviation": "42"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-44",
+        "subdivision_name": "Loire-Atlantique",
+        "abbreviation": "44"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-45",
+        "subdivision_name": "Loiret",
+        "abbreviation": "45"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-46",
+        "subdivision_name": "Lot",
+        "abbreviation": "46"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-47",
+        "subdivision_name": "Lot-et-Garonne",
+        "abbreviation": "47"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-48",
+        "subdivision_name": "Lozère",
+        "abbreviation": "48"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-49",
+        "subdivision_name": "Maine-et-Loire",
+        "abbreviation": "49"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-50",
+        "subdivision_name": "Manche",
+        "abbreviation": "50"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-51",
+        "subdivision_name": "Marne",
+        "abbreviation": "51"
+    },
+    {
+        "subdivision_category": "overseas department",
+        "iso_3166_2_code": "FR-972",
+        "subdivision_name": "Martinique",
+        "abbreviation": "972"
+    },
+    {
+        "subdivision_category": "overseas region",
+        "iso_3166_2_code": "FR-MQ",
+        "subdivision_name": "Martinique (see also separate country code entry under MQ)",
+        "abbreviation": "MQ"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-53",
+        "subdivision_name": "Mayenne",
+        "abbreviation": "53"
+    },
+    {
+        "subdivision_category": "overseas department",
+        "iso_3166_2_code": "FR-976",
+        "subdivision_name": "Mayotte",
+        "abbreviation": "976"
+    },
+    {
+        "subdivision_category": "overseas region",
+        "iso_3166_2_code": "FR-YT",
+        "subdivision_name": "Mayotte (see also separate country code entry under YT)",
+        "abbreviation": "YT"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-54",
+        "subdivision_name": "Meurthe-et-Moselle",
+        "abbreviation": "54"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-55",
+        "subdivision_name": "Meuse",
+        "abbreviation": "55"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-56",
+        "subdivision_name": "Morbihan",
+        "abbreviation": "56"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-57",
+        "subdivision_name": "Moselle",
+        "abbreviation": "57"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-58",
+        "subdivision_name": "Nièvre",
+        "abbreviation": "58"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-59",
+        "subdivision_name": "Nord",
+        "abbreviation": "59"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-NOR",
+        "subdivision_name": "Normandie",
+        "abbreviation": "NOR"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-NAQ",
+        "subdivision_name": "Nouvelle-Aquitaine",
+        "abbreviation": "NAQ"
+    },
+    {
+        "subdivision_category": "overseas collectivity with special status",
+        "iso_3166_2_code": "FR-NC",
+        "subdivision_name": "Nouvelle-Calédonie (see also separate country code entry under NC)",
+        "abbreviation": "NC"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-OCC",
+        "subdivision_name": "Occitanie",
+        "abbreviation": "OCC"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-60",
+        "subdivision_name": "Oise",
+        "abbreviation": "60"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-61",
+        "subdivision_name": "Orne",
+        "abbreviation": "61"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-75",
+        "subdivision_name": "Paris",
+        "abbreviation": "75"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-62",
+        "subdivision_name": "Pas-de-Calais",
+        "abbreviation": "62"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-PDL",
+        "subdivision_name": "Pays-de-la-Loire",
+        "abbreviation": "PDL"
+    },
+    {
+        "subdivision_category": "overseas collectivity",
+        "iso_3166_2_code": "FR-PF",
+        "subdivision_name": "Polynésie française (see also separate country code entry under PF)",
+        "abbreviation": "PF"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-PAC",
+        "subdivision_name": "Provence-Alpes-Côte-d’Azur",
+        "abbreviation": "PAC"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-63",
+        "subdivision_name": "Puy-de-Dôme",
+        "abbreviation": "63"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-64",
+        "subdivision_name": "Pyrénées-Atlantiques",
+        "abbreviation": "64"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-66",
+        "subdivision_name": "Pyrénées-Orientales",
+        "abbreviation": "66"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-69",
+        "subdivision_name": "Rhône",
+        "abbreviation": "69"
+    },
+    {
+        "subdivision_category": "overseas collectivity",
+        "iso_3166_2_code": "FR-BL",
+        "subdivision_name": "Saint-Barthélemy (see also separate country code entry under BL)",
+        "abbreviation": "BL"
+    },
+    {
+        "subdivision_category": "overseas collectivity",
+        "iso_3166_2_code": "FR-MF",
+        "subdivision_name": "Saint-Martin (see also separate country code entry under MF)",
+        "abbreviation": "MF"
+    },
+    {
+        "subdivision_category": "overseas collectivity",
+        "iso_3166_2_code": "FR-PM",
+        "subdivision_name": "Saint-Pierre-et-Miquelon (see also separate country code entry under PM)",
+        "abbreviation": "PM"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-72",
+        "subdivision_name": "Sarthe",
+        "abbreviation": "72"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-73",
+        "subdivision_name": "Savoie",
+        "abbreviation": "73"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-71",
+        "subdivision_name": "Saône-et-Loire",
+        "abbreviation": "71"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-76",
+        "subdivision_name": "Seine-Maritime",
+        "abbreviation": "76"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-93",
+        "subdivision_name": "Seine-Saint-Denis",
+        "abbreviation": "93"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-77",
+        "subdivision_name": "Seine-et-Marne",
+        "abbreviation": "77"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-80",
+        "subdivision_name": "Somme",
+        "abbreviation": "80"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-81",
+        "subdivision_name": "Tarn",
+        "abbreviation": "81"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-82",
+        "subdivision_name": "Tarn-et-Garonne",
+        "abbreviation": "82"
+    },
+    {
+        "subdivision_category": "overseas territory",
+        "iso_3166_2_code": "FR-TF",
+        "subdivision_name": "Terres australes françaises (see also separate country code entry under TF)",
+        "abbreviation": "TF"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-90",
+        "subdivision_name": "Territoire de Belfort",
+        "abbreviation": "90"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-95",
+        "subdivision_name": "Val-d'Oise",
+        "abbreviation": "95"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-94",
+        "subdivision_name": "Val-de-Marne",
+        "abbreviation": "94"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-83",
+        "subdivision_name": "Var",
+        "abbreviation": "83"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-84",
+        "subdivision_name": "Vaucluse",
+        "abbreviation": "84"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-85",
+        "subdivision_name": "Vendée",
+        "abbreviation": "85"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-86",
+        "subdivision_name": "Vienne",
+        "abbreviation": "86"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-88",
+        "subdivision_name": "Vosges",
+        "abbreviation": "88"
+    },
+    {
+        "subdivision_category": "overseas collectivity",
+        "iso_3166_2_code": "FR-WF",
+        "subdivision_name": "Wallis-et-Futuna (see also separate country code entry under WF)",
+        "abbreviation": "WF"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-89",
+        "subdivision_name": "Yonne",
+        "abbreviation": "89"
+    },
+    {
+        "subdivision_category": "metropolitan department",
+        "iso_3166_2_code": "FR-78",
+        "subdivision_name": "Yvelines",
+        "abbreviation": "78"
+    },
+    {
+        "subdivision_category": "metropolitan region",
+        "iso_3166_2_code": "FR-IDF",
+        "subdivision_name": "Île-de-France",
+        "abbreviation": "IDF"
+    }
+]

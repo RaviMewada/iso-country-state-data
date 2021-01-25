@@ -1,0 +1,122 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-AR",
+        "subdivision_name": "Artibonite",
+        "abbreviation": "AR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-CE",
+        "subdivision_name": "Centre",
+        "abbreviation": "CE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-GA",
+        "subdivision_name": "Grandans",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-GA",
+        "subdivision_name": "Grande’Anse",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-AR",
+        "subdivision_name": "Latibonit",
+        "abbreviation": "AR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-OU",
+        "subdivision_name": "Lwès",
+        "abbreviation": "OU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-NI",
+        "subdivision_name": "Nip",
+        "abbreviation": "NI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-NI",
+        "subdivision_name": "Nippes",
+        "abbreviation": "NI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-ND",
+        "subdivision_name": "Nord",
+        "abbreviation": "ND"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-NE",
+        "subdivision_name": "Nord-Est",
+        "abbreviation": "NE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-NO",
+        "subdivision_name": "Nord-Ouest",
+        "abbreviation": "NO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-ND",
+        "subdivision_name": "Nò",
+        "abbreviation": "ND"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-NO",
+        "subdivision_name": "Nòdwès",
+        "abbreviation": "NO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-NE",
+        "subdivision_name": "Nòdès",
+        "abbreviation": "NE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-OU",
+        "subdivision_name": "Ouest",
+        "abbreviation": "OU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-CE",
+        "subdivision_name": "Sant",
+        "abbreviation": "CE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-SD",
+        "subdivision_name": "Sid",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-SE",
+        "subdivision_name": "Sidès",
+        "abbreviation": "SE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-SD",
+        "subdivision_name": "Sud",
+        "abbreviation": "SD"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HT-SE",
+        "subdivision_name": "Sud-Est",
+        "abbreviation": "SE"
+    }
+]

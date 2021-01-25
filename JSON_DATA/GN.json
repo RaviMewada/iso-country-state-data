@@ -1,0 +1,248 @@
+[
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-BE",
+        "subdivision_name": "Beyla",
+        "abbreviation": "BE"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-BF",
+        "subdivision_name": "Boffa",
+        "abbreviation": "BF"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GN-B",
+        "subdivision_name": "Boké",
+        "abbreviation": "B"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-BK",
+        "subdivision_name": "Boké",
+        "abbreviation": "BK"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "GN-C",
+        "subdivision_name": "Conakry",
+        "abbreviation": "C"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-CO",
+        "subdivision_name": "Coyah",
+        "abbreviation": "CO"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-DB",
+        "subdivision_name": "Dabola",
+        "abbreviation": "DB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-DL",
+        "subdivision_name": "Dalaba",
+        "abbreviation": "DL"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-DI",
+        "subdivision_name": "Dinguiraye",
+        "abbreviation": "DI"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-DU",
+        "subdivision_name": "Dubréka",
+        "abbreviation": "DU"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GN-F",
+        "subdivision_name": "Faranah",
+        "abbreviation": "F"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-FA",
+        "subdivision_name": "Faranah",
+        "abbreviation": "FA"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-FO",
+        "subdivision_name": "Forécariah",
+        "abbreviation": "FO"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-FR",
+        "subdivision_name": "Fria",
+        "abbreviation": "FR"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-GA",
+        "subdivision_name": "Gaoual",
+        "abbreviation": "GA"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-GU",
+        "subdivision_name": "Guékédou",
+        "abbreviation": "GU"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GN-K",
+        "subdivision_name": "Kankan",
+        "abbreviation": "K"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-KA",
+        "subdivision_name": "Kankan",
+        "abbreviation": "KA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GN-D",
+        "subdivision_name": "Kindia",
+        "abbreviation": "D"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-KD",
+        "subdivision_name": "Kindia",
+        "abbreviation": "KD"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-KS",
+        "subdivision_name": "Kissidougou",
+        "abbreviation": "KS"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-KB",
+        "subdivision_name": "Koubia",
+        "abbreviation": "KB"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-KN",
+        "subdivision_name": "Koundara",
+        "abbreviation": "KN"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-KO",
+        "subdivision_name": "Kouroussa",
+        "abbreviation": "KO"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-KE",
+        "subdivision_name": "Kérouané",
+        "abbreviation": "KE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GN-L",
+        "subdivision_name": "Labé",
+        "abbreviation": "L"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-LA",
+        "subdivision_name": "Labé",
+        "abbreviation": "LA"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-LO",
+        "subdivision_name": "Lola",
+        "abbreviation": "LO"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-LE",
+        "subdivision_name": "Lélouma",
+        "abbreviation": "LE"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-MC",
+        "subdivision_name": "Macenta",
+        "abbreviation": "MC"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-ML",
+        "subdivision_name": "Mali",
+        "abbreviation": "ML"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GN-M",
+        "subdivision_name": "Mamou",
+        "abbreviation": "M"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-MM",
+        "subdivision_name": "Mamou",
+        "abbreviation": "MM"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-MD",
+        "subdivision_name": "Mandiana",
+        "abbreviation": "MD"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GN-N",
+        "subdivision_name": "Nzérékoré",
+        "abbreviation": "N"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-NZ",
+        "subdivision_name": "Nzérékoré",
+        "abbreviation": "NZ"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-PI",
+        "subdivision_name": "Pita",
+        "abbreviation": "PI"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-SI",
+        "subdivision_name": "Siguiri",
+        "abbreviation": "SI"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-TO",
+        "subdivision_name": "Tougué",
+        "abbreviation": "TO"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-TE",
+        "subdivision_name": "Télimélé",
+        "abbreviation": "TE"
+    },
+    {
+        "subdivision_category": "prefecture",
+        "iso_3166_2_code": "GN-YO",
+        "subdivision_name": "Yomou",
+        "abbreviation": "YO"
+    }
+]
